@@ -14,6 +14,13 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/9989/default.mpd
 
 --------------------------------------------------------
 
+--------------------ASTRO RIA B---------------------------
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/193_144.png" group-title="ASTRO", ASTRO RIA B
+http://50.7.234.10:8278/Ria-0/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=5f6516ffccb5907ca205b12bdc7ff6ef
+http://50.7.234.10:8278/Ria49/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=64ada2009698fe228eccf08c4bff2157
+http://50.7.234.10:8278/Ria_quanjia/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=a85951d75054cf9b117aa2f16107895e
+--------------------------------------------------------
+
 -------------------ASTRO PRIMA--------------------------
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"hBL0RP++NQzy7OBR+RUukA", "kid":"C2Uyau3j7b6B5vtAMX1TEA" } ], "type":"temporary" }
