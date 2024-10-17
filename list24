@@ -42,7 +42,7 @@ http://linearjitp02-playback.astro.com.my/dash-wv/linear/2700/default_primary.mp
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Q4+2LpcnhSZobZIRJjQ9Mg", "kid":"LzI4FCNIeJ7VqZuaG9jgEA" } ], "type":"temporary" }
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5128/default.mpd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5402/default.mpd
 ------------------------------------------------------------------
 
 ########################################################################PLUTOTV##################################################################################
