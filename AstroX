@@ -1,0 +1,46 @@
+#EXTM3U 
+#EXTM3U url-tvg="https://bit.ly/pondan-epg, https://azimabid00.github.io/epg/astro_epg.xml" refresh="1440" vod_library="https://mantop.worst.workers.dev/index.html , https://vod.pondan.workers.dev/dewanonton.json ,  https://www.dropbox.com/scl/fi/x5hwcfzcii5yzrmivqwjg/RKH-movie.txt?rlkey=43hqbafl9pvf7lbpppk6ubxxm&st=zsor4flu&dl=1 , https://fahmikacak.pages.dev/HBOGO%20Asia"
+##########################################################################################################################
+
+
+########################################################################ASTRO##################################################################################
+
+
+--------------------ASTRO RIA---------------------------
+#EXTINF:-1 tvg-id="AstroRia" group-title="ASTRO" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/39/Astro_Ria_HD.png",ASTRO RIA
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"N2sAl5bkrVDqj2jXlmdmkg", "kid":"P3Jv1cu/WURDek2/q0MbEA" } ], "type":"temporary" }
+http://linearjitp02-playback.astro.com.my/dash-wv/linear/1004/default_primary.mpd
+--------------------------------------------------------
+
+-------------------ASTRO PRIMA--------------------------
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"hBL0RP++NQzy7OBR+RUukA", "kid":"C2Uyau3j7b6B5vtAMX1TEA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="AstroPrima" tvg-name="ASTRO PRIMA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/df/Astro_Prima.png" group-title="ASTRO",ASTRO PRIMA HD
+http://linearjitp02-playback.astro.com.my/dash-wv/linear/1000/default_primary.mpd
+----------------------------------------------------------
+
+------------------ASTRO WARNA----------------------------
+#EXTINF:-1 tvg-id="AstroWarna" tvg-name="ASTRO WARNA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Astro_Warna_NEW.png" group-title="ASTRO",ASTRO WARNA HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2402
+http://linearjitp02-playback.astro.com.my/dash-wv/linear/2402/default_primary.mpd
+-----------------------------------------------------------
+
+-------------------ASTRO CITRA------------------------------------
+#EXTINF:-1 tvg-id="AstroCitra" tvg-name="ASTRO CITRA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1a/Astro_Citra_HD.png" group-title="ASTRO",ASTRO CITRA HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2700
+http://linearjitp02-playback.astro.com.my/dash-wv/linear/2700/default_primary.mpd
+------------------------------------------------------------------
+
+-------------------ASTRO PREMIER------------------------------------
+
+#EXTINF:-1 tvg-id="AstroPremier" tvg-name="ASTRO PREMIER HD" tvg-logo="https://i.ibb.co/wN4yrwX/Astro-Premier.png" group-title="ASTRO",ASTRO PREMIER HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Q4+2LpcnhSZobZIRJjQ9Mg", "kid":"LzI4FCNIeJ7VqZuaG9jgEA" } ], "type":"temporary" }
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5128/default.mpd
+------------------------------------------------------------------
