@@ -36,7 +36,7 @@ http://linearjitp02-playback.astro.com.my/dash-wv/linear/2700/default_primary.mp
 
 -------------------ASTRO PREMIER------------------------------------
 
-#EXTINF:-1 tvg-id="AstroPremier" ch-number="410" group-title="MALAYSIA" tvg-logo="https://i.ibb.co/wN4yrwX/Astro-Premier.png",410 Astro Premier
+#EXTINF:-1 tvg-id="AstroPremier" ch-number="410" group-title="ASTRO" tvg-logo="https://i.ibb.co/wN4yrwX/Astro-Premier.png",410 Astro Premier
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
