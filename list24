@@ -39,7 +39,7 @@ https://linears-playback.astro.com.my/vsg/41j1-c_4w-UgLoYDcSn-S6DKTMnhUS3c-mJnYU
 ------------------ASTRO WARNA----------------------------
 #EXTINF:-1 tvg-id="AstroWarna" tvg-name="ASTRO WARNA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Astro_Warna_NEW.png" group-title="ASTRO",ASTRO WARNA HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2402
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"CoDiDFaOiOU8cIfBxkkzGA", "kid":"qixlPwwFVnrig8SjJxqYEA" } ], "type":"temporary" }
 https://linears-playback.astro.com.my/vsg/415jLahnpX_zgzSFTh7_1acCwrBeC6JcA2o_ZAz17Q6rE=ibr-/dash-wv/jitp-dashisowm/2402/default.mpd
 -----------------------------------------------------------
 
