@@ -9,7 +9,7 @@
 --------------------ASTRO RIA---------------------------
 #EXTINF:-1 tvg-id="AstroRia" group-title="ASTRO" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/39/Astro_Ria_HD.png",ASTRO RIA
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"N2sAl5bkrVDqj2jXlmdmkg", "kid":"de761cd2-85aa-2b1c-1620-d16ddbade010" } ], "type":"temporary" } 
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed", "kid":"de761cd2-85aa-2b1c-1620-d16ddbade010" } ], "type":"temporary" } 
 https://linearjitp-playback.astro.com.my/dash-wv/linear/9989/default.mpd
 
 --------------------------------------------------------
