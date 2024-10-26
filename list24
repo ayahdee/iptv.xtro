@@ -152,73 +152,82 @@ https://newidco-rakutenviki-2-eu.rakuten.wurl.tv/playlist.m3u
 
 ###########################################################################SKY SPORTS################################################################################
 
-#EXTINF:-1 tvg-name="Sky Sports Football UK" tvg-logo="https://lo1.in/uk/skyspns.png" group-title="Sky Sport",Sky Sports Football UK
+#EXTINF:-1 tvg-name="Sky Sports Football UK" tvg-logo="https://lo1.in/uk/skyspns.png" group-title="SKY SPORTS",Sky Sports Football UK
 https://webhdrunns.mizhls.ru/lb/premium35/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTINF:-1 tvg-name="Sky Sports Arena UK" tvg-logo="https://lo1.in/uk/skyspns.png" group-title="Sky Sport",Sky Sports Arena UK
+
+#EXTINF:-1 tvg-name="Sky Sports Arena UK" tvg-logo="https://lo1.in/uk/skyspns.png" group-title="SKY SPORTS",Sky Sports Arena UK
 https://webhdrunns.mizhls.ru/lb/premium36/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTINF:-1 tvg-name="Sky Sports Action UK" tvg-logo="https://lo1.in/uk/skyspns.png" group-title="Sky Sport",Sky Sports Action UK
+
+#EXTINF:-1 tvg-name="Sky Sports Action UK" tvg-logo="https://lo1.in/uk/skyspns.png" group-title="SKY SPORTS",Sky Sports Action UK
 https://webhdrunns.mizhls.ru/lb/premium37/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTINF:-1 tvg-name="Sky Sports Main Event" tvg-logo="https://lo1.in/uk/skyspns.png" group-title="Sky Sport",Sky Sports Main Event
+
+#EXTINF:-1 tvg-name="Sky Sports Main Event" tvg-logo="https://lo1.in/uk/skyspns.png" group-title="SKY SPORTS",Sky Sports Main Event
 https://webhdrunns.mizhls.ru/lb/premium38/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTINF:-1 tvg-name="Sky sports Premier League" tvg-logo="https://lo1.in/uk/skyspns.png" group-title="Sky Sport",Sky sports Premier League
+
+#EXTINF:-1 tvg-name="Sky sports Premier League" tvg-logo="https://lo1.in/uk/skyspns.png" group-title="SKY SPORTS",Sky sports Premier League
 https://webhdrunns.mizhls.ru/lb/premium130/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTINF:-1 tvg-name="Sky Sports F1 UK" tvg-logo="https://lo1.in/uk/skyspns.png" group-title="Sky Sport",Sky Sports F1 UK
+
+#EXTINF:-1 tvg-name="Sky Sports F1 UK" tvg-logo="https://lo1.in/uk/skyspns.png" group-title="SKY SPORTS",Sky Sports F1 UK
 https://webhdrunns.mizhls.ru/lb/premium60/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTINF:-1 tvg-name="Sky Sports Cricket" tvg-logo="https://lo1.in/uk/skyspns.png" group-title="Sky Sport",Sky Sports Cricket
+
+#EXTINF:-1 tvg-name="Sky Sports Cricket" tvg-logo="https://lo1.in/uk/skyspns.png" group-title="SKY SPORTS",Sky Sports Cricket
 https://webhdrunns.mizhls.ru/lb/premium65/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTINF:-1 tvg-name="Sky Sports Golf UK" tvg-logo="https://lo1.in/uk/skyspns.png" group-title="Sky Sport",Sky Sports Golf UK
+
+#EXTINF:-1 tvg-name="Sky Sports Golf UK" tvg-logo="https://lo1.in/uk/skyspns.png" group-title="SKY SPORTS",Sky Sports Golf UK
 https://webhdrunns.mizhls.ru/lb/premium70/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTINF:-1 tvg-name="Sky Sports Golf Italy" tvg-logo="https://lo1.in/uk/skyspns.png" group-title="Sky Sport",Sky Sports Golf Italy
-https://webhdrunns.mizhls.ru/lb/premium574/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTINF:-1 tvg-name="Sky Sport MotoGP Italy" tvg-logo="https://lo1.in/uk/skyspns.png" group-title="Sky Sport",Sky Sport MotoGP Italy
-https://webhdrunns.mizhls.ru/lb/premium575/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTINF:-1 tvg-name="Sky Sport Tennis Italy" tvg-logo="https://lo1.in/uk/skyspns.png" group-title="Sky Sport",Sky Sport Tennis Italy
-https://webhdrunns.mizhls.ru/lb/premium576/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTINF:-1 tvg-name="Sky Sport F1 Italy" tvg-logo="https://lo1.in/uk/skyspns.png" group-title="Sky Sport",Sky Sport F1 Italy
-https://webhdrunns.mizhls.ru/lb/premium577/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTINF:-1 tvg-name="Sky Sports News UK" tvg-logo="https://lo1.in/uk/skyspns.png" group-title="Sky Sport",Sky Sports News UK
+
+#EXTINF:-1 tvg-name="Sky Sports News UK" tvg-logo="https://lo1.in/uk/skyspns.png" group-title="SKY SPORTS",Sky Sports News UK
 https://webhdrunns.mizhls.ru/lb/premium366/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTINF:-1 tvg-name="Sky Sports MIX UK" tvg-logo="https://lo1.in/uk/skyspns.png" group-title="Sky Sport",Sky Sports MIX UK
+
+#EXTINF:-1 tvg-name="Sky Sports MIX UK" tvg-logo="https://lo1.in/uk/skyspns.png" group-title="SKY SPORTS",Sky Sports MIX UK
 https://webhdrunns.mizhls.ru/lb/premium449/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTINF:-1 tvg-name="Sky Sport Top Event DE" tvg-logo="https://lo1.in/uk/skyspns.png" group-title="Sky Sport",Sky Sport Top Event DE
+
+#EXTINF:-1 tvg-name="Sky Sport Top Event DE" tvg-logo="https://lo1.in/uk/skyspns.png" group-title="SKY SPORTS",Sky Sport Top Event DE
 https://webhdrunns.mizhls.ru/lb/premium556/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTINF:-1 tvg-name="Sky Sport Mix DE" tvg-logo="https://lo1.in/uk/skyspns.png" group-title="Sky Sport",Sky Sport Mix DE
+
+#EXTINF:-1 tvg-name="Sky Sport Mix DE" tvg-logo="https://lo1.in/uk/skyspns.png" group-title="SKY SPORTS",Sky Sport Mix DE
 https://webhdrunns.mizhls.ru/lb/premium557/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTINF:-1 tvg-name="Sky Sport Bundesliga 1 HD" tvg-logo="https://lo1.in/uk/skyspns.png" group-title="Sky Sport",Sky Sport Bundesliga 1 HD
+
+#EXTINF:-1 tvg-name="Sky Sport Bundesliga 1 HD" tvg-logo="https://lo1.in/uk/skyspns.png" group-title="SKY SPORTS",Sky Sport Bundesliga 1 HD
 https://webhdrunns.mizhls.ru/lb/premium558/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTINF:-1 tvg-name="Sky Sport Austria 1 HD" tvg-logo="https://lo1.in/uk/skyspns.png" group-title="Sky Sport",Sky Sport Austria 1 HD
+
+#EXTINF:-1 tvg-name="Sky Sport Austria 1 HD" tvg-logo="https://lo1.in/uk/skyspns.png" group-title="SKY SPORTS",Sky Sport Austria 1 HD
 https://webhdrunns.mizhls.ru/lb/premium559/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTINF:-1 tvg-name="SportsNet New York (SNY)" tvg-logo="https://lo1.in/uk/skyspns.png" group-title="Sky Sport",SportsNet New York (SNY)
+
+#EXTINF:-1 tvg-name="SportsNet New York (SNY)" tvg-logo="https://lo1.in/uk/skyspns.png" group-title="SKY SPORTS",SportsNet New York (SNY)
 https://webhdrunns.mizhls.ru/lb/premium759/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTINF:-1 tvg-name="Sky Sport Football Italy" tvg-logo="https://lo1.in/uk/skyspns.png" group-title="Sky Sport",Sky Sport Football Italy
-https://webhdrunns.mizhls.ru/lb/premium460/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTINF:-1 tvg-name="Sky Sport UNO Italy" tvg-logo="https://lo1.in/uk/skyspns.png" group-title="Sky Sport",Sky Sport UNO Italy
-https://webhdrunns.mizhls.ru/lb/premium461/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTINF:-1 tvg-name="Sky Sport Arena Italy" tvg-logo="https://lo1.in/uk/skyspns.png" group-title="Sky Sport",Sky Sport Arena Italy
-https://webhdrunns.mizhls.ru/lb/premium462/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTINF:-1 tvg-name="Sky Sports Racing UK" tvg-logo="https://lo1.in/uk/skyspns.png" group-title="Sky Sport",Sky Sports Racing UK
+
+#EXTINF:-1 tvg-name="Sky Sports Racing UK" tvg-logo="https://lo1.in/uk/skyspns.png" group-title="SKY SPORTS",Sky Sports Racing UK
 https://webhdrunns.mizhls.ru/lb/premium554/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTINF:-1 tvg-name="Sky UNO Italy" tvg-logo="https://lo1.in/uk/skyspns.png" group-title="Sky Sport",Sky UNO Italy
-https://webhdrunns.mizhls.ru/lb/premium881/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTINF:-1 tvg-name="Sky Sport 1 NZ" tvg-logo="https://lo1.in/uk/skyspns.png" group-title="Sky Sport",Sky Sport 1 NZ
+
+#EXTINF:-1 tvg-name="Sky Sport 1 NZ" tvg-logo="https://lo1.in/uk/skyspns.png" group-title="SKY SPORTS",Sky Sport 1 NZ
 https://webhdrunns.mizhls.ru/lb/premium588/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTINF:-1 tvg-name="Sky Sport 2 NZ" tvg-logo="https://lo1.in/uk/skyspns.png" group-title="Sky Sport",Sky Sport 2 NZ
+
+#EXTINF:-1 tvg-name="Sky Sport 2 NZ" tvg-logo="https://lo1.in/uk/skyspns.png" group-title="SKY SPORTS",Sky Sport 2 NZ
 https://webhdrunns.mizhls.ru/lb/premium589/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTINF:-1 tvg-name="Sky Sport 3 NZ" tvg-logo="https://lo1.in/uk/skyspns.png" group-title="Sky Sport",Sky Sport 3 NZ
+
+#EXTINF:-1 tvg-name="Sky Sport 3 NZ" tvg-logo="https://lo1.in/uk/skyspns.png" group-title="SKY SPORTS",Sky Sport 3 NZ
 https://webhdrunns.mizhls.ru/lb/premium590/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTINF:-1 tvg-name="Sky Sport 4 NZ" tvg-logo="https://lo1.in/uk/skyspns.png" group-title="Sky Sport",Sky Sport 4 NZ
+
+#EXTINF:-1 tvg-name="Sky Sport 4 NZ" tvg-logo="https://lo1.in/uk/skyspns.png" group-title="SKY SPORTS",Sky Sport 4 NZ
 https://webhdrunns.mizhls.ru/lb/premium591/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTINF:-1 tvg-name="Sky Sport 5 NZ" tvg-logo="https://lo1.in/uk/skyspns.png" group-title="Sky Sport",Sky Sport 5 NZ
+
+#EXTINF:-1 tvg-name="Sky Sport 5 NZ" tvg-logo="https://lo1.in/uk/skyspns.png" group-title="SKY SPORTS",Sky Sport 5 NZ
 https://webhdrunns.mizhls.ru/lb/premium592/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTINF:-1 tvg-name="Sky Sport 6 NZ" tvg-logo="https://lo1.in/uk/skyspns.png" group-title="Sky Sport",Sky Sport 6 NZ
+
+#EXTINF:-1 tvg-name="Sky Sport 6 NZ" tvg-logo="https://lo1.in/uk/skyspns.png" group-title="SKY SPORTS",Sky Sport 6 NZ
 https://webhdrunns.mizhls.ru/lb/premium593/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTINF:-1 tvg-name="Sky Sport 7 NZ" tvg-logo="https://lo1.in/uk/skyspns.png" group-title="Sky Sport",Sky Sport 7 NZ
+
+#EXTINF:-1 tvg-name="Sky Sport 7 NZ" tvg-logo="https://lo1.in/uk/skyspns.png" group-title="SKY SPORTS",Sky Sport 7 NZ
 https://webhdrunns.mizhls.ru/lb/premium594/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTINF:-1 tvg-name="Sky Sport 8 NZ" tvg-logo="https://lo1.in/uk/skyspns.png" group-title="Sky Sport",Sky Sport 8 NZ
+
+#EXTINF:-1 tvg-name="Sky Sport 8 NZ" tvg-logo="https://lo1.in/uk/skyspns.png" group-title="SKY SPORTS",Sky Sport 8 NZ
 https://webhdrunns.mizhls.ru/lb/premium595/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTINF:-1 tvg-name="Sky Sport 9 NZ" tvg-logo="https://lo1.in/uk/skyspns.png" group-title="Sky Sport",Sky Sport 9 NZ
+
+#EXTINF:-1 tvg-name="Sky Sport 9 NZ" tvg-logo="https://lo1.in/uk/skyspns.png" group-title="SKY SPORTS",Sky Sport 9 NZ
 https://webhdrunns.mizhls.ru/lb/premium596/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTINF:-1 tvg-name="Sky Sport Select NZ" tvg-logo="https://lo1.in/uk/skyspns.png" group-title="Sky Sport",Sky Sport Select NZ
+
+#EXTINF:-1 tvg-name="Sky Sport Select NZ" tvg-logo="https://lo1.in/uk/skyspns.png" group-title="SKY SPORTS",Sky Sport Select NZ
 https://webhdrunns.mizhls.ru/lb/premium587/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
 
