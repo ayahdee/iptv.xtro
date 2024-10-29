@@ -1826,11 +1826,6 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #EXTINF:-1 tvg-id="" tvg-logo="https://a.jsrdn.com/hls/23077/bollywood-classic/logo_20220801_200458_68.png" group-title="MOVIES",BollywooD Classic 
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/manifest.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=OWM1ZGFlNWItNjNjZi0zZGVhLTkyN2YtYWRkYjFlMjM0MTVi
-#EXTINF:-1 tvg-id="128.unifi" ch-number="128" tvg-logo="http://playtv.unifi.com.my:7040/CPS/images/universal/film/logo/201907/20190716/20190716074123890vav.png" group-logo="" group-title="MOVIES",Dunia Sinema 
-https://web.hypp.tv:443/PLTV/88888888/224/3221227631/3221227631.mpd?rrsip=web.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=5P%2FZmSAoS0sKZqU8B1%2BiBfAH%2FCWEDunMQVe6YshALinWbxtSweywHsokgFXlPqWNNZiZ9DBsYeXE%2BUQw30D3rPHl2ogHz3eAyG2k7xToFQmJBU24%2BKwsNeA0VE3pRwoj%3A20240628111714%3AUTC%2C1005926113%2C118.100.197.192%2C20240628111714%2Curn:Huawei:liveTV:XTV100001461%2C1005926113%2C-1%2C0%2C1%2C%2C%2C2%2C595%2C%2C%2C2%2C1615850%2C0%2C521145%2C144796741%2C%2C%2C2%2C1%2CEND&GuardEncType=2&it=H4sIAAAAAAAAADWOwarCMBRE_ybL0JtnmnaRlQ9BkCpY3cptchuLaaNJFfx7rdbtzJzhjBENrf-1tAYa-Ucya-xCQou5kQ2WSlkQucoFS3SrghbMoPfd4KpgJ-y4X54g4xkXArhQrJ7uVh7dvKzufUNRww_bU3x0hrRNLX9g4uhcJIdjFwa-8_g8RD9PGNWzGigoZaGKfAFlwcYprTFd3g07Y1qG_oqR7Ca4D6Bb9InYFc0FHVXYkx7u3n-5bbRvmxdXXHkX9AAAAA&tenantId=6001
-
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
