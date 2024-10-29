@@ -1792,17 +1792,27 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2306/default_primary.mpd
 
 
 
-
-
-
-
-
-
-
-
 #########################################################MOVIES#######################################################################################################
 
+#EXTINF:-1 tvg-id="32" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/SonyPixV3.png" group-logo="" group-title="MOVIES",Sony Pix
+http://119.156.26.155:8000/play/a07d/index.m3u8
+#####http://opplex.tv:8080//live/83212539/43153928/66224.m3u8
 
+#EXTINF:-1 tvg-id="ts560" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/StarMovies.png" group-logo="" group-title="MOVIES",Star Movies
+http://119.156.26.155:8000/play/a06p/index.m3u8
+#####http://opplex.tv:8080//live/83212539/43153928/66213.m3u8
+
+#EXTINF:-1 tvg-id="593" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/StarMoviesSelect.png" group-logo="" group-title="MOVIES",Star Movies Select 
+http://119.156.26.155:8000/play/a06q/index.m3u8
+#####http://opplex.tv:8080//live/83212539/43153928/66315.m3u8
+
+#EXTINF:-1 tvg-id="ts506" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/&flix.png" group-logo="" group-title="MOVIES",&Flix
+http://119.156.26.155:8000/play/a06x/index.m3u8
+#####http://opplex.tv:8080//live/83212539/43153928/66236.m3u8
+
+#EXTINF:-1 tvg-id="ts530" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/%26priv%C3%A9.png" group-logo="" group-title="MOVIES",&Prive
+http://119.156.26.155:8000/play/a07j/index.m3u8
+#####http://opplex.tv:8080//live/83212539/43153928/66228.m3u8
 
 #EXTINF:-1 tvg-id="USBD2500012DH" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/EbonyByLionsgate.png" group-logo="" group-title="MOVIES",Ebony By Lionsgate
 https://d2ovuv4g3vka60.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ve0q4gx2q5590/playlist.m3u8
@@ -1821,6 +1831,9 @@ https://raw.githubusercontent.com/mystery75/m3u8/main/ION.m3u8
 
 #EXTINF:-1 tvg-id="USBC24000223S" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/IonMystery.png" group-logo="" group-logo="" group-title="MOVIES",ION Mystery
 https://raw.githubusercontent.com/mystery75/m3u8/main/IONMYSTERY.m3u8
+
+#EXTINF:-1 tvg-id="USBD300003LK" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/IonPlus.png" group-logo="" group-logo="" group-title="MOVIES",ion Plus
+https://raw.githubusercontent.com/mystery75/m3u8/main/IONPLUS.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://a.jsrdn.com/hls/23077/bollywood-hd-1/logo_20220801_201502_68.png"  group-title="MOVIES",BollywooD 
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8
