@@ -1,15 +1,15 @@
 #EXTM3U url-tvg="https://bit.ly/pondan-epg, 
-https://raw.githubusercontent.com/AqFad2811/epg/main/astro.xml,
-https://azimabid00.github.io/epg/astro_epg.xml, 
-https://raw.githubusercontent.com/azimabid00/epg/main/unifi_epg.xml,
-https://raw.githubusercontent.com/azimabid00/epg/main/astro_epg.xml,
-https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml,
-https://raw.githubusercontent.com/AqFad2811/epg/main/unifitv.xml,
-https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml,
-https://raw.githubusercontent.com/AqFad2811/epg/main/singapore.xml,
-https://raw.githubusercontent.com/AqFad2811/epg/main/rtmklik.xml,
-https://raw.githubusercontent.com/azimabid00/epg/main/unifi_epg.xml,
-https://s.id/epglink" refresh="5"
+https://raw.githubusercontent.com/azimabid00/epg/main/astro_epg.xml" refresh="5"
+//https://raw.githubusercontent.com/AqFad2811/epg/main/astro.xml,
+//https://azimabid00.github.io/epg/astro_epg.xml, 
+//https://raw.githubusercontent.com/azimabid00/epg/main/unifi_epg.xml,
+//https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml,
+//https://raw.githubusercontent.com/AqFad2811/epg/main/unifitv.xml,
+//https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml,
+//https://raw.githubusercontent.com/AqFad2811/epg/main/singapore.xml,
+//https://raw.githubusercontent.com/AqFad2811/epg/main/rtmklik.xml,
+//https://raw.githubusercontent.com/azimabid00/epg/main/unifi_epg.xml,
+//https://s.id/epglink" refresh="5"
 
 #EXTM3U vod_library="https://mantop.worst.workers.dev/index.html, 
 https://vod.pondan.workers.dev/dewanonton.json,
