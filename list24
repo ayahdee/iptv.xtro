@@ -317,6 +317,12 @@ https://webhdrunns.mizhls.ru/lb/premium587/index.m3u8|referer=https://lewblivehd
 
 ###########################################################################SPORTS################################################################################
 
+#EXTINF:-1 tvg-name="EuroSport 1 " tvg-logo="https://dnl.eurosport.com/sd/img/smart_banner/eurosport_logo_360.png" group-title="SPORTS",EuroSport 1 
+https://webhdrunns.mizhls.ru/lb/premium41/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+
+#EXTINF:-1 tvg-name="EuroSport 2 " tvg-logo="https://dnl.eurosport.com/sd/img/smart_banner/eurosport_logo_360.png" group-title="SPORTS",EuroSport 2 
+https://webhdrunns.mizhls.ru/lb/premium42/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-uk-us-uk.png" group-title="SPORTS",TNT Sports 1 UK
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
