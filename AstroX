@@ -33,8 +33,8 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/9989/default.mpd
 #EXTINF:-1 tvg-id="AstroCitra" tvg-name="ASTRO CITRA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1a/Astro_Citra_HD.png" group-title="ASTRO",ASTRO CITRA HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"8S3l8N6SxS+EFwXZ1kSdOg", "kid":"3nYc0oWqKxwWINFt263gEA" } ], "type":"temporary" }
-https://linearjitp-playback.astro.com.my/dash-wv/linear/9989/default.mpd
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"ZU8tJaW/snyeWuCFJYShZg", "kid":"hL+a1oSL59sg+dFoI97vEA" } ], "type":"temporary" }
+https://linears-playback.astro.com.my/vsg/41IgP7UozpqvubXIFoK8Y7zWbs16ciNdZfkqUwmk1C9UU=6AQ5/dash-wv/jitp-dashisowm/2700/default.mpd
 http://linearjitp02-playback.astro.com.my/dash-wv/linear/2700/default_primary.mpd
 ------------------------------------------------------------------
 
