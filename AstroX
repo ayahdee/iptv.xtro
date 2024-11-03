@@ -26,6 +26,7 @@ http://linearjitp02-playback.astro.com.my/dash-wv/linear/1000/default_primary.mp
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"8S3l8N6SxS+EFwXZ1kSdOg", "kid":"3nYc0oWqKxwWINFt263gEA" } ], "type":"temporary" }
 https://linearjitp-playback.astro.com.my/dash-wv/linear/9989/default.mpd
+http://linearjitp02-playback.astro.com.my/dash-wv/linear/2700/default_primary.mpd
 -----------------------------------------------------------
 
 -------------------ASTRO CITRA------------------------------------
