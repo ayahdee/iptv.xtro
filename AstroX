@@ -22,8 +22,10 @@ http://linearjitp02-playback.astro.com.my/dash-wv/linear/1000/default_primary.mp
 
 ------------------ASTRO WARNA----------------------------
 #EXTINF:-1 tvg-id="AstroWarna" tvg-name="ASTRO WARNA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Astro_Warna_NEW.png" group-title="ASTRO",ASTRO WARNA HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2402
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"8S3l8N6SxS+EFwXZ1kSdOg", "kid":"3nYc0oWqKxwWINFt263gEA" } ], "type":"temporary" }
+https://linearjitp-playback.astro.com.my/dash-wv/linear/9989/default.mpd
 http://linearjitp02-playback.astro.com.my/dash-wv/linear/2402/default_primary.mpd
 -----------------------------------------------------------
 
