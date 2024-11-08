@@ -142,5 +142,7 @@ https://d1yws6emo43ny.cloudfront.net/CH2/masterCH2.mpd
 #EXTINF:-1 tvg-id="AstroSupersport3" ch-number="813" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/543_144.png" group-title="SPORTS",Astro Grandstand II
 http://mohdtv.com:8880/ALLChannels900eb3564c07/13335145/1720
 
+#EXTINF:-1 tvg-id="AstroSupersport" tvg-name="Astro SuperSport HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/536_144.png" group-title="SPORTS",Astro Premier League
+http://mohdtv.com:8880/ALLChannels900eb3564c07/13335145/1722
 
 =======================================Arena Bola==Premier==Grandstand==BACKUP END===================================================
