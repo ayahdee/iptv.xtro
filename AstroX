@@ -27,6 +27,12 @@ http://50.7.234.10:8278/Ria-0/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&ts
 http://linearjitp02-playback.astro.com.my/dash-wv/linear/1000/default_primary.mpd
 ----------------------------------------------------------
 
+-------------------ASTRO PRIMA B--------------------------
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/3_144.png" group-title="ASTRO", ASTRO PRIMA II
+http://mohdtv.com:8880/ALLChannels900eb3564c07/13335145/1702
+http://50.7.234.10:8278/Prima-0/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=8d50adae071d1fc0e37af6bb7d69e895
+----------------------------------------------------------
+
 ------------------ASTRO WARNA----------------------------
 #EXTINF:-1 tvg-id="AstroWarna" tvg-name="ASTRO WARNA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Astro_Warna_NEW.png" group-title="ASTRO",ASTRO WARNA HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
