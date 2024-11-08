@@ -138,13 +138,13 @@ https://d1yws6emo43ny.cloudfront.net/CH2/masterCH2.mpd
 
 ============================================Arena Bola==Premier==Grandstand==BACKUP===================================================
 
-#EXTINF:-1 tvg-id="AstroSupersport3" ch-number="813" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/543_144.png" group-title="SPORTS",Astro Grandstand II
-http://mohdtv.com:8880/ALLChannels900eb3564c07/13335145/1720
+#EXTINF:-1 tvg-id="AstroSupersport3" ch-number="813" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/543_144.png" group-title="SPORTS",Astro Grandstand B
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/1364
 
-#EXTINF:-1 tvg-id="AstroSupersport" tvg-name="Astro SuperSport HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/536_144.png" group-title="SPORTS",Astro Premier League 1 II
-http://mohdtv.com:8880/ALLChannels900eb3564c07/13335145/1722
+#EXTINF:-1 tvg-id="AstroSupersport" tvg-name="Astro SuperSport HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/536_144.png" group-title="SPORTS",Astro Premier League B
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/1366
 
-#EXTINF:-1 tvg-id="AstroSupersport2" tvg-name="Astro SuperSport 2 HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/537_144.png" group-title="SPORTS",Astro Premier League 2 II
-http://mohdtv.com:8880/ALLChannels900eb3564c07/13335145/1721
+#EXTINF:-1 tvg-id="AstroSupersport2" tvg-name="Astro SuperSport 2 HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/537_144.png" group-title="SPORTS",Astro Premier League 2 B
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/1365
 
 =======================================Arena Bola==Premier==Grandstand==BACKUP END===================================================
