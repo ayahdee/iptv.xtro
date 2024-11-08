@@ -32,6 +32,11 @@ http://linearjitp02-playback.astro.com.my/dash-wv/linear/1000/default_primary.mp
 http://mohdtv.com:8880/ALLChannels900eb3564c07/13335145/1702
 ----------------------------------------------------------
 
+------------------ASTRO PRIMA C----------------------------
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/3_144.png" group-title="ASTRO", ASTRO PRIMA III
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/18627
+-----------------------------------------------------------
+
 ------------------ASTRO WARNA----------------------------
 #EXTINF:-1 tvg-id="AstroWarna" tvg-name="ASTRO WARNA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Astro_Warna_NEW.png" group-title="ASTRO",ASTRO WARNA HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
