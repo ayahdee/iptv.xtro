@@ -440,3 +440,12 @@ https://d277c08tzca9og.cloudfront.net/CH4/masterCH4.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Vb22tRR+w8CUUCJpWTeA1Q", "kid":"DwhdB2RNQTWRhi/UeqTGJg" } ], "type":"temporary" }
 https://d277c08tzca9og.cloudfront.net/CH4/masterCH4.mpd
+
+
+#EXTINF:-1 tvg-id="AstroRia" group-title="ASTRO" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/39/Astro_Ria_HD.png",ASTRO RIA TEST
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"Authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik1HWXdNRFptTWpndE1UVmlaQzAwTnpNMUxUbGlPR1l0TXpJNU4ySmlZamhrWXpOaSIsIndtb3BpZCI6MzIsImV4cCI6MTczMTg4MTkxOSwiaWF0IjoxNzMxMjc3OTE5fQ.9TMZB2ACZp7P3oqq7tkRxQbP5sq-8yMq9o-oMB5bSLk"}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"8S3l8N6SxS+EFwXZ1kSdOg", "kid":"3nYc0oWqKxwWINFt263gEA" } ], "type":"temporary" }
+https://linearjitp-playback.astro.com.my/dash-wv/linear/9989/default.mpd
