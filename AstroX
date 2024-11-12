@@ -431,3 +431,12 @@ https://d277c08tzca9og.cloudfront.net/CH4/masterCH4.mpd
 https://d277c08tzca9og.cloudfront.net/CH4/masterCH4.mpd
 
 #################################################RIA==PRIMA==WARNA==LIVE BROADCAST ONLY END##########################################################################
+
+#EXTINF:-1 tvg-id="AstroRia" group-title="ASTRO" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/39/Astro_Ria_HD.png",ASTRO RIA TEST *LIVE BROADCAST ONLY*
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
+#EXTHTTP:{"Authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik1HWXdNRFptTWpndE1UVmlaQzAwTnpNMUxUbGlPR1l0TXpJNU4ySmlZamhrWXpOaSIsIndtb3BpZCI6MzIsImV4cCI6MTczMTg4MTkxOSwiaWF0IjoxNzMxMjc3OTE5fQ.9TMZB2ACZp7P3oqq7tkRxQbP5sq-8yMq9o-oMB5bSLk"}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Vb22tRR+w8CUUCJpWTeA1Q", "kid":"DwhdB2RNQTWRhi/UeqTGJg" } ], "type":"temporary" }
+https://d277c08tzca9og.cloudfront.net/CH4/masterCH4.mpd
