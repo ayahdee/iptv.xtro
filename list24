@@ -87,7 +87,7 @@ https://d1yws6emo43ny.cloudfront.net/CH2/masterCH2.mpd
 
 ============================================Arena Bola==Premier==Grandstand==BACKUP===================================================
 
-#EXTINF:-1 tvg-id="AstroSupersport3" ch-number="813" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/543_144.png" group-title="SPORTS",Astro Grandstand II
+#EXTINF:-1 tvg-id="AstroSupersport3" ch-number="813" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/543_144.png" group-logo="https://iili.io/2Agidua.png" group-title="SPORTS",Astro Grandstand II
 http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/1364
 http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/18621
 http://opplex.tv:8080/1525939/1552699/352089
@@ -450,7 +450,7 @@ https://webhdrunns.mizhls.ru/lb/premium587/index.m3u8|referer=https://lewblivehd
 
 ###########################################################################SPORTS################################################################################
 
-#EXTINF:-1 tvg-name="EuroSport 1 " tvg-logo="https://dnl.eurosport.com/sd/img/smart_banner/eurosport_logo_360.png" group-title="SPORTS",EuroSport 1 
+#EXTINF:-1 tvg-name="EuroSport 1 " tvg-logo="https://dnl.eurosport.com/sd/img/smart_banner/eurosport_logo_360.png"  group-title="SPORTS",EuroSport 1 
 https://webhdrunns.mizhls.ru/lb/premium41/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
 #EXTINF:-1 tvg-name="EuroSport 2 " tvg-logo="https://dnl.eurosport.com/sd/img/smart_banner/eurosport_logo_360.png" group-title="SPORTS",EuroSport 2 
