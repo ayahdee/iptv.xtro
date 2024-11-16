@@ -109,7 +109,7 @@ http://opplex.tv:8080/1525939/1552699/352088
 
 
 --------------------ASTRO RIA---------------------------
-#EXTINF:-1 tvg-id="AstroRia" group-logo="https://iili.io/2AgJPDB.png" group-title="ASTRO" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/39/Astro_Ria_HD.png",ASTRO RIA
+#EXTINF:-1 tvg-id="AstroRia" group-logo="https://iili.io/2AgUl8G.png" group-title="ASTRO" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/39/Astro_Ria_HD.png",ASTRO RIA
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"8S3l8N6SxS+EFwXZ1kSdOg", "kid":"3nYc0oWqKxwWINFt263gEA" } ], "type":"temporary" }
