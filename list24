@@ -1098,7 +1098,7 @@ https://tglmp04.akamaized.net/out/v1/421a3cd3bdcd492f8f4b5efb2363ed2c/manifest.m
 ###############################################################MALAYSIA######################################################################################################################
 
 
-#EXTINF:-1 tvg-id="TV1" tvg-name="TV1 HD" group-title="MALAYSIA" group-logo="https://iili.io/2AgJPDB.png" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV1_v1.png", 101 TV1 (server 1)
+#EXTINF:-1 tvg-id="TV1" tvg-name="TV1 HD" group-title="MALAYSIA" group-logo="https://iili.io/2AisXMg.png" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV1_v1.png", 101 TV1 (server 1)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/711/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
