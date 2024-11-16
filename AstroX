@@ -236,7 +236,7 @@
 ===============================================ARENA BOLA==PREMIER==GRANDSTAND========================================================================================
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTHTTP:{"authorization":https://raw.githubusercontent.com/ayahdee/iptv.xtro/refs/heads/main/Sports%20Bearer
+#EXTHTTP:{"authorization":https://raw.githubusercontent.com/ayahdee/iptv.xtro/refs/heads/main/Sports%20Bearer}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"4dQox/HKgjOabPodB1dCjg", "kid":"dIHT43OMRnaPE44gj+6Qdg" } ], "type":"temporary" }
