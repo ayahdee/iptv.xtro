@@ -2107,6 +2107,50 @@ https://tglmp01.akamaized.net/out/v1/acd34a6d1e2540f888793461457b77e1/manifest.m
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2306/default_primary.mpd
 
 
+############################################################# THAILAND ###########################################################
+
+#EXTINF:-1 tvg-id="ThaiPBS3.th" group-title="THAILAND" group-logo="https://iili.io/2AgJPDB.png" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/5/5a/Thai_PBS_logo.png", Thai PBS
+https://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
+http://thaipbs-live.cdn.byteark.com/live/playlist_720p/index.m3u8
+https://cdn6.goprimetime.info/feed/202205171929/chthaipbs3/index.m3u8
+
+#EXTINF:-1 tvg-id="ALTV.th" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/ALTV_Logo.png/150px-ALTV_Logo.png" group-title="THAILAND", Altv 4 HD
+https://thaipbs-ujxrch.cdn.byteark.com/live/playlist_720p/index.m3u8
+
+#EXTINF:-1 tvg-id="ALTV.th" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/ALTV_Logo.png/150px-ALTV_Logo.png" group-title="THAILAND", Altv 4 SD
+https://thaipbs-ujxrch.cdn.byteark.com/live/playlist_720p/index.m3u8
+
+#EXTINF:-1 tvg-id="CHN" tvg-logo="https://pbs.twimg.com/profile_images/616532058718892032/SmjrJwro_400x400.jpg" group-title="THAILAND", Attv
+http://49.0.87.24:1936/HDAttv/Attv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CHN" tvg-logo="https://i0.wp.com/www.siamnewsnetwork.net/wp-content/uploads/2018/05/siamnews-bw-helv-square.png" group-title="THAILAND", Siam News
+https://live1.thaitvstream.com/play/siamnewstv/index.m3u8
+
+#EXTINF:-1 tvg-id="CHN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/TNA_logo.svg/1200px-TNA_logo.svg.png" group-title="THAILAND", Thai News
+https://live.thaitvstream.com/play/thainews/index.m3u8
+
+#EXTINF:-1 tvg-id="CHN" tvg-logo="https://i.pinimg.com/736x/1a/ee/fd/1aeefd2da3dae54a178aa016d3d3ad42.jpg" group-title="THAILAND", Top News
+https://live.topnews.co.th/hls/topnews_720.m3u8
+
+#EXTINF:-1 tvg-id="CHN" tvg-logo="https://photos.live-tv-channels.org/tv-logo/white-channel-9194.webp" group-title="THAILAND", White Channel 28
+http://symc-cdn.violin.co.th:1935/tndedge/whitechannel/chunklist.m3u8
+
+EXTINF:-1 tvg-id="ALTV.th" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/ALTV_Logo.png/150px-ALTV_Logo.png" group-title="THAILAND",Altv 4 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://cdn6.goprimetime.info/feed/202205171929/ALTV/index.m3u8
+
+#EXTINF:-1 tvg-id="CHN" tvg-logo="https://thaitvstream.com/streaming/mounchontv/mounchontv.png" group-title="THAILAND", Mounchon
+https://live2.thaitvstream.com/play/mounchontv/index.m3u8
+
+
+#EXTINF:-1 tvg-id="Mangorn" tvg-name="Mangorn" group-title="THAILAND" tvg-logo="https://cms.dmpcdn.com/livetv/2019/04/11/19b4bd2a-750c-4ee6-9d41-5080e1310bc3_320.png",Mangorn
+http://49.0.87.24:1936/HDDragon/Dragon/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="CH7 HD" tvg-language="Thai" tvg-logo="https://i.imgur.com/DcrHenu.png" tvg-country="TH" tvg-url="https://www.ch7.com" group-title="THAILAND",CH7 HD
+http://streaming-hwc.ch7.com/livech7hd/HD_1080p.m3u8
+
+########################################################################## THAILAND END #######################################################################
+
 
 #########################################################MOVIES#######################################################################################################
 
