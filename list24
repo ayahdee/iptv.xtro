@@ -143,22 +143,19 @@ https://tinyurl.com/123PRIMA
 -------------------ASTRO PRIMA B--------------------------
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/3_144.png" group-title="ASTRO", ASTRO PRIMA II
 http://opplex.tv:8080/live/1525939/1552699/352084.ts
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/18627
 http://50.7.234.10:8278/Prima-0/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=8d50adae071d1fc0e37af6bb7d69e895
 ----------------------------------------------------------
 
-------------------ASTRO PRIMA C----------------------------
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/3_144.png" group-title="ASTRO", ASTRO PRIMA III
-http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/18627
------------------------------------------------------------
-
-
 ------------------ASTRO WARNA-----------------------------
 
-#EXTINF:-1 tvg-id="AstroWarna" tvg-name="ASTRO WARNA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Astro_Warna_NEW.png" group-title="ASTRO",ASTRO WARNA HD
+#EXTINF:-1 tvg-id="Astro Warna" ch-number="107" group-title="ASTRO" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png",ASTRO WARNA HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=aa2c653f0c05567ae283c4a3271a9810:0a80e20c568e88e53c7087c1c6493318
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://linears-playback.astro.com.my/vsg/417o7Ord7m4qDPRaWPtGn2uoH7C2qws1HLF3bmxsHVCTE=B2pn/dash-wv/jitp-linearwm/2402/default_primary.mpd
+http://d1w72er2qn2fg9.cloudfront.net/warna.mpd
+https://go.munzstore.xyz/shawarma.mpd
+https://tinyurl.com/yckjtuhf
+https://tinyurl.com/123WARNA
 
 -----------------------------------------------------------
 
