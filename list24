@@ -305,7 +305,7 @@ https://newidco-rakutenviki-2-eu.rakuten.wurl.tv/playlist.m3u
 
 ###########################################################################SKY CINEMA################################################################################
 
-#EXTINF:-1 tvg-name="Sky Cinema Premiere UK" tvg-logo="https://dm8eklel4s62k.cloudfront.net/images/sky/small/sky_cinema_on_dark.png" group-logo="https://iili.io/2AgJPDB.png" group-title="SKY CINEMA",Sky Cinema Premiere UK
+#EXTINF:-1 tvg-name="Sky Cinema Premiere UK" tvg-logo="https://dm8eklel4s62k.cloudfront.net/images/sky/small/sky_cinema_on_dark.png" group-logo="https://iili.io/2APTUeR.png" group-title="SKY CINEMA",Sky Cinema Premiere UK
 https://webhdrus.onlinehdhls.ru/lb/premium671/index.m3u8|referer=https://weblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
 #EXTINF:-1 tvg-name="Sky Cinema Select UK" tvg-logo="https://dm8eklel4s62k.cloudfront.net/images/sky/small/sky_cinema_on_dark.png" group-title="SKY CINEMA",Sky Cinema Select UK
