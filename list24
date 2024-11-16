@@ -2110,7 +2110,7 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2306/default_primary.mpd
 
 #########################################################MOVIES#######################################################################################################
 
-#EXTINF:-1 tvg-id="32" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/SonyPixV3.png" group-logo="https://iili.io/2AgJPDB.png" group-title="MOVIES",Sony Pix
+#EXTINF:-1 tvg-id="32" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/SonyPixV3.png" group-logo="https://iili.io/2AgXmOX.png" group-title="MOVIES",Sony Pix
 http://119.156.26.155:8000/play/a07d/index.m3u8
 #####http://opplex.tv:8080//live/83212539/43153928/66224.m3u8
 
