@@ -109,7 +109,7 @@ http://opplex.tv:8080/1525939/1552699/352088
 
 
 --------------------ASTRO RIA---------------------------
-#EXTINF:-1 tvg-id="AstroRia" group-title="ASTRO" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/39/Astro_Ria_HD.png",ASTRO RIA
+#EXTINF:-1 tvg-id="AstroRia" group-logo="https://iili.io/2AgJPDB.png" group-title="ASTRO" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/39/Astro_Ria_HD.png",ASTRO RIA
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"8S3l8N6SxS+EFwXZ1kSdOg", "kid":"3nYc0oWqKxwWINFt263gEA" } ], "type":"temporary" }
@@ -225,7 +225,7 @@ https://d277c08tzca9og.cloudfront.net/CH4/masterCH4.mpd
 
 
 
-#EXTINF:0 tvg-id="fear-factor" tvg-logo="http://images.pluto.tv/channels/588128d17d64bc0d0f385c34/colorLogoPNG.png" group-title="PLUTOTV", Fear Factor
+#EXTINF:0 tvg-id="fear-factor" tvg-logo="http://images.pluto.tv/channels/588128d17d64bc0d0f385c34/colorLogoPNG.png" group-logo="https://iili.io/2AgJPDB.png" group-title="PLUTOTV", Fear Factor
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/588128d17d64bc0d0f385c34/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=c7e10390-77f8-11ec-8df7-e1b1a799e6b3&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=850dbb9a-c0a2-4802-b5ef-751b92aa3648&userId=&serverSideAds=true
 
 #EXTINF:0 tvg-id="pluto-tv-cult-films" tvg-logo="http://images.pluto.tv/channels/5c665db3e6c01b72c4977bc2/colorLogoPNG.png" group-title="PLUTOTV", Pluto TV Cult Films
@@ -275,7 +275,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f4d863b98b41000076cd0
 ########################################################################RAKUTEN##################################################################################
 
 
-#EXTINF:-1 tvg-id="Action.Movies.-.Rakuten.TV.en" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork_negative/0511ea59-1994-43e7-805b-f1e40b5ddb91-action-movies-rakuten-tv-1646655463-width190-quality100.png" group-logo=""  group-title="RAKUTEN.TV",Rakuten Action ᴴᴰ  
+#EXTINF:-1 tvg-id="Action.Movies.-.Rakuten.TV.en" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork_negative/0511ea59-1994-43e7-805b-f1e40b5ddb91-action-movies-rakuten-tv-1646655463-width190-quality100.png" group-logo="https://iili.io/2AgJPDB.png"  group-title="RAKUTEN.TV",Rakuten Action ᴴᴰ  
 https://rakuten-actionmovies-1-eu.rakuten.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="British.Films.-.Rakuten.TV.en" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork-negative/4ae1c43a-3730-452d-9e09-ffd9162b0e66-width190-quality100.png" group-logo=""  group-title="RAKUTEN.TV",Rakuten British Films ᴴᴰ  
@@ -305,7 +305,7 @@ https://newidco-rakutenviki-2-eu.rakuten.wurl.tv/playlist.m3u
 
 ###########################################################################SKY CINEMA################################################################################
 
-#EXTINF:-1 tvg-name="Sky Cinema Premiere UK" tvg-logo="https://dm8eklel4s62k.cloudfront.net/images/sky/small/sky_cinema_on_dark.png" group-title="SKY CINEMA",Sky Cinema Premiere UK
+#EXTINF:-1 tvg-name="Sky Cinema Premiere UK" tvg-logo="https://dm8eklel4s62k.cloudfront.net/images/sky/small/sky_cinema_on_dark.png" group-logo="https://iili.io/2AgJPDB.png" group-title="SKY CINEMA",Sky Cinema Premiere UK
 https://webhdrus.onlinehdhls.ru/lb/premium671/index.m3u8|referer=https://weblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
 #EXTINF:-1 tvg-name="Sky Cinema Select UK" tvg-logo="https://dm8eklel4s62k.cloudfront.net/images/sky/small/sky_cinema_on_dark.png" group-title="SKY CINEMA",Sky Cinema Select UK
@@ -367,7 +367,7 @@ https://webhdrunns.mizhls.ru/lb/premium868/index.m3u8|referer=https://lewblivehd
 
 ###########################################################################SKY SPORTS################################################################################
 
-#EXTINF:-1 tvg-name="Sky Sports Football UK" tvg-logo="https://lo1.in/uk/skyspns.png" group-title="SKY SPORTS",Sky Sports Football UK
+#EXTINF:-1 tvg-name="Sky Sports Football UK" tvg-logo="https://lo1.in/uk/skyspns.png" group-logo="https://iili.io/2AgJPDB.png" group-title="SKY SPORTS",Sky Sports Football UK
 https://webhdrunns.mizhls.ru/lb/premium35/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
 #EXTINF:-1 tvg-name="Sky Sports Arena UK" tvg-logo="https://lo1.in/uk/skyspns.png" group-title="SKY SPORTS",Sky Sports Arena UK
@@ -629,7 +629,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2504/default_ott.mpd
 ====≈============================================================SONY SPORT============================================================================
 
 
-#EXTINF:-1 tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen1_HD.png" group-title="SPORTS",Sony Sports 1 HD
+#EXTINF:-1 tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen1_HD.png" group-logo="https://iili.io/2AgJPDB.png" group-title="SPORTS",Sony Sports 1 HD
 https://kodonolonz.serv00.net/tol/mbut/Sonyten1.m3u8
 #EXTINF:-1 tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen2_HD.png" group-title="SPORTS",Sony Sports 2 HD
 https://kodonolonz.serv00.net/tol/mbut/Sonyten2.m3u8
@@ -648,7 +648,7 @@ https://kodonolonz.serv00.net/tol/mbut/Sonyten5.m3u8
 
 ###########################################################################INDIHOMETV################################################################################
 
-#EXTINF:-1 group-title="INDIHOMETV"  tvg-logo="https://images.indihometv.com/logo_bein1_ver1.png",SPOTV
+#EXTINF:-1 group-logo="https://iili.io/2AgJPDB.png" group-title="INDIHOMETV"  tvg-logo="https://images.indihometv.com/logo_bein1_ver1.png",SPOTV
 https://cdn09jtedge.indihometv.com/joss/133/beib1/index.m3u8
 
 #EXTINF:-1 group-title="INDIHOMETV"  tvg-logo="https://images.indihometv.com/logo_bein2_ver1.png",SPOTV 2
@@ -820,7 +820,7 @@ https://streaming.indihometv.com/atm/DASH/thrill/manifest.mpd
 
 
 
-#EXTINF:-1 tvg-id="x.astro" tvg-logo="https://telegra.ph/file/7b071d2ccbc3052b82cd1.png" group-title="SOOKA",131 Filem Mantap
+#EXTINF:-1 tvg-id="x.astro" tvg-logo="https://telegra.ph/file/7b071d2ccbc3052b82cd1.png" group-logo="https://iili.io/2AgJPDB.png" group-title="SOOKA",131 Filem Mantap
 https://linearfast02.playback.sooka.my/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_2_Ad/dash.mpd
 
 #EXTINF:-1 tvg-id="x.astro" tvg-logo="https://telegra.ph/file/d2f120faedec1a128846b.png" group-title="SOOKA",132 Drama Hebat
