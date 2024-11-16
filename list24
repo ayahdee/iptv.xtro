@@ -2727,7 +2727,7 @@ https://lnc-nbc-news-now.tubi.video/master.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"KMxTZ99mbES+Q4LmSvZNVw", "kid":"YHt9IlZcS8O5X/bDPOZUJQ" } ], "type":"temporary" }
-#EXTINF:-1 group-title="SINGAPORE" tvg-id="" tvg-chno="" group-logo="https://iili.io/2AgJPDB.png" tvg-logo="https://i.ibb.co/zsDGJDK/trtrtrt.jpg",Channel 5 
+#EXTINF:-1 group-title="SINGAPORE" tvg-id="" tvg-chno="" group-logo="https://iili.io/2Aihkla.png" tvg-logo="https://i.ibb.co/zsDGJDK/trtrtrt.jpg",Channel 5 
 https://tglmp02.akamaized.net/out/v1/5081e069e08140c9b95f89a1659cf4dd/manifest.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
