@@ -430,67 +430,42 @@ https://d277c08tzca9og.cloudfront.net/CH4/masterCH4.mpd
 
 #################################################RIA==PRIMA==WARNA==LIVE BROADCAST ONLY END##########################################################################
 
-#EXTINF:-1 tvg-id="AstroRia" group-logo="https://iili.io/2AgJPDB.png" group-title="ASTRO" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/39/Astro_Ria_HD.png",ASTRO RIA TEST *LIVE BROADCAST ONLY*
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
-#EXTHTTP:{"Authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik1HWXdNRFptTWpndE1UVmlaQzAwTnpNMUxUbGlPR1l0TXpJNU4ySmlZamhrWXpOaSIsIndtb3BpZCI6MzIsImV4cCI6MTczMTg4MTkxOSwiaWF0IjoxNzMxMjc3OTE5fQ.9TMZB2ACZp7P3oqq7tkRxQbP5sq-8yMq9o-oMB5bSLk"}
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"8S3l8N6SxS+EFwXZ1kSdOg", "kid":"3nYc0oWqKxwWINFt263gEA" } ], "type":"temporary" }
-https://d277c08tzca9og.cloudfront.net/CH4/masterCH4.mpd
 
 
-#EXTINF:-1 tvg-id="AstroRia" group-logo="https://iili.io/2AgJPDB.png" group-title="ASTRO" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/39/Astro_Ria_HD.png",ASTRO RIA TEST
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTHTTP:{"Authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik1HWXdNRFptTWpndE1UVmlaQzAwTnpNMUxUbGlPR1l0TXpJNU4ySmlZamhrWXpOaSIsIndtb3BpZCI6MzIsImV4cCI6MTczMTg4MTkxOSwiaWF0IjoxNzMxMjc3OTE5fQ.9TMZB2ACZp7P3oqq7tkRxQbP5sq-8yMq9o-oMB5bSLk"}
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"8S3l8N6SxS+EFwXZ1kSdOg", "kid":"3nYc0oWqKxwWINFt263gEA" } ], "type":"temporary" }
-https://linearjitp-playback.astro.com.my/dash-wv/linear/9989/default.mpd
-
-=≈=====================================================================================================================
+=≈===============================================BACKUP======================================================================
 
 
+®1
+#EXTINF:-1 tvg-id="104.astro" ch-number="104" group-title="Astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_RIA_v1.png",Astro Ria
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3f726fd5cbbf5944437a4dbfab431b10:376b009796e4ad50ea8f68d796676692
-#EXTINF:-1 tvg-id="Astro Ria" ch-number="104" group-logo="http://vod-poster.astro.com.my/profile_avatar/Default.png" group-title="🇲🇾 Malaysia(ASTRO)" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_RIA_v1.png",Astro Ria
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
-http://d1w72er2qn2fg9.cloudfront.net/ria.mpd
-https://go.munzstore.xyz/malaria.mpd
-https://tinyurl.com/23hnfej4
-https://tinyurl.com/123RIANGRIA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://linears-playback.astro.com.my/vsg/41PBPztI2Xcn0nWa6NTBaa4od7bJHi5cTGUzuQLYxWwzs=8-q6/dash-wv/jitp-linearwm/1004/default_primary.mpd
 
 
-
+w3
+#EXTINF:-1 tvg-id="107.astro" ch-number="107" group-title="Astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png",Astro Warna
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=aa2c653f0c05567ae283c4a3271a9810:0a80e20c568e88e53c7087c1c6493318
-#EXTINF:-1 tvg-id="Astro Warna" ch-number="107" group-logo="http://vod-poster.astro.com.my/profile_avatar/Default.png" group-title="🇲🇾 Malaysia(ASTRO)" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png",Astro Warna
-http://d1w72er2qn2fg9.cloudfront.net/warna.mpd
-https://go.munzstore.xyz/shawarma.mpd
-https://tinyurl.com/yckjtuhf
-https://tinyurl.com/123WARNA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://linears-playback.astro.com.my/vsg/4186pwOJ7SiJntTq8-k7NyE-dwllxt9QgIZWa_xGWfICI=clUi/dash-wv/jitp-linearwm/2402/default_primary.mpd
 
 
 
+©4
+#EXTINF:-1 tvg-id="108.astro" ch-number="108" group-title="Astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png",Astro Citra
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=84bf9ad6848be7db20f9d16823deef10:654f2d25a5bfb27c9e5ae0852584a166
-#EXTINF:-1 tvg-id="Astro Citra" ch-number="107" group-logo="http://vod-poster.astro.com.my/profile_avatar/Default.png" group-title="🇲🇾 Malaysia(ASTRO)" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png",Astro Citra
-http://d1w72er2qn2fg9.cloudfront.net/citra.mpd
-https://go.munzstore.xyz/citrarasa.mpd
-https://tinyurl.com/muhujwmk
-https://tinyurl.com/123CITRA
+https://linears-playback.astro.com.my/vsg/41koQ5vvvG7vm2_XfioY6tdc-2zWvcWC5j_YZdPvBH-Qo=IJjN/dash-wv/jitp-linearwm/2700/default_primary.mpd
 
 
 
-
-#EXTINF:-1 tvg-id:"Astro Prima" ch-number="105" group-title="🇲🇾 Malaysia(ASTRO)" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/316_144.png",Astro Prima 
+p
+#EXTINF:-1 tvg-id="105.astro" ch-number="105" group-title="Astro" tvg-id="AstroPrima" ch-number="105" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Prima_v1.png",Astro Prima
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"hBL0RP++NQzy7OBR+RUukA", "kid":"C2Uyau3j7b6B5vtAMX1TEA" } ], "type":"temporary" }
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://d1w72er2qn2fg9.cloudfront.net/prima.mpd
-https://go.munzstore.xyz/primadona.mpd
-https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/1000/default.mpd
-https://tinyurl.com/123PRIMA
+#KODIPROP:inputstream.adaptive.license_key=0b65326aede3edbe81e6fb40317d5310:8412f444ffbe350cf2ece051f9152e90
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
+https://linears-playback.astro.com.my/vsg/41iURDiI6u2Mr0iQ_i0q9haXkzW8Q-t_mUdSLJsDWgVRo=uCsq/dash-wv/jitp-linearwm/1000/default_primary.mpd
 
 
 ==========================================================================================================================
