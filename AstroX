@@ -269,7 +269,7 @@ http://d1w72er2qn2fg9.cloudfront.net/grand.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
-#EXTHTTP:{"Authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik9EQTBaRFZrTmpZdE5qSTRZaTAwTkRBNExXSmxNemt0WTJSbVkyTTNaV0l3WkRjNCIsIndtb3BpZCI6MzIsImV4cCI6MTczMjI0NzcyMiwiaWF0IjoxNzMxNjQzNzIyfQ.bST4SaEp7_0gNonBoCD4Ur2SCo48O1Sw--qpPc9LDTo"}
+#EXTHTTP:{"Authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ilpqa3hOR00wTldNdE1URTNaQzAwWkRFd0xXRTVOamd0TldSaFkyUTVZVFkyWWpReiIsIndtb3BpZCI6MzIsImV4cCI6MTczMjUyMjczMSwiaWF0IjoxNzMxOTE4NzMxfQ.mnwEjxrBnEfBuiEIOWvUNfnuP_nzQs0KCQIbAFsAeXc"}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=ca4f5ff4e4694d54bdfdc9bd34384290:1100fe297146f7d024b59944f09e6d1a
@@ -278,7 +278,7 @@ https://d1fk7kbmz4il3.cloudfront.net/CH3/masterCH3.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
-#EXTHTTP:{"Authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik9EQTBaRFZrTmpZdE5qSTRZaTAwTkRBNExXSmxNemt0WTJSbVkyTTNaV0l3WkRjNCIsIndtb3BpZCI6MzIsImV4cCI6MTczMjI0NzcyMiwiaWF0IjoxNzMxNjQzNzIyfQ.bST4SaEp7_0gNonBoCD4Ur2SCo48O1Sw--qpPc9LDTo"}
+#EXTHTTP:{"Authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ilpqa3hOR00wTldNdE1URTNaQzAwWkRFd0xXRTVOamd0TldSaFkyUTVZVFkyWWpReiIsIndtb3BpZCI6MzIsImV4cCI6MTczMjUyMjczMSwiaWF0IjoxNzMxOTE4NzMxfQ.mnwEjxrBnEfBuiEIOWvUNfnuP_nzQs0KCQIbAFsAeXc"}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=9cd1ac9e64984f009d000b76a78c8535:6109a6bd86edaef1327bb55117d1901b
