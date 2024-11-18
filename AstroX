@@ -468,5 +468,13 @@ https://d277c08tzca9og.cloudfront.net/CH4/masterCH4.mpd
 
 #################################################RIA==PRIMA==WARNA==LIVE BROADCAST ONLY END##########################################################################
 
-
+-----------------------------------------------Astro RIA by Prime--------------------------------
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
+#EXTHTTP:{"Authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ilpqa3hOR00wTldNdE1URTNaQzAwWkRFd0xXRTVOamd0TldSaFkyUTVZVFkyWWpReiIsIndtb3BpZCI6MzIsImV4cCI6MTczMjUyMjczMSwiaWF0IjoxNzMxOTE4NzMxfQ.mnwEjxrBnEfBuiEIOWvUNfnuP_nzQs0KCQIbAFsAeXc"}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=9cd1ac9e64984f009d000b76a78c8535:6109a6bd86edaef1327bb55117d1901b
+#EXTINF:-1 group-logo="" group-title="ASTRO" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/39/Astro_Ria_HD.png" tvg-id="Astro Ria",Astro Ria HD
+https://d1yws6emo43ny.cloudfront.net/CH2/masterCH2.mpd 
 
