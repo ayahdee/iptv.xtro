@@ -483,7 +483,7 @@ https://d1yws6emo43ny.cloudfront.net/CH2/masterCH2.mpd
 #EXTHTTP:{"Authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ilpqa3hOR00wTldNdE1URTNaQzAwWkRFd0xXRTVOamd0TldSaFkyUTVZVFkyWWpReiIsIndtb3BpZCI6MzIsImV4cCI6MTczMjUyMjczMSwiaWF0IjoxNzMxOTE4NzMxfQ.mnwEjxrBnEfBuiEIOWvUNfnuP_nzQs0KCQIbAFsAeXc"}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.aqfadtv.xyz/dash-ck/linear/2700
+#KODIPROP:inputstream.adaptive.license_key=0b65326aede3edbe81e6fb40317d5310:8412f444ffbe350cf2ece051f9152e90
 #EXTINF:-1 group-logo="" group-title="ASTRO" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/39/Astro_Ria_HD.png" tvg-id="Astro Ria",Astro Ria HD☆
 https://d1yws6emo43ny.cloudfront.net/CH3/masterCH3.mpd 
 
