@@ -473,7 +473,7 @@ https://d277c08tzca9og.cloudfront.net/CH4/masterCH4.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=9cd1ac9e64984f009d000b76a78c8535:6109a6bd86edaef1327bb55117d1901b
-#EXTINF:-1 group-logo="" group-title="TEST" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/39/Astro_Ria_HD.png" tvg-id="Astro Ria",Astro Ria HD
+#EXTINF:-1 group-title="TEST" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/39/Astro_Ria_HD.png" tvg-id="Astro Ria",Astro Ria HD
 https://d1yws6emo43ny.cloudfront.net/CH2/masterCH2.mpd 
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -482,10 +482,10 @@ https://d1yws6emo43ny.cloudfront.net/CH2/masterCH2.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=ca4f5ff4e4694d54bdfdc9bd34384290:1100fe297146f7d024b59944f09e6d1a
-#EXTINF:-1 group-logo="" group-title="TEST" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/39/Astro_Ria_HD.png" tvg-id="Astro Arena 3",Astro Arena 3
+#EXTINF:-1 group-title="TEST" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/39/Astro_Ria_HD.png" tvg-id="Astro Arena 3",Astro Arena 3
 https://d1fk7kbmz4il3.cloudfront.net/CH3/masterCH3.mpd 
 
-#EXTINF:-1 tvg-id="108.astro" ch-number="108" group-title="TEST" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png",ONE Korean 💥
+#EXTINF:-1 tvg-id="" ch-number="" group-title="TEST" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png",ONE Korean 💥
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69796371dc4e457d98fa2b025eabfc94:6e171dc36e2356c24e4e59b19bc98fc5
 https://linear05-playback.sooka.my/CH1/masterCH1.mpd
