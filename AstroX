@@ -520,13 +520,13 @@ http://d1w72er2qn2fg9.cloudfront.net/prima.mpd
 http://d1w72er2qn2fg9.cloudfront.net/warna.mpd
 
 ##### CITRA #####
-http://d1w72er2qn2fg9.cloudfront.net/citra.mpd
 
+#EXTINF:-1 tvg-id="Astro Citra" ch-number="107" group-title="TEST" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png",ASTRO CITRA HD ✔️💥
 #KODIPROP:inputstreamaddon=inputstream.adaptive  
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"ZU8tJaW/snyeWuCFJYShZg", "kid":"hL+a1oSL59sg+dFoI97vEA" } ], "type":"temporary" } 
-
+http://d1w72er2qn2fg9.cloudfront.net/citra.mpd
 
 
 ##### arena bola 1 #####
