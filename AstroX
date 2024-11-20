@@ -508,6 +508,6 @@ http://d1w72er2qn2fg9.cloudfront.net/ria.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Z3aYWTizMhZLl7gf5WajSg", "kid":"79pkfa1yNWO2Jb6MBe5hEA" } ], "type":"temporary" } //arena 1
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"SZqPNoBksRzAkrewE9sHEA", "kid":"4VG7gUaKhCbWqxKGDTFKow" } ], "type":"temporary" } //check k/kid reverse
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"4dQox/HKgjOabPodB1dCjg", "kid":"dIHT43OMRnaPE44gj+6Qdg" } ], "type":"temporary" } //arena bola1
+//#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"SZqPNoBksRzAkrewE9sHEA", "kid":"4VG7gUaKhCbWqxKGDTFKow" } ], "type":"temporary" } //check k/kid reverse
+//#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"4dQox/HKgjOabPodB1dCjg", "kid":"dIHT43OMRnaPE44gj+6Qdg" } ], "type":"temporary" } //arena bola1
 http://d1w72er2qn2fg9.cloudfront.net/bola1.mpd
