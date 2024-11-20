@@ -498,7 +498,7 @@ https://linear05-playback.sooka.my/CH1/masterCH1.mpd
 #KODIPROP:inputstreamaddon=inputstream.adaptive  
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"N2sAl5bkrVDqj2jXlmdmkg", "kid":"P3Jv1cu/WURDek2/q0MbEA" } ], "type":"temporary" }
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"SZqPNoBksRzAkrewE9sHEA", "kid":"4VG7gUaKhCbWqxKGDTFKow" } ], "type":"temporary"  } ], "type":"temporary" }
 http://d1w72er2qn2fg9.cloudfront.net/ria.mpd
 
 ##### arena bola 1 #####
