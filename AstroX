@@ -492,16 +492,16 @@ https://d1fk7kbmz4il3.cloudfront.net/CH3/masterCH3.mpd
 #KODIPROP:inputstream.adaptive.license_key=69796371dc4e457d98fa2b025eabfc94:6e171dc36e2356c24e4e59b19bc98fc5
 https://linear05-playback.sooka.my/CH1/masterCH1.mpd
 
-##### RIA #####
+##### RIA ##### ONM ####
 
 #EXTINF:-1 group-title="TEST" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/39/Astro_Ria_HD.png" tvg-id="Astro Ria",ASTRO RIA HD ✔️💥
 #KODIPROP:inputstreamaddon=inputstream.adaptive  
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"SZqPNoBksRzAkrewE9sHEA", "kid":"4VG7gUaKhCbWqxKGDTFKow" } ], "type":"temporary"  } ], "type":"temporary" }
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"N2sAl5bkrVDqj2jXlmdmkg", "kid":"P3Jv1cu/WURDek2/q0MbEA" } ], "type":"temporary" }
 http://d1w72er2qn2fg9.cloudfront.net/ria.mpd
 
-##### PRIMA #####
+##### PRIMA ##### ONM ###
 
 #EXTINF:-1 tvg-id:"Astro Prima" ch-number="105" group-title="TEST" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/316_144.png",ASTRO PRIMA HD ✔️💥
 #KODIPROP:inputstreamaddon=inputstream.adaptive  
@@ -510,7 +510,7 @@ http://d1w72er2qn2fg9.cloudfront.net/ria.mpd
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"hBL0RP++NQzy7OBR+RUukA", "kid":"C2Uyau3j7b6B5vtAMX1TEA" } ], "type":"temporary" }
 http://d1w72er2qn2fg9.cloudfront.net/prima.mpd
 
-##### WARNA #####
+##### WARNA ##### ONM ###
 
 #EXTINF:-1 tvg-id="Astro Warna" ch-number="107" group-title="TEST" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png",ASTRO WARNA HD ✔️💥
 #KODIPROP:inputstreamaddon=inputstream.adaptive  
@@ -519,7 +519,7 @@ http://d1w72er2qn2fg9.cloudfront.net/prima.mpd
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"CoDiDFaOiOU8cIfBxkkzGA", "kid":"qixlPwwFVnrig8SjJxqYEA" } ], "type":"temporary" }
 http://d1w72er2qn2fg9.cloudfront.net/warna.mpd
 
-##### CITRA #####
+##### CITRA ##### ONM ###
 
 #EXTINF:-1 tvg-id="Astro Citra" ch-number="107" group-title="TEST" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png",ASTRO CITRA HD ✔️💥
 #KODIPROP:inputstreamaddon=inputstream.adaptive  
