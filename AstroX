@@ -494,7 +494,7 @@ https://linear05-playback.sooka.my/CH1/masterCH1.mpd
 
 ##### RIA #####
 
-#EXTINF:-1 group-title="TEST" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/39/Astro_Ria_HD.png" tvg-id="Astro Ria",Astro Ria HD 💥✔️
+#EXTINF:-1 group-title="TEST" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/39/Astro_Ria_HD.png" tvg-id="Astro Ria",ASTRO RIA HD ✔️💥
 #KODIPROP:inputstreamaddon=inputstream.adaptive  
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -503,7 +503,7 @@ http://d1w72er2qn2fg9.cloudfront.net/ria.mpd
 
 ##### PRIMA #####
 
-#EXTINF:-1 tvg-id:"Astro Prima" ch-number="105" group-title="TEST" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/316_144.png",ASTRO PRIMA HD 💥✔️
+#EXTINF:-1 tvg-id:"Astro Prima" ch-number="105" group-title="TEST" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/316_144.png",ASTRO PRIMA HD ✔️💥
 #KODIPROP:inputstreamaddon=inputstream.adaptive  
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -511,13 +511,13 @@ http://d1w72er2qn2fg9.cloudfront.net/ria.mpd
 http://d1w72er2qn2fg9.cloudfront.net/prima.mpd
 
 ##### WARNA #####
-http://d1w72er2qn2fg9.cloudfront.net/warna.mpd
 
+#EXTINF:-1 tvg-id="Astro Warna" ch-number="107" group-title="TEST" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png",ASTRO WARNA HD ✔️💥
 #KODIPROP:inputstreamaddon=inputstream.adaptive  
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"CoDiDFaOiOU8cIfBxkkzGA", "kid":"qixlPwwFVnrig8SjJxqYEA" } ], "type":"temporary" }
-
+http://d1w72er2qn2fg9.cloudfront.net/warna.mpd
 
 ##### CITRA #####
 http://d1w72er2qn2fg9.cloudfront.net/citra.mpd
