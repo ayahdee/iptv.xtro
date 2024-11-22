@@ -56,9 +56,11 @@ http://d1w72er2qn2fg9.cloudfront.net/dw.m3u8
 
 ================Server Cloudfront End==============
 
+
 ================== Method Line =============≈=======
 
-https://d3j4fjrwclc3o8.cloudfront.net/CH4/masterCH4.mpd
+**https://d3j4fjrwclc3o8.cloudfront.net/CH4/masterCH4.mpd
+**https://linears-playback.astro.com.my/vsg/41LmWYdMecXte1Y-8xiFrCz8a37L50_32nIEyQ-3ANgPg=bQrG/dash-wv/jitp-linearwm/1004/default_primary.mpd
 
 Method 1:-
 #EXTINF:-1 tvg-id="Astro Ria" ch-number="104" group-logo="https://iili.io/2AgUl8G.png" group-title="ASTRO" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_RIA_v1.png",ASTRO RIA HD ✔️
