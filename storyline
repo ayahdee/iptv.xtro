@@ -69,7 +69,6 @@ Method 1:-
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
 http://*****.*****.***/**/.mpd
 
-
 Method 2:-
 #EXTINF:-1 group-title="ASTRO" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/39/Astro_Ria_HD.png" tvg-id="Astro Ria",ASTRO RIA HD ✔️💥
 #KODIPROP:inputstreamaddon=inputstream.adaptive  
@@ -87,6 +86,14 @@ Method 3:-
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"***********", "kid":"*************" } ], "type":"temporary" }
 http://*****.*****.***/**/.mpd
+
+Method 4:- (link from Xstream iptv)
+#EXTINF:-1 tvg-id="AstroSupersport3" ch-number="813" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/543_144.png" group-title="SPORTS",Astro Grandstand II
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/1364
+http://[server url link)]/[username]/[password]/[channels]
+http://opplex.tv:8080/1525939/1552699/352089
+
+#### Xtream Checker ####
 
 ================== Method Line End =============≈=======
 
