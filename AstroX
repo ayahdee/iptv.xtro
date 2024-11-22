@@ -652,7 +652,7 @@ http://opplex.tv:8080/1525939/1552699/352088
 
 --------------------ASTRO RIA---------------------------
 
-#EXTINF:-1 tvg-id="Astro Ria" ch-number="104" group-logo="https://iili.io/2AgUl8G.png" group-title="ASTRO" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_RIA_v1.png",ASTRO RIA HD ✔️
+#EXTINF:-1 tvg-id="Astro Ria" ch-number="104" group-logo="https://iili.io/2AgUl8G.png" group-title="ASTRO" tvg-logo="https://raw.githubusercontent.com/ayahdee/iptv.xtro/refs/heads/main/ria.png",ASTRO RIA HD ✔️
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3f726fd5cbbf5944437a4dbfab431b10:376b009796e4ad50ea8f68d796676692
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
@@ -664,7 +664,7 @@ https://tinyurl.com/123RIANGRIA
 ----------------------------------------------------------
 
 --------------------ASTRO RIA B---------------------------
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/193_144.png" group-title="ASTRO", Astro Ria (Backup)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ayahdee/iptv.xtro/refs/heads/main/ria.png" group-title="ASTRO", Astro Ria (Backup)
 ###https://raw.githubusercontent.com/whs4030/WahyuIPTV/4bd00479488ceb0b9aa2851e99e641b5c2cb6e81/AstroRia.m3u8###
 ###https://link.zozotv.xyz:443/mubaen/k895427/532###
 http://31.42.187.37:25461/watchpad13158/1234/68
@@ -745,7 +745,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5128/default.mpd
 =≈=======================================RIA PRIMA WARNA CITRA BACKUP SERVER======================================================================
 
 ®1
-#EXTINF:-1 tvg-id="104.astro" ch-number="104" group-title="Astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_RIA_v1.png",Astro Ria HD
+#EXTINF:-1 tvg-id="104.astro" ch-number="104" group-title="Astro" tvg-logo="https://raw.githubusercontent.com/ayahdee/iptv.xtro/refs/heads/main/ria.png",Astro Ria HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3f726fd5cbbf5944437a4dbfab431b10:376b009796e4ad50ea8f68d796676692
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
@@ -820,7 +820,7 @@ https://linear05-playback.sooka.my/CH1/masterCH1.mpd
 
 ##### RIA ##### ONM ####
 
-#EXTINF:-1 group-title="ASTRO" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/39/Astro_Ria_HD.png" tvg-id="Astro Ria",ASTRO RIA HD ✔️💥
+#EXTINF:-1 group-title="ASTRO" tvg-logo="https://raw.githubusercontent.com/ayahdee/iptv.xtro/refs/heads/main/ria.png" tvg-id="Astro Ria",ASTRO RIA HD ✔️💥
 #KODIPROP:inputstreamaddon=inputstream.adaptive  
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
