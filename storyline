@@ -56,6 +56,10 @@ http://d1w72er2qn2fg9.cloudfront.net/dw.m3u8
 
 ================Server Cloudfront End==============
 
+================== Method Line =============≈=======
+
+https://d3j4fjrwclc3o8.cloudfront.net/CH4/masterCH4.mpd
+
 Method 1:-
 #EXTINF:-1 tvg-id="Astro Ria" ch-number="104" group-logo="https://iili.io/2AgUl8G.png" group-title="ASTRO" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_RIA_v1.png",ASTRO RIA HD ✔️
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -72,5 +76,15 @@ Method 2:-
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"***********", "kid":"*************" } ], "type":"temporary" }
 http://*****.*****.***/**/.mpd
 
+Method 3:-
+#EXTINF:-1 tvg-id="AstroSupersport2" tvg-name="Astro SuperSport 2 HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/537_144.png" group-title="SPORTS",Astro Premier League 2 ✔️💥
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6IlptWmxOVGRsTldJdE9EUmtOQzAwTURreUxXSTJNRFF0WmpsaU56Z3lNRGsxTmpoaiIsIndtb3BpZCI6MzIsImV4cCI6MTczMjU5NjE4OSwiaWF0IjoxNzMxOTkyMTg5fQ.mu10dXnRi_IsknqvSjFIgKQ-Ktts9828OXx_jsq63ZQ"}
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://sooka.my/&user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"***********", "kid":"*************" } ], "type":"temporary" }
+http://*****.*****.***/**/.mpd
 
+================== Method Line End =============≈=======
 
