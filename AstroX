@@ -630,6 +630,41 @@ https://d1yws6emo43ny.cloudfront.net/CH2/masterCH2.mpd
 
 ===========================ARENA BOLA==PREMIER==GRANDSTAND==SERVER 3==💥💥================================
 
+B1
+#EXTINF:-1 tvg-id="803.astro" ch-number="803" group-title="Astro" tvg-id="AstroArenaBola" ch-number="803" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroArenaBola_2024.png",Astro Arena Bola
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=499a8f368064b11cc092b7b013db0710:e151bb81468a8426d6ab12860d314aa3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://linears-playback.astro.com.my/vsg/41eZWHFEdAO5NMXmzuqlDcvBCnVck4A0vfOhlgGbNYzVM=i8X0/dash-wv/jitp-linearwm/5099/default_primary.mpd
+
+B2
+#EXTINF:-1 tvg-id="804.astro" ch-number="804" group-title="Astro" tvg-id="AstroArenaBola2" ch-number="804" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroArenaBola2_2024.png",Astro Arena Bola 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=62a7b7917aad5123cd4df65c561c7010:b1effa9e51cf38b3ae676bc264937efb
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://linears-playback.astro.com.my/vsg/41QczZuW0tnc7ix8iGnoxpeM2gbCr0yHH8pWwe7-As8fA=fGQj/dash-wv/jitp-linearwm/5100/default_primary.mpd
+
+P1
+#EXTINF:-1 tvg-id="AstroPremierLeague" tvg-id="AstroPremierLeague" tvg-name="Astro Premier League" ch-number="AstroPremierLeague" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroPremierLeague_2024.png" group-title="Astro",Astro Premier League
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f749ab71f227999bfb098f73359aac10:4f15413f7e4767b50c48e19b7f9a2fcc
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
+https://linears-playback.astro.com.my/vsg/41YSAbiO7EEoYPeFm__sIwWf_uU4x_GBEBO_Hj54JKBcI=i4f0/dash-wv/jitp-linearwm/601/default_primary.mpd
+
+P2
+#EXTINF:-1 tvg-id="AstroPremierLeague2" tvg-name="Astro Premier League 2" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroPremierLeague2_2024.png" group-title="Astro",Astro Premier League 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c1dc92f0789f112503c0db3bde2f1210:ddfa6e8d549b4d5177a9cade7f9a0b23
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
+https://linears-playback.astro.com.my/vsg/41gh2saAOIXVq8tO1Dn_4hesVV2FY4yGVQg_wb8sIXeiA=QVP8/dash-wv/jitp-linearwm/2104/default_primary.mpd
+
+GR  
+#EXTINF:-1 tvg-id="AstroGrandstand" tvg-name="Astro Grandstand" ch-number="813" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroGrandstand_2024.png" group-title="Astro",Astro Grandstand
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5be66a6f88efee3d6e30f72a9c58e310:168f3fadfc730ba3dfc932f7c430e27d
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
+https://linears-playback.astro.com.my/vsg/41xY9nwDDzKU-lgjBdVKnVocEB3emszhh4sYX6a7d0V2c=jZd0/dash-wv/jitp-linearwm/2701/default_primary.mpd
+
 
 ===========================ARENA BOLA==PREMIER==GRANDSTAND==SERVER 3==END==💥💥===========================
 
