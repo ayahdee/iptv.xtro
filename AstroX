@@ -526,7 +526,7 @@
 
 //=======≈==============================================================================================================================================================
 
-#EXTM3U refresh="15" billed-msg="☢️ AYAHDEE TV CHANNELS ©️™️ 🇲🇾 | LIVETV📺 NEW🎥 SPORT⚽️ MOVIE🎬 SERIES🖼 KIDS🧸 VARIETY🎭 DOCUMENTARY🤿 RADIO📻 | UPDATE: 22 NOV 2024  ☢️"
+#EXTM3U refresh="15" billed-msg="☢️ AYAHDEE TV CHANNELS ©️™️ 🇲🇾 | LIVETV📺 NEW🎥 SPORT⚽️ MOVIE🎬 SERIES🖼 KIDS🧸 VARIETY🎭 DOCUMENTARY🤿 RADIO📻 | UPDATE: 23 NOV 2024  ☢️"
 
 //======================================================================================================================================================================
 
@@ -565,6 +565,8 @@ http://d1w72er2qn2fg9.cloudfront.net/grand.mpd
 ==============================ARENA BOLA==PREMIER==GRANDSTAND==SERVER 1==✔️==END=================================
 
 --------------------------------- ✔️💥 SERVER 2----------------------------------
+
+*** Just Replace Bearer
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6IlpXTmlNMk0zWlRFdE1XUmlaaTAwT1RFekxUZ3hPV010TVdSbU4yRmlNV1l3TldKbSIsIndtb3BpZCI6MzIsImV4cCI6MTczMjg4NTU3MywiaWF0IjoxNzMyMjgxNTczfQ.LOZ45HYTsiEIuQp5Ew-UNyBimJeKd85o4jY3veb6yug"}
