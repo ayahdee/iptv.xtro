@@ -639,28 +639,28 @@ B1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=499a8f368064b11cc092b7b013db0710:e151bb81468a8426d6ab12860d314aa3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://linears-playback.astro.com.my/vsg/41eZWHFEdAO5NMXmzuqlDcvBCnVck4A0vfOhlgGbNYzVM=i8X0/dash-wv/jitp-linearwm/5099/default_primary.mpd
+https://linears-playback.astro.com.my/vsg/41Rr8sOzcvcHqhovix-gceHHXIUqBbaE6TYEQx8SXNSKU=LI9c/dash-wv/jitp-linearwm/5099/default_primary.mpd
 
 B2
 #EXTINF:-1 tvg-id="804.astro" ch-number="804" group-title="SPORTS" tvg-id="AstroArenaBola2" ch-number="804" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroArenaBola2_2024.png",Astro Arena Bola 2 💥💥
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=62a7b7917aad5123cd4df65c561c7010:b1effa9e51cf38b3ae676bc264937efb
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://linears-playback.astro.com.my/vsg/41kSZt4QJvpZK2X1j9s6coEthfaGeM1QHkQy4nPmmNnd0=Dlyt/dash-wv/jitp-linearwm/5100/default_primary.mpd
+https://linears-playback.astro.com.my/vsg/41kSZt4QJvpZK2X1j9s6coEmelv-idsNMh7MJ1UDAsTKI=8zV0/dash-wv/jitp-linearwm/5100/default_primary.mpd
 
 P1
 #EXTINF:-1 tvg-id="AstroPremierLeague" tvg-id="AstroPremierLeague" tvg-name="Astro Premier League" ch-number="AstroPremierLeague" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroPremierLeague_2024.png" group-title="SPORTS",Astro Premier League 💥💥
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f749ab71f227999bfb098f73359aac10:4f15413f7e4767b50c48e19b7f9a2fcc
 EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
-https://linears-playback.astro.com.my/vsg/41KvBsHg6x_uz_NL_auh16btwTN9Q_EJYYuW1U2dHM6Ic=M95Z/dash-wv/jitp-linearwm/601/default_primary.mpd
+https://linears-playback.astro.com.my/vsg/41KvBsHg6x_uz_NL_auh16bkPK_gGnwHNUm5Dp_XO1WsY=f2sF/dash-wv/jitp-linearwm/601/default_primary.mpd
 
 P2
 #EXTINF:-1 tvg-id="AstroPremierLeague2" tvg-name="Astro Premier League 2" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroPremierLeague2_2024.png" group-title="SPORTS",Astro Premier League 2 💥💥
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c1dc92f0789f112503c0db3bde2f1210:ddfa6e8d549b4d5177a9cade7f9a0b23
 EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
-https://linears-playback.astro.com.my/vsg/419Mo3Pn4T61KEj9M-0XXz-AjqxkqNA0lVjqlBCixQa-s=SVso/dash-wv/jitp-linearwm/2104/default_primary.mpd
+https://linears-playback.astro.com.my/vsg/419Mo3Pn4T61KEj9M-0XXz-K2ysD4JD5qcrh96kjnFRy4=VEWs/dash-wv/jitp-linearwm/2104/default_primary.mpd
 
 GR  
 #EXTINF:-1 tvg-id="AstroGrandstand" tvg-name="Astro Grandstand" ch-number="813" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroGrandstand_2024.png" group-title="SPORTS",Astro Grandstand 💥💥
