@@ -863,12 +863,13 @@ https://linear05-playback.sooka.my/CH1/masterCH1.mpd
 tv3
 #EXTINF:-1 tvg-id="104.astro" ch-number="104" group-title="TEST" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_RIA_v1.png",TV3 HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"Authorization":"Bearer eyJyZWZlcnJlciI6IiIsInJlcXVlc3RfaWQiOiI1MjZCOjEwQzcyRjpFMTc4N0M6RjlCOEFBOjY3NDRBOEM0IiwidmlzaXRvcl9pZCI6IjQ4NDE5ODU2NzA5ODg4MTk2IiwicmVnaW9uX2VkZ2UiOiJzb3V0aGVhc3Rhc2lhIiwicmVnaW9uX3JlbmRlciI6InNvdXRoZWFzdGFzaWEifQ=="}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"J6L3HYe/XrEFrwlvtmBdlw", "kid":"Ov4w7k6iSmf+Wi7wboPbCw" } ], "type":"temporary" }
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live03.mpd
-http://OPPSS❗️OFFLINE🙏..OUR TECHNICIAN TRYING TO FIX..TQ😅
+##http://OPPSS❗️OFFLINE🙏..OUR TECHNICIAN TRYING TO FIX..TQ😅
 
 
 =====================================================Updated 20 Nov 2024========≈===≈=================================
