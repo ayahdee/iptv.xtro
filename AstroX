@@ -569,7 +569,7 @@ http://d1w72er2qn2fg9.cloudfront.net/grand.mpd
 *** Just Replace Bearer
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTHTTP:https://raw.githubusercontent.com/ayahdee/iptv.xtro/refs/heads/main/Sports%20Bearer
+#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik4yRm1OV1kzWWpNdFkyTmpZaTAwTURjMExXRTNZVGN0WkdGaU5EYzBOalJqTWpjMyIsIndtb3BpZCI6MzIsImV4cCI6MTczMzcyNzkxOCwiaWF0IjoxNzMzMTIzOTE4fQ.p18zVngfIg_m2Jyb3vC9mlKqeRbB072hlovoXMDcoI0"}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"4dQox/HKgjOabPodB1dCjg", "kid":"dIHT43OMRnaPE44gj+6Qdg" } ], "type":"temporary" }
