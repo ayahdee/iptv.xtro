@@ -5292,8 +5292,8 @@ http://opplex.tv:8080/1525939/1552699/352088
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3f726fd5cbbf5944437a4dbfab431b10:376b009796e4ad50ea8f68d796676692
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
-http://d37lxn4ksn51zz.cloudfront.net/ria.mpd
 https://linears-playback.astro.com.my/vsg/41BeadtLKBlaToX6TFXTuScWEzdmqhW6PIm8KiYGJVmlA=K5s5/dash-wv/jitp-linearwm/1004/default_primary.mpd
+http://d37lxn4ksn51zz.cloudfront.net/ria.mpd
 #http://d1w72er2qn2fg9.cloudfront.net/ria.mpd
 https://go.munzstore.xyz/malaria.mpd
 https://tinyurl.com/23hnfej4
