@@ -6379,7 +6379,11 @@ https://tglmp04.akamaized.net/out/v1/421a3cd3bdcd492f8f4b5efb2363ed2c/manifest.m
 https://linearjitp-playback.astro.com.my/dash-wv/linear/711/default_primary.mpd
 
   
-  
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={1a9831f0be3ff551ff0b32a64cbd1f10:d87e503fafec0e8400b489bddb45044c}
+#EXTINF:-1 tvg-id="111.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/PHC_2024.png" group-title="MALAYSIA",111 High Council
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5169/default_primary.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+
 
 
 #EXTINF:-1 tvg-id="AstroPremier" ch-number="410" group-title="MALAYSIA" tvg-logo="https://i.ibb.co/wN4yrwX/Astro-Premier.png",410 Astro Premier
@@ -6619,6 +6623,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/609/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_key=41a42fb5af457501c11bb9b158d5a110:57a8d6f9e3832887db18ea6071118736
 #EXTINF:-1 tvg-id="TVAlhijrah" tvg-name="Al-Hijrah" group-title="MALAYSIA" tvg-logo="https://ws.kapallayar.cc//image//Logo//MALAYSIA//New//M_Hijrah.png?5423" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/fav-icon.png",114 ALHIJRAH
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/1113/default_ott.mpd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/1113/manifest.mpd
 
 
@@ -6626,6 +6631,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/1113/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=60f202b16407fedd8e369c32af57dd10:c8475231c09dc1b639886976b6fc7575
 #EXTINF:-1 tvg-id="OKEY" tvg-name="TV Okey" group-title="MALAYSIA" tvg-logo="https://ws.kapallayar.cc//image//Logo//MALAYSIA//New//M_Okey.png?5423" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/fav-icon.png",146 TV OKEY
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5072/default_ott.mpd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5072/manifest.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
