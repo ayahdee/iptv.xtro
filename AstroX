@@ -660,6 +660,9 @@ https://linears-playback.astro.com.my/vsg/41kSZt4QJvpZK2X1j9s6coEmelv-idsNMh7MJ1
 
 B2@
 #EXTINF:-1 tvg-id="804.astro" ch-number="804" group-title="SPORTS" tvg-id="AstroArenaBola2" ch-number="804" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroArenaBola2_2024.png",Astro Arena Bola 2 💥💥💥
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"Authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6IlpERm1PR1F5TUdZdE0yRTRaQzAwWVdZMExUbGhOamN0TldJd1pHUXlaR0U0Tm1OaCIsIndtb3BpZCI6MzIsImV4cCI6MTcyNzkyNzk5MywiaWF0IjoxNzI3MzIzOTkzfQ.qAjJnAeZp6MXqWOf8FAWQz0Z1GwqE0YqpL4-e6XIY2g"}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=99685545491d40b493b3a4b263c7245e:7939e335bf8cbbd6882f9f5c9cdebe19
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
