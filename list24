@@ -5013,7 +5013,7 @@
 
 //=======≈==============================================================================================================================================================
 
-#EXTM3U refresh="15" billed-msg="☢️ AYAHDEE TV CHANNELS ©️™️ 🇲🇾 | LIVETV📺 NEW🎥 SPORT⚽️ MOVIE🎬 SERIES🖼 KIDS🧸 VARIETY🎭 DOCUMENTARY🤿 RADIO📻 | UPDATE: 27 DIS 2024  ☢️"
+#EXTM3U refresh="15" billed-msg="☢️ AYAHDEE TV CHANNELS ©️™️ 🇲🇾 | LIVETV📺 NEW🎥 SPORT⚽️ MOVIE🎬 SERIES🖼 KIDS🧸 VARIETY🎭 DOCUMENTARY🤿 RADIO📻 | UPDATE: 28 DIS 2024  ☢️"
 
 //======================================================================================================================================================================
 
@@ -5297,6 +5297,7 @@ http://opplex.tv:8080/1525939/1552699/352088
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3f726fd5cbbf5944437a4dbfab431b10:376b009796e4ad50ea8f68d796676692
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
+http://d1eimxwxeji8bg.cloudfront.net/ria.mpd
 http://d14sysfrzu8fji.cloudfront.net/ria.mpd
 #http://d37lxn4ksn51zz.cloudfront.net/ria.mpd
 #http://d1w72er2qn2fg9.cloudfront.net/ria.mpd
