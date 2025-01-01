@@ -6987,7 +6987,8 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5073/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c7737edd1d67824fa70df73154bf8110:68c5db3b309fab5503a6fdb580ddf281
 #EXTINF:-1g-id="202" tvg-name="Astro Vinmeen" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/Astro_Vinmeen.png" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="INDIAN",Astro Vinmeen HD
-http://d14sysfrzu8fji.cloudfront.net/vin.mpd
+https://ht7mvvlb8c.execute-api.ap-southeast-1.amazonaws.com/vin.mpd
+##http://d14sysfrzu8fji.cloudfront.net/vin.mpd
 #http://d37lxn4ksn51zz.cloudfront.net/vin.mpd
 #http://d1w72er2qn2fg9.cloudfront.net/vin.mpd
 #https://linears-playback.astro.com.my/vsg/41h34pifbrHetTXXeVKEkt9gsVlyLnu1NAR1LpDrQ32Dg=jVya/dash-wv/jitp-linearwm/2105/default_ott.mpd
@@ -6996,7 +6997,8 @@ http://d14sysfrzu8fji.cloudfront.net/vin.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=918adebe10a9848d567dc6cb5adce510:084e76561bba9d4f3ae953acdd37b3ed
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
-http://d14sysfrzu8fji.cloudfront.net/thang.mpd
+https://ht7mvvlb8c.execute-api.ap-southeast-1.amazonaws.com/thang.mpd
+##http://d14sysfrzu8fji.cloudfront.net/thang.mpd
 #http://d37lxn4ksn51zz.cloudfront.net/thang.mpd
 #http://d1w72er2qn2fg9.cloudfront.net/thang.mpd
 #https://linearjitp-playback.astro.com.my/dash-wv/linear/2109/default_ott.mpd
@@ -7006,8 +7008,6 @@ http://d14sysfrzu8fji.cloudfront.net/thang.mpd
 #KODIPROP:inputstream.adaptive.license_key=859f5b2054c4073e8f0da463d208b910:5eb3762b1a4631a0b98e25e23cef0193
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/915/default_ott.mpd
-
-
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -7022,8 +7022,6 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2611/default_ott.mpd
 #EXTINF:-1 tvg-id="ColorsTamilHD" tvg-name="Colors Tamil HD" group-title="INDIAN" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/fav-icon.png" tvg-logo="https://ws.kapallayar.cc//image//Logo//INDIA//IND_COLORS.png",222 COLORS TAMIL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2101/default_ott.mpd
-
-
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -7048,8 +7046,6 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2707/default_ott.mpd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2311/default_ott.mpd
 
 
-
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRD77dZAThIRyeYE50YTPXVl6pFksv5G7W4gg&usqp=CAU" group-title="INDIAN" tvg-id="Vasantham" tvg-name="Vasantham", Vasantham
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/mewatch/vasantham
@@ -7061,17 +7057,12 @@ https://aqfadtv.xyz/live/mewatch/vasantham/index.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5073/default_primary.mpd
 
-
-
 #EXTINF:-1 tvg-id="203" ch-number="203" group-title="INDIAN" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/61_144.png",203 Thaai vaazthu
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/202
 #http://iptv12k.com:35461/80201051217/424567/1827
 #http://linearjitp-playback.astro.com.my/dash-wv/linear/202/default_primary.mpd
 #https://onedrive.aqfadtv.xyz/api/raw/?path=/expired.mp4&raw=true
-
-
-
 
 #EXTINF:0 group-title="INDIAN" tvg-logo="https://threetamil.tv/wp-content/uploads/2020/08/3Tamil_logo_white.png", 3 Tamil
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -7085,9 +7076,6 @@ https://6n3yogbnd9ok-hls-live.5centscdn.com/threetamil/d0dbe915091d400bd8ee7f27f
 #KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
 http://media.7starcloud.com:1935/live/7star/playlist.m3u8
 
-
-
-
 #EXTINF:0 tvg-logo="https://i.imgur.com/f7J37yv.png" group-title="INDIAN",EET TV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
@@ -7095,17 +7083,11 @@ http://media.7starcloud.com:1935/live/7star/playlist.m3u8
 https://eu.streamjo.com/eetlive/eettv.m3u8
 
 
-
-
 #EXTINF:0, group-title="INDIAN" tvg-logo="http://www.erodesrikrishnatv.com/images/logo.png",SRI KRISHNA TV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
 http://media.7starcloud.com:1935/erodekrishnatv/livestream/playlist.m3u8
-
-
-
-
 
 
 #EXTINF:0, group-title="INDIAN" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/Madha_TV-black.png",Madha TV
@@ -7287,14 +7269,16 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/100/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"F24pOLznldHIVVmiRAR39w", "kid":"KGrvTo2F22bgX+Slx5nkEA" } ], "type":"temporary" }
 #EXTINF:-1 tvg-id="311.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroAOD_2024.png" group-logo="" group-title="CHINESE",AOD
-http://d14sysfrzu8fji.cloudfront.net/aod.mpd
+https://ht7mvvlb8c.execute-api.ap-southeast-1.amazonaws.com/aod.mpd
+##http://d14sysfrzu8fji.cloudfront.net/aod.mpd
 #http://d37lxn4ksn51zz.cloudfront.net/aod.mpd
 
 #EXTINF:-1 tvg-id="308" tvg-name="Astro QJ" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/158_144.png" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="CHINESE", Astro Quan Jia HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=89de71cf39be0946dec828edff84d010:9d5e036094bb77cbaf8867d3272c66d0
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
-http://d14sysfrzu8fji.cloudfront.net/qj.mpd
+https://ht7mvvlb8c.execute-api.ap-southeast-1.amazonaws.com/qj.mpd
+##http://d14sysfrzu8fji.cloudfront.net/qj.mpd
 #http://d37lxn4ksn51zz.cloudfront.net/qj.mpd
 #http://d1w72er2qn2fg9.cloudfront.net/qj.mpd
 #https://linearjitp-playback.astro.com.my/dash-wv/linear/2507/default_ott.mpd
@@ -7591,16 +7575,6 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/603/default_ott.mpd
 #EXTINF:-1 tvg-id="ShowcaseMovies" tvg-name="Showcase Movies" group-title="MOVIES" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/fav-icon.png" tvg-logo="https://ws.kapallayar.cc//image//Logo//ENT//New//E_Show.png",413 SHOWCASE MOVIES
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5054/default_ott.mpd
-
-
-
-
-
-
-
-
-
-
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
