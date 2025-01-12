@@ -5013,7 +5013,7 @@
 
 //=======≈==============================================================================================================================================================
 
-#EXTM3U refresh="15" billed-msg="☢️ AYAHDEE TV CHANNELS ©️™️ 🇲🇾 | LIVETV📺 NEW🎥 SPORT⚽️ MOVIE🎬 SERIES🖼 KIDS🧸 VARIETY🎭 DOCUMENTARY🤿 RADIO📻 | UPDATE: 09 JAN 2025  ☢️"
+#EXTM3U refresh="15" billed-msg="☢️ AYAHDEE TV CHANNELS ©️™️ 🇲🇾 | LIVETV📺 NEW🎥 SPORT⚽️ MOVIE🎬 SERIES🖼 KIDS🧸 VARIETY🎭 DOCUMENTARY🤿 RADIO📻 | UPDATE: 12 JAN 2025  ☢️"
 
 //======================================================================================================================================================================
 
@@ -5288,6 +5288,9 @@ https://raw.githubusercontent.com/ayahdee/-/refs/heads/main/P%C2%AE%EF%B8%8F%C2%
 http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/1365
 http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/18622
 http://opplex.tv:8080/1525939/1552699/352088
+
+#EXTINF:-1 tvg-id="AstroSupersport4" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/539_144.png" group-title="SPORTS",Astro Football (Backup)
+https://raw.githubusercontent.com/ayahdee/iptv.xtro/46c4140836ce1873b87ae853ba8486a85689f689/F%E2%97%8B%E2%97%8BtB%40%7C%7C.m3u8
 
 
 =======================================Arena Bola==Premier==Grandstand==BACKUP END===================================================
