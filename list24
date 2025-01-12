@@ -5013,7 +5013,7 @@
 
 //=======≈==============================================================================================================================================================
 
-#EXTM3U refresh="15" billed-msg="☢️ AYAHDEE TV CHANNELS ©️™️ 🇲🇾 | LIVETV📺 NEW🎥 SPORT⚽️ MOVIE🎬 SERIES🖼 KIDS🧸 VARIETY🎭 DOCUMENTARY🤿 RADIO📻 | UPDATE: 12 JAN 2025  ☢️"
+#EXTM3U refresh="15" billed-msg="☢️ AYAHDEE TV CHANNELS ©️™️ 🇲🇾 | LIVETV📺 NEW🎥 SPORT⚽️ MOVIE🎬 SERIES🖼 KIDS🧸 VARIETY🎭 DOCUMENTARY🤿 RADIO📻 | UPDATE: 13 JAN 2025  ☢️"
 
 //======================================================================================================================================================================
 
@@ -5743,6 +5743,22 @@ https://webhdrunns.mizhls.ru/lb/premium41/index.m3u8|referer=https://lewblivehdp
 
 #EXTINF:-1 tvg-name="EuroSport 2 " tvg-logo="https://dnl.eurosport.com/sd/img/smart_banner/eurosport_logo_360.png" group-title="SPORTS",EuroSport 2 
 https://webhdrunns.mizhls.ru/lb/premium42/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+
+#EXTINF:-1 tvg-name="Sky Sports Main Event" tvg-logo="https://lo1.in/uk/skyspns.png" group-title="SPORTS",Sky Sports Main Event
+
+
+
+#EXTINF:-1 tvg-name="Sky Sports Football" tvg-logo="https://lo1.in/uk/skyspns.png" group-title="SPORTS",Sky Sports Football
+
+
+
+#EXTINF:-1 tvg-name="Sky Sports Premier League" tvg-logo="https://lo1.in/uk/skyspns.png" group-title="SPORTS",Sky Sports Premier League
+
+
+
+#EXTINF:-1 tvg-name="Liverpool FC TV" tvg-logo="https://lo1.in/uk/skyspns.png" group-title="SPORTS",Liverpool FC TV
+
+
 
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-uk-us-uk.png" group-title="SPORTS",TNT Sports 1 UK
