@@ -5410,8 +5410,9 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5128/default.mpd
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|bdd71968a15b634b3e097173a8b7ea7b:0510cd2f13504601956fb58167de6bea
 #https://ucdn.starhubgo.com/bpk-tv/HubSensasiHD/output/manifest.mpd
-https://raw.githubusercontent.com/ayahdee/-/refs/heads/main/%24%E2%82%AC%CF%80%24%E2%88%86%24%C2%A1.%20m3u8
 https://aseanic.github.io/m3u8/sensasi.m3u8
+https://raw.githubusercontent.com/ayahdee/-/refs/heads/main/%24%E2%82%AC%CF%80%24%E2%88%86%24%C2%A1.%20m3u8
+
 
 =≈=======================================RIA PRIMA WARNA CITRA BACKUP SERVER======================================================================
 
