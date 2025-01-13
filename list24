@@ -5140,7 +5140,7 @@ https://linear16-playback.sooka.my/CH1/masterCH1.mpd
 https://d1fk7kbmz4il3.cloudfront.net/CH1/masterCH1.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTHTTP:{"authorization":"Bearer heyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik5UQTJORGc0TVdZdFptSm1PUzAwTm1Vd0xXRXdaVGt0WVdZNU4yVmlNVGhrTmpRMyIsIndtb3BpZCI6MzIsImV4cCI6MTczNzM1OTQxNSwiaWF0IjoxNzM2NzU1NDE1fQ.0k48R5bBuGWlHRoyi2piU6RLsjLehWQi_e8JYDJKV1M"}
+#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik5UQTJORGc0TVdZdFptSm1PUzAwTm1Vd0xXRXdaVGt0WVdZNU4yVmlNVGhrTmpRMyIsIndtb3BpZCI6MzIsImV4cCI6MTczNzM1OTQxNSwiaWF0IjoxNzM2NzU1NDE1fQ.0k48R5bBuGWlHRoyi2piU6RLsjLehWQi_e8JYDJKV1M"}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"eTnjNb+Mu9aIL59cnN6+GQ", "kid":"mWhVRUkdQLSTs6SyY8ckXg" } ], "type":"temporary" }
