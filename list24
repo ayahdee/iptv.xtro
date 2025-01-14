@@ -5305,6 +5305,7 @@ https://raw.githubusercontent.com/ayahdee/iptv.xtro/46c4140836ce1873b87ae853ba84
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3f726fd5cbbf5944437a4dbfab431b10:376b009796e4ad50ea8f68d796676692
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
+https://akutv.info/rias
 https://ht7mvvlb8c.execute-api.ap-southeast-1.amazonaws.com/ria.mpd
 ##http://d14sysfrzu8fji.cloudfront.net/ria.mpd
 #http://d37lxn4ksn51zz.cloudfront.net/ria.mpd
@@ -5330,6 +5331,7 @@ https://raw.githubusercontent.com/ayahdee/-/refs/heads/main/R%C2%A1%40.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"hBL0RP++NQzy7OBR+RUukA", "kid":"C2Uyau3j7b6B5vtAMX1TEA" } ], "type":"temporary" }
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://akutv.info/primas
 https://ht7mvvlb8c.execute-api.ap-southeast-1.amazonaws.com/prima.mpd
 ##http://d14sysfrzu8fji.cloudfront.net/prima.mpd
 #http://d37lxn4ksn51zz.cloudfront.net/prima.mpd
@@ -5376,6 +5378,7 @@ https://raw.githubusercontent.com/ayahdee/-/refs/heads/main/W%40%C2%AE%CF%80%E2%
 #EXTINF:-1 tvg-id="Astro Citra" ch-number="107" group-title="ASTRO" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png",ASTRO CITRA HD ✔️
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=84bf9ad6848be7db20f9d16823deef10:654f2d25a5bfb27c9e5ae0852584a166
+https://akutv.info/citras
 https://ht7mvvlb8c.execute-api.ap-southeast-1.amazonaws.com/citra.mpd
 ##http://d14sysfrzu8fji.cloudfront.net/citra.mpd
 #http://d37lxn4ksn51zz.cloudfront.net/citra.mpd
@@ -5466,6 +5469,7 @@ http://OPPSS❗️OFFLINE🙏..OUR TECHNICIAN TRYING TO FIX..TQ😅
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"N2sAl5bkrVDqj2jXlmdmkg", "kid":"P3Jv1cu/WURDek2/q0MbEA" } ], "type":"temporary" }
+https://akutv.info/rias
 https://ht7mvvlb8c.execute-api.ap-southeast-1.amazonaws.com/ria.mpd
 ##http://d14sysfrzu8fji.cloudfront.net/ria.mpd
 #http://d37lxn4ksn51zz.cloudfront.net/ria.mpd
@@ -5478,6 +5482,7 @@ https://ht7mvvlb8c.execute-api.ap-southeast-1.amazonaws.com/ria.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"hBL0RP++NQzy7OBR+RUukA", "kid":"C2Uyau3j7b6B5vtAMX1TEA" } ], "type":"temporary" }
+https://akutv.info/primas
 https://ht7mvvlb8c.execute-api.ap-southeast-1.amazonaws.com/prima.mpd
 ##http://d14sysfrzu8fji.cloudfront.net/prima.mpd
 #http://d37lxn4ksn51zz.cloudfront.net/prima.mpd
@@ -5501,6 +5506,7 @@ http://d14sysfrzu8fji.cloudfront.net/warna.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"ZU8tJaW/snyeWuCFJYShZg", "kid":"hL+a1oSL59sg+dFoI97vEA" } ], "type":"temporary" } 
+https://akutv.info/citras
 https://ht7mvvlb8c.execute-api.ap-southeast-1.amazonaws.com/citra.mpd
 ##http://d14sysfrzu8fji.cloudfront.net/citra.mpd
 #http://d37lxn4ksn51zz.cloudfront.net/citra.mpd
