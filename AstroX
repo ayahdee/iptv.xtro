@@ -970,6 +970,7 @@ http://d1w72er2qn2fg9.cloudfront.net/bola1.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"N2sAl5bkrVDqj2jXlmdmkg", "kid":"P3Jv1cu/WURDek2/q0MbEA" } ], "type":"temporary" }
+https://abahtv.live/rias
 http://d1w72er2qn2fg9.cloudfront.net/ria.mpd
 
 ##### PRIMA ##### ONM ###
@@ -979,6 +980,7 @@ http://d1w72er2qn2fg9.cloudfront.net/ria.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"hBL0RP++NQzy7OBR+RUukA", "kid":"C2Uyau3j7b6B5vtAMX1TEA" } ], "type":"temporary" }
+https://abahtv.live/primas
 http://d1w72er2qn2fg9.cloudfront.net/prima.mpd
 
 ##### WARNA ##### ONM ###
@@ -997,6 +999,7 @@ http://d1w72er2qn2fg9.cloudfront.net/warna.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"ZU8tJaW/snyeWuCFJYShZg", "kid":"hL+a1oSL59sg+dFoI97vEA" } ], "type":"temporary" } 
+https://abahtv.live/citras
 http://d1w72er2qn2fg9.cloudfront.net/citra.mpd
 
 =====================================================Updated 20 Nov 2024========≈===≈=================================
