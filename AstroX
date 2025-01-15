@@ -747,6 +747,24 @@ http://opplex.tv:8080/1525939/1552699/352088
 ########################################################################ASTRO##################################################################################
 
 
+#EXTHTTP:{"X-Token":6c070350d0acb7deecf311dd9020cd357734654d347531523777525547533868366f6374536744616e505567547a627876742b2f32486268416d633d} 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://live.rocket-tv.online/lic.php
+#EXTINF:-1 tvg-id="astro ria" tvg-name="RIA HD" group-title="SERANGKAI" group-logo="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/Astro_Ria_HD_%282015%29.png" ch-number="",Astro Ria FHD
+https://live.rocket-tv.online/Astro_Ria/default_primary.mpd
+
+#EXTHTTP:{"X-Token":6c070350d0acb7deecf311dd9020cd357734654d347531523777525547533868366f6374536744616e505567547a627876742b2f32486268416d633d} 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://live.rocket-tv.online/lic.php
+#EXTINF:-1 tvg-id="astro prima" tvg-name="PRIMA HD" group-title="SERANGKAI" group-logo="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/Astro_Prima_HD_%282015%29.png" ch-number="" Astro Prima FHD
+https://live.rocket-tv.online/Astro_Prima/default_primary.mpd
+
+#EXTHTTP:{"X-Token":6c070350d0acb7deecf311dd9020cd357734654d347531523777525547533868366f6374536744616e505567547a627876742b2f32486268416d633d} 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://live.rocket-tv.online/lic.php
+#EXTINF:-1 tvg-id="astro citra" tvg-name="CITRA HD" group-title="SERANGKAI" group-logo="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/Astro_Citra_HD_%282015%29.png" ch-number="",Astro Citra FHD
+https://live.rocket-tv.online/Astro_Citra/default_primary.mpd
+
 --------------------ASTRO RIA---------------------------
 
 #EXTINF:-1 tvg-id="Astro Ria" ch-number="104" group-logo="https://iili.io/2AgUl8G.png" group-title="ASTRO" tvg-logo="https://raw.githubusercontent.com/ayahdee/iptv.xtro/refs/heads/main/ria.png",ASTRO RIA HD ✔️
