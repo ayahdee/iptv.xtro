@@ -5425,7 +5425,7 @@ https://raw.githubusercontent.com/ayahdee/-/refs/heads/main/%24%E2%82%AC%CF%80%2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3f726fd5cbbf5944437a4dbfab431b10:376b009796e4ad50ea8f68d796676692
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://linears-playback.astro.com.my/vsg/41NshAh1_Sasy049AydGF5STYHFQ6R5W-rZf2ErWy3Hr8=dWQ_/dash-wv/jitp-linearwm/1004/default_ott.mpd
+https://linears-playback.astro.com.my/vsg/41NshAh1_Sasy049AydGF5SSxBfiXQ79g8IwGkCEYXB3I=TYu6/dash-wv/jitp-linearwm/1004/default_ott.mpd
 ##https://playlist.x10.mx/get.php?id=ria.mpd
 ##http://d37lxn4ksn51zz.cloudfront.net/ria.mpd
 ##https://abahtv.live/rias
@@ -5446,7 +5446,7 @@ https://linears-playback.astro.com.my/vsg/41YlqjTDdCzlN4YZlvTrBfz9HKuC5gIWveZuLC
 #EXTINF:-1 tvg-id="108.astro" ch-number="108" group-title="Astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png",Astro Citra HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=84bf9ad6848be7db20f9d16823deef10:654f2d25a5bfb27c9e5ae0852584a166
-http://linears-playback.astro.com.my/vsg/419QfpePltQHVnsovtOlgIWpVr2wNObLe6T9l0rPCopxs=wGBF/dash-wv/jitp-linearwm/2700/default_ott.mpd
+https://linears-playback.astro.com.my/vsg/419QfpePltQHVnsovtOlgIWnrNRWsMf3ZvQ-Pmn7Q00IA=7DKj/dash-wv/jitp-dashisowm/2700/default_ott.mpd
 ##https://playlist.x10.mx/get.php?id=citra.mpd
 ##http://d37lxn4ksn51zz.cloudfront.net/citra.mpd
 ##https://abahtv.live/citras
@@ -5459,7 +5459,7 @@ p
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0b65326aede3edbe81e6fb40317d5310:8412f444ffbe350cf2ece051f9152e90
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
-https://linears-playback.astro.com.my/vsg/41YABema8dPANcBjS0TFPo6flPTJ2-LEhGHBWYFeqlRkw=mGZl/dash-wv/jitp-linearwm/1000/default_ott.mpd
+https://linears-playback.astro.com.my/vsg/41YABema8dPANcBjS0TFPo6cAPpsb1DnTlS1h2Qn-aS8k=CBU0/dash-wv/jitp-dashisowm/1000/default_ott.mpd
 ##https://playlist.x10.mx/get.php?id=prima.mpd
 ##http://d37lxn4ksn51zz.cloudfront.net/prima.mpd
 ##https://abahtv.live/primas
@@ -5472,7 +5472,8 @@ p*
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=21759e73f142452aa01acc6d08a86e50:fc9eaf659647c675315f65747c2553da
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
-https://l18.dp.sooka.my/1000/linear/index.mpd
+https://linears-playback.astro.com.my/vsg/41YABema8dPANcBjS0TFPo6cAPpsb1DnTlS1h2Qn-aS8k=CBU0/dash-wv/jitp-dashisowm/1000/default_ott.mpd
+##https://l18.dp.sooka.my/1000/linear/index.mpd
 
 =========================================ROCKET TV=========RIA=PRIMA=CITRA==================================
 
@@ -5480,18 +5481,21 @@ https://l18.dp.sooka.my/1000/linear/index.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"N2sAl5bkrVDqj2jXlmdmkg", "kid":"P3Jv1cu/WURDek2/q0MbEA" } ], "type":"temporary" }
 #EXTINF:-1 tvg-id="104.astro" tvg-name="RIA HD" group-title="ASTRO" group-logo="#https://rocket-tv.online/Gambar.webp" tvg-logo="https://i.imgur.com/QU2aMAf.png" ch-number="104",104 Astro Ria FHD Server 1
+https://linears-playback.astro.com.my/vsg/41NshAh1_Sasy049AydGF5SSxBfiXQ79g8IwGkCEYXB3I=TYu6/dash-wv/jitp-linearwm/1004/default_ott.mpd
 https://token.rocket-tv.online/Astro_Ria/default_primary.mpd
 
 #EXTHTTP:{"X-Token":"a47314ebe9c73e8f9850edc1a3c63570584f5a316c32676b7035574f466651734b50674f555275433773756559794f774a6b76666a2f3350384e343d"} 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"hBL0RP++NQzy7OBR+RUukA","kid":"C2Uyau3j7b6B5vtAMX1TEA"}],"type":"temporary"}
 #EXTINF:-1 tvg-id="105.astro" tvg-name="PRIMA HD" group-title="ASTRO" tvg-logo="https://i.imgur.com/fEGkzL7.png" ch-number="105",105 Astro Prima Server 1
+https://linears-playback.astro.com.my/vsg/41YABema8dPANcBjS0TFPo6cAPpsb1DnTlS1h2Qn-aS8k=CBU0/dash-wv/jitp-dashisowm/1000/default_ott.mpd
 https://token.rocket-tv.online/Astro_Prima/default_primary.mpd
 
 #EXTHTTP:{"X-Token":"a47314ebe9c73e8f9850edc1a3c63570584f5a316c32676b7035574f466651734b50674f555275433773756559794f774a6b76666a2f3350384e343d"} 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"ZU8tJaW/snyeWuCFJYShZg", "kid":"hL+a1oSL59sg+dFoI97vEA" } ], "type":"temporary" } 
 #EXTINF:-1 tvg-id="108.astro" tvg-name="CITRA HD" group-title="ASTRO" tvg-logo="https://i.imgur.com/2qjYS1c.png" group-logo="#https://rocket-tv.online/Gambar.webp" ch-number="108",108 Astro Citra Server 1
+https://linears-playback.astro.com.my/vsg/419QfpePltQHVnsovtOlgIWnrNRWsMf3ZvQ-Pmn7Q00IA=7DKj/dash-wv/jitp-dashisowm/2700/default_ott.mpd
 https://token.rocket-tv.online/Astro_Citra/default_primary.mpd
 
 ===========================================ROCKET TV=========RIA=PRIMA=CITRA=========END=========================
