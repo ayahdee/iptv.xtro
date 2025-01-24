@@ -5459,7 +5459,7 @@ p
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0b65326aede3edbe81e6fb40317d5310:8412f444ffbe350cf2ece051f9152e90
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
-https://linears-playback.astro.com.my/vsg/41YABema8dPANcBjS0TFPo6cAPpsb1DnTlS1h2Qn-aS8k=CBU0/dash-wv/jitp-dashisowm/1000/default_ott.mpd
+https://linears-playback.astro.com.my/vsg/41m3G2RLcinIqKSj5Dg7oT8Uxq3bwJox37JwDST13uXDY=sNLu/dash-wv/jitp-linearwm/1004/default_ott.mpd
 ##https://playlist.x10.mx/get.php?id=prima.mpd
 ##http://d37lxn4ksn51zz.cloudfront.net/prima.mpd
 ##https://abahtv.live/primas
@@ -5495,7 +5495,7 @@ Test PRIMA FHD
 #EXTHTTP:{"X-Token":"7b2ca6a604a8afd6ec37afb6cbbd610d4a6d4c6f7430654d30436c57686f557644666f5a692b4d4d50676b776632564245653146504536504138513d"} 
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#EXTINF:-1 tvg-id="105.astro" ch-number="105" group-title="Sooka Hot 24 Jam" tvg-id="AstroPrima" ch-number="105" tvg-logo="https://i.imgur.com/Rr1E0Ym.png",Astro Prima Server 2
+#EXTINF:-1 tvg-id="105.astro" ch-number="105" group-title="ASTRO" tvg-id="AstroPrima" ch-number="105" tvg-logo="https://i.imgur.com/Rr1E0Ym.png",Astro Prima Server 2
 #KODIPROP:inputstream.adaptive.license_key={"21759e73f142452aa01acc6d08a86e50":"fc9eaf659647c675315f65747c2553da","6613bc303647468c974c3c839d5201e9":"5422811c83996a25f51229219b41c410"}
 http://token.rocket-tv.online/Sooka/index.mpd
 
