@@ -5491,6 +5491,15 @@ https://token.rocket-tv.online/Astro_Ria/default_primary.mpd
 https://linears-playback.astro.com.my/vsg/41YABema8dPANcBjS0TFPo6cAPpsb1DnTlS1h2Qn-aS8k=CBU0/dash-wv/jitp-dashisowm/1000/default_ott.mpd
 https://token.rocket-tv.online/Astro_Prima/default_primary.mpd
 
+Test PRIMA FHD
+#EXTHTTP:{"X-Token":"7b2ca6a604a8afd6ec37afb6cbbd610d4a6d4c6f7430654d30436c57686f557644666f5a692b4d4d50676b776632564245653146504536504138513d"} 
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#EXTINF:-1 tvg-id="105.astro" ch-number="105" group-title="Sooka Hot 24 Jam" tvg-id="AstroPrima" ch-number="105" tvg-logo="https://i.imgur.com/Rr1E0Ym.png",Astro Prima Server 2
+#KODIPROP:inputstream.adaptive.license_key={"21759e73f142452aa01acc6d08a86e50":"fc9eaf659647c675315f65747c2553da","6613bc303647468c974c3c839d5201e9":"5422811c83996a25f51229219b41c410"}
+http://token.rocket-tv.online/Sooka/index.mpd
+
+
 #EXTHTTP:{"X-Token":"a47314ebe9c73e8f9850edc1a3c63570584f5a316c32676b7035574f466651734b50674f555275433773756559794f774a6b76666a2f3350384e343d"} 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"ZU8tJaW/snyeWuCFJYShZg", "kid":"hL+a1oSL59sg+dFoI97vEA" } ], "type":"temporary" } 
