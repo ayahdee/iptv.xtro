@@ -899,6 +899,81 @@ http://OPPSS❗️OFFLINE🙏..OUR TECHNICIAN TRYING TO FIX..TQ😅
 
 =========================================RIA PRIMA WARNA CITRA BACKUP SERVER END======================================================================
 
+========================≈===ROCKET TV=========RIA PRIMA CITRA===≈======≈============
+
+#EXTHTTP:{"X-Token":"b570120b3abbdb13ad374a23261b42d639326732656a50355653684f6153786658743663577268347a356c50523463626c4361706233537934344d3d"} 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"aMXbOzCfq1UDpv21gN3ygQ","kid":"x3N+3R1ngk+nDfcxVL+BEA"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="202.astro" tvg-name="VINMEEN HD" group-logo="https://rocket-tv.online/Gambar.webp" group-title="SERANGKAI" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/82/Astro_Vinmeen_HD.png" ch-number="202",202 Astro Vinmeen Server 1
+https://token.rocket-tv.online/Astro_Vinmeen/default_primary.mpd
+
+#EXTHTTP:{"X-Token":"b570120b3abbdb13ad374a23261b42d639326732656a50355653684f6153786658743663577268347a356c50523463626c4361706233537934344d3d"} 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"4VG7gUaKhCbWqxKGDTFKow", "kid":"SZqPNoBksRzAkrewE9sHEA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="803.astro" group-logo="#https://rocket-tv.online/Gambar.webp" tvg-name="ARENA BOLA" group-title="SERANGKAI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b2/Astro_Arena_Bola_1_%282024%29.png" ch-number="803",803 Astro Arena Bola FHD Server 1
+https://token.rocket-tv.online/Arena_Bola/default_primary.mpd
+
+#EXTHTTP:{"X-Token":"b570120b3abbdb13ad374a23261b42d639326732656a50355653684f6153786658743663577268347a356c50523463626c4361706233537934344d3d"} 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"se/6nlHPOLOuZ2vCZJN++w","kid":"Yqe3kXqtUSPNTfZcVhxwEA"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="804.astro" tvg-name="ARENA BOLA 2" group-title="SERANGKAI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/48/Astro_Arena_Bola_2_%282024%29.png"  ch-number="804",804 Astro Arena Bola 2 HD Server 1
+https://token.rocket-tv.online/Arena_Bola_2/default_primary.mpd
+
+#EXTHTTP:{"X-Token":"b570120b3abbdb13ad374a23261b42d639326732656a50355653684f6153786658743663577268347a356c50523463626c4361706233537934344d3d"} 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"TxVBP35HZ7UMSOGbf5ovzA","kid":"90mrcfInmZv7CY9zNZqsEA"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="811.astro" tvg-name="ASSP HD" group-title="SERANGKAI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Astro_Premier_League_1_%282024%29.png" ch-number="811",811 Astro Premier League Server 1
+https://token.rocket-tv.online/Premier_League/default_primary.mpd
+
+#EXTHTTP:{"X-Token":"b570120b3abbdb13ad374a23261b42d639326732656a50355653684f6153786658743663577268347a356c50523463626c4361706233537934344d3d"} 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"3fpujVSbTVF3qcref5oLIw","kid":"wdyS8HifESUDwNs73i8SEA"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="812.astro" tvg-name="ASSP2 HD" group-title="SERANGKAI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Astro_Premier_League_2_%282024%29.png/800px-Astro_Premier_League_2_%282024%29.png" ch-number="812",812 Astro Premier League 2 Server 1
+https://token.rocket-tv.online/Premier_League_2/default_primary.mpd
+
+#EXTHTTP:{"X-Token":"b570120b3abbdb13ad374a23261b42d639326732656a50355653684f6153786658743663577268347a356c50523463626c4361706233537934344d3d"} 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"Fo8/rfxzC6PfyTL3xDDifQ","kid":"W+Zqb4jv7j1uMPcqnFjjEA"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="810.astro" tvg-name="ASSP3 HD" group-title="SERANGKAI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Astro_Grandstand_%282024%29.png" ch-number="810",810 Astro Grandstand Server 1
+https://token.rocket-tv.online/Astro_Grandstand/default_primary.mpd
+
+#EXTHTTP:{"X-Token":"b570120b3abbdb13ad374a23261b42d639326732656a50355653684f6153786658743663577268347a356c50523463626c4361706233537934344d3d"} 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"N2sAl5bkrVDqj2jXlmdmkg", "kid":"P3Jv1cu/WURDek2/q0MbEA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="104.astro" tvg-name="RIA HD" group-title="SERANGKAI" group-logo="#https://rocket-tv.online/Gambar.webp" tvg-logo="https://i.imgur.com/QU2aMAf.png" ch-number="104",104 Astro Ria FHD Server 1
+https://token.rocket-tv.online/Astro_Ria/default_primary.mpd
+
+#EXTHTTP:{"X-Token":"b570120b3abbdb13ad374a23261b42d639326732656a50355653684f6153786658743663577268347a356c50523463626c4361706233537934344d3d"} 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"hBL0RP++NQzy7OBR+RUukA","kid":"C2Uyau3j7b6B5vtAMX1TEA"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="105.astro" tvg-name="PRIMA HD" group-title="SERANGKAI" tvg-logo="https://i.imgur.com/fEGkzL7.png" ch-number="105",105 Astro Prima Server 1
+https://token.rocket-tv.online/Astro_Prima/default_primary.mpd
+
+#EXTHTTP:{"X-Token":"b570120b3abbdb13ad374a23261b42d639326732656a50355653684f6153786658743663577268347a356c50523463626c4361706233537934344d3d"} 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"ZU8tJaW/snyeWuCFJYShZg", "kid":"hL+a1oSL59sg+dFoI97vEA" } ], "type":"temporary" } 
+#EXTINF:-1 tvg-id="108.astro" tvg-name="CITRA HD" group-title="SERANGKAI" tvg-logo="https://i.imgur.com/2qjYS1c.png" group-logo="#https://rocket-tv.online/Gambar.webp" ch-number="108",108 Astro Citra Server 1
+https://token.rocket-tv.online/Astro_Citra/default_primary.mpd
+
+#EXTHTTP:{"X-Token":"b570120b3abbdb13ad374a23261b42d639326732656a50355653684f6153786658743663577268347a356c50523463626c4361706233537934344d3d"} 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"CE52Vhu6nU866VOs3Tez7Q","kid":"kYrevhCphI1WfcbLWtzlEA"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="241.astro" tvg-name="THANGATHIRAI HD" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_BoxOffice_Movies_v1.png" group-title="SERANGKAI" ch-number="241",241 Box Office Thangathirai FHD Server 1
+https://token.rocket-tv.online/Office_Thangathirai/default_primary.mpd
+
+#EXTHTTP:{"X-Token":"b570120b3abbdb13ad374a23261b42d639326732656a50355653684f6153786658743663577268347a356c50523463626c4361706233537934344d3d"} 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"nV4DYJS7d8uviGfTJyxm0A", "kid":"id5xzzm+CUbeyCjt/4TQEA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="308.astro" tvg-name="QJ HD" group-title="SERANGKAI" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/158_144.png" ch-number="308",308 Astro QJ FHD Server 1
+https://token.rocket-tv.online/Astro_QJ/default_primary.mpd
+
+#EXTHTTP:{"X-Token":"b570120b3abbdb13ad374a23261b42d639326732656a50355653684f6153786658743663577268347a356c50523463626c4361706233537934344d3d"} 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"F24pOLznldHIVVmiRAR39w","kid":"KGrvTo2F22bgX+Slx5nkEA"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="311.astro" tvg-name="AOD HD" group-title="SERANGKAI" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/87_144.png" ch-number="311",311 Astro AOD Server 1
+https://token.rocket-tv.online/Astro_AOD/default_primary.mpd
+
+========================≈===ROCKET TV=========RIA PRIMA CITRA===≈======≈END============
 
 
 #################################################RIA==PRIMA==WARNA==LIVE BROADCAST ONLY######################################################################################################################
