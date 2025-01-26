@@ -5497,10 +5497,10 @@ https://linears-playback.astro.com.my/vsg/41YABema8dPANcBjS0TFPo6cAPpsb1DnTlS1h2
 https://token.rocket-tv.online/Astro_Prima/default_primary.mpd
 
 Test PRIMA FHD
+#EXTINF:-1 tvg-id="105.astro" ch-number="105" group-title="ASTRO" tvg-id="AstroPrima" ch-number="105" tvg-logo="https://i.imgur.com/Rr1E0Ym.png",Astro Prima Server 2
 #EXTHTTP:{"Authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik1EVmlZMkkzTm1NdE9UUTNPUzAwTTJZd0xXRTFZVEF0WkRnMk4ySmtaVEk1TW1FeiIsIndtb3BpZCI6MzIsImV4cCI6MTczNzk3NDcxMywiaWF0IjoxNzM3MzcwNzEzfQ.TJyXRLWUQie3JhWvgw-uYBbs-nsX8j8ZxWdVF9Db_40"}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#EXTINF:-1 tvg-id="105.astro" ch-number="105" group-title="ASTRO" tvg-id="AstroPrima" ch-number="105" tvg-logo="https://i.imgur.com/Rr1E0Ym.png",Astro Prima Server 2
 #KODIPROP:inputstream.adaptive.license_key={"21759e73f142452aa01acc6d08a86e50":"fc9eaf659647c675315f65747c2553da","6613bc303647468c974c3c839d5201e9":"5422811c83996a25f51229219b41c410"}
 http://token.rocket-tv.online/Sooka/index.mpd
 
