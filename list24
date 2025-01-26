@@ -5511,7 +5511,8 @@ Test PRIMA FHD
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"21759e73f142452aa01acc6d08a86e50":"fc9eaf659647c675315f65747c2553da","6613bc303647468c974c3c839d5201e9":"5422811c83996a25f51229219b41c410"}
-http://token.rocket-tv.online/Sooka/index.mpd
+https://l18.dp.sooka.my/1000/linear/index.mpd
+##http://token.rocket-tv.online/Sooka/index.mpd
 
 
 #EXTHTTP:{"X-Token":"a47314ebe9c73e8f9850edc1a3c63570584f5a316c32676b7035574f466651734b50674f555275433773756559794f774a6b76666a2f3350384e343d"} 
