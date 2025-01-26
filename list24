@@ -5491,21 +5491,18 @@ https://l18.dp.sooka.my/1000/linear/index.mpd
 
 =========================================ROCKET TV=========RIA=PRIMA=CITRA==================================
 
-#EXTHTTP:{"X-Token":"a47314ebe9c73e8f9850edc1a3c63570584f5a316c32676b7035574f466651734b50674f555275433773756559794f774a6b76666a2f3350384e343d"} 
+#EXTHTTP:{"X-Token":"b570120b3abbdb13ad374a23261b42d639326732656a50355653684f6153786658743663577268347a356c50523463626c4361706233537934344d3d"}  
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"N2sAl5bkrVDqj2jXlmdmkg", "kid":"P3Jv1cu/WURDek2/q0MbEA" } ], "type":"temporary" }
-##EXTINF:-1 tvg-id="104.astro" tvg-name="RIA HD" group-title="ASTRO" group-logo="#https://rocket-tv.online/Gambar.webp" tvg-logo="https://i.imgur.com/QU2aMAf.png" ch-number="104",104 Astro Ria FHD Server 1
-https://linears-playback.astro.com.my/vsg/41NshAh1_Sasy049AydGF5SSxBfiXQ79g8IwGkCEYXB3I=TYu6/dash-wv/jitp-linearwm/1004/default_ott.mpd
+#EXTINF:-1 tvg-id="104.astro" tvg-name="RIA HD" group-title="ASTRO" group-logo="#https://rocket-tv.online/Gambar.webp" tvg-logo="https://i.imgur.com/QU2aMAf.png" ch-number="104",104 Astro Ria FHD Server 1
 https://token.rocket-tv.online/Astro_Ria/default_primary.mpd
 
 
 #EXTINF:-1 tvg-id="105.astro" tvg-name="PRIMA HD" group-title="ASTRO" tvg-logo="https://i.imgur.com/fEGkzL7.png" ch-number="105",105 Astro Prima Server 1
-#EXTHTTP:{"Authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik1EVmlZMkkzTm1NdE9UUTNPUzAwTTJZd0xXRTFZVEF0WkRnMk4ySmtaVEk1TW1FeiIsIndtb3BpZCI6MzIsImV4cCI6MTczNzk3NDcxMywiaWF0IjoxNzM3MzcwNzEzfQ.TJyXRLWUQie3JhWvgw-uYBbs-nsX8j8ZxWdVF9Db_40"}
+#EXTHTTP:{"X-Token":"b570120b3abbdb13ad374a23261b42d639326732656a50355653684f6153786658743663577268347a356c50523463626c4361706233537934344d3d"} 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"VCKBHIOZaiX1Eikhm0HEEA", "kid":"ZhO8MDZHRoyXTDyDnVIB6Q" } ], "type":"temporary" }
-https://l18.dp.sooka.my/1000/linear/index.mpd
-##https://linears-playback.astro.com.my/vsg/41YABema8dPANcBjS0TFPo6cAPpsb1DnTlS1h2Qn-aS8k=CBU0/dash-wv/jitp-dashisowm/1000/default_ott.mpd
-##https://token.rocket-tv.online/Astro_Prima/default_primary.mpd
+https://token.rocket-tv.online/Astro_Prima/default_primary.mpd
 
 Test PRIMA FHD
 #EXTINF:-1 tvg-id="105.astro" ch-number="105" group-title="ASTRO" tvg-id="AstroPrima" ch-number="105" tvg-logo="https://i.imgur.com/Rr1E0Ym.png",Astro Prima Server 2
@@ -5517,11 +5514,10 @@ https://l18.dp.sooka.my/1000/linear/index.mpd
 ##http://token.rocket-tv.online/Sooka/index.mpd
 
 
-#EXTHTTP:{"X-Token":"a47314ebe9c73e8f9850edc1a3c63570584f5a316c32676b7035574f466651734b50674f555275433773756559794f774a6b76666a2f3350384e343d"} 
+#EXTHTTP:{"X-Token":"b570120b3abbdb13ad374a23261b42d639326732656a50355653684f6153786658743663577268347a356c50523463626c4361706233537934344d3d"} 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"ZU8tJaW/snyeWuCFJYShZg", "kid":"hL+a1oSL59sg+dFoI97vEA" } ], "type":"temporary" } 
-##EXTINF:-1 tvg-id="108.astro" tvg-name="CITRA HD" group-title="ASTRO" tvg-logo="https://i.imgur.com/2qjYS1c.png" group-logo="#https://rocket-tv.online/Gambar.webp" ch-number="108",108 Astro Citra Server 1
-https://linears-playback.astro.com.my/vsg/419QfpePltQHVnsovtOlgIWnrNRWsMf3ZvQ-Pmn7Q00IA=7DKj/dash-wv/jitp-dashisowm/2700/default_ott.mpd
+#EXTINF:-1 tvg-id="108.astro" tvg-name="CITRA HD" group-title="ASTRO" tvg-logo="https://i.imgur.com/2qjYS1c.png" group-logo="#https://rocket-tv.online/Gambar.webp" ch-number="108",108 Astro Citra Server 1
 https://token.rocket-tv.online/Astro_Citra/default_primary.mpd
 
 ===========================================ROCKET TV=========RIA=PRIMA=CITRA=========END=========================
