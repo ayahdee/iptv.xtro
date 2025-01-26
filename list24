@@ -5502,7 +5502,7 @@ https://token.rocket-tv.online/Astro_Ria/default_primary.mpd
 #EXTINF:-1 tvg-id="105.astro" tvg-name="PRIMA HD" group-title="ASTRO" tvg-logo="https://i.imgur.com/fEGkzL7.png" ch-number="105",105 Astro Prima Server 1
 #EXTHTTP:{"Authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik1EVmlZMkkzTm1NdE9UUTNPUzAwTTJZd0xXRTFZVEF0WkRnMk4ySmtaVEk1TW1FeiIsIndtb3BpZCI6MzIsImV4cCI6MTczNzk3NDcxMywiaWF0IjoxNzM3MzcwNzEzfQ.TJyXRLWUQie3JhWvgw-uYBbs-nsX8j8ZxWdVF9Db_40"}
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"hBL0RP++NQzy7OBR+RUukA","kid":"C2Uyau3j7b6B5vtAMX1TEA"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"/J6vZZZHxnUxX2V0fCVT2g", "kid":"IXWec/FCRSqgGsxtCKhuUA" } ], "type":"temporary" }
 https://l18.dp.sooka.my/1000/linear/index.mpd
 ##https://linears-playback.astro.com.my/vsg/41YABema8dPANcBjS0TFPo6cAPpsb1DnTlS1h2Qn-aS8k=CBU0/dash-wv/jitp-dashisowm/1000/default_ott.mpd
 ##https://token.rocket-tv.online/Astro_Prima/default_primary.mpd
