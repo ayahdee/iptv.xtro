@@ -1303,4 +1303,5 @@ https://linear06-playback.sooka.my/CH4/masterCH4.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"9yP9JobZzo92qD+sNN/55A", "kid":"N/uZymGpTIif3HWLsqZ0lQ" } ], "type":"temporary" }
+https://l04.dp.sooka.my/1001/linear/index.mpd
 https://linear07-playback.sooka.my/CH4/masterCH4.mpd
