@@ -799,6 +799,7 @@ http://OPPSS❗️OFFLINE🙏..OUR TECHNICIAN TRYING TO FIX..TQ😅
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"hBL0RP++NQzy7OBR+RUukA", "kid":"C2Uyau3j7b6B5vtAMX1TEA" } ], "type":"temporary" }
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://linearjitp.perfecttv.net/prima.mpd
 http://d1w72er2qn2fg9.cloudfront.net/prima.mpd
 https://go.munzstore.xyz/primadona.mpd
 https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/1000/default.mpd
@@ -841,6 +842,7 @@ https://raw.githubusercontent.com/ayahdee/-/refs/heads/main/W%40%C2%AE%CF%80%E2%
 #EXTINF:-1 tvg-id="Astro Citra" ch-number="107" group-title="ASTRO" tvg-logo="https://raw.githubusercontent.com/ayahdee/iptv.xtro/refs/heads/main/citra.png",ASTRO CITRA HD ✔️
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=84bf9ad6848be7db20f9d16823deef10:654f2d25a5bfb27c9e5ae0852584a166
+https://linearjitp.perfecttv.net/citra.mpd
 http://d1w72er2qn2fg9.cloudfront.net/citra.mpd
 https://go.munzstore.xyz/citrarasa.mpd
 https://tinyurl.com/muhujwmk
@@ -992,7 +994,7 @@ https://d277c08tzca9og.cloudfront.net/CH4/masterCH4.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
-#EXTHTTP:{"Authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6IlpXTmlNMk0zWlRFdE1XUmlaaTAwT1RFekxUZ3hPV010TVdSbU4yRmlNV1l3TldKbSIsIndtb3BpZCI6MzIsImV4cCI6MTczMjg4NTU3MywiaWF0IjoxNzMyMjgxNTczfQ.LOZ45HYTsiEIuQp5Ew-UNyBimJeKd85o4jY3veb6yug"}
+#EXTHTTP:{"Authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik9HWmpOR05sWXpFdE5URTROeTAwWldJM0xUazVZV1V0WWpCaE5HWTNOV1JqWkRVMCIsIndtb3BpZCI6MzIsImV4cCI6MTczODU0MDAxNCwiaWF0IjoxNzM3OTM2MDE0fQ.f0N5ciVeQuP0l3I_Z465bM_LZmIaS2zGoWB-GT4ltRk"}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=9cd1ac9e64984f009d000b76a78c8535:6109a6bd86edaef1327bb55117d1901b
