@@ -903,7 +903,8 @@ http://OPPSS❗️OFFLINE🙏..OUR TECHNICIAN TRYING TO FIX..TQ😅
 
 ========================≈===ROCKET TV=========RIA PRIMA CITRA===≈======≈============
 
-#EXTHTTP:{"X-Token":"b570120b3abbdb13ad374a23261b42d639326732656a50355653684f6153786658743663577268347a356c50523463626c4361706233537934344d3d"} 
+##EXTHTTP:{"Authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik9HWmpOR05sWXpFdE5URTROeTAwWldJM0xUazVZV1V0WWpCaE5HWTNOV1JqWkRVMCIsIndtb3BpZCI6MzIsImV4cCI6MTczODU0MDAxNCwiaWF0IjoxNzM3OTM2MDE0fQ.f0N5ciVeQuP0l3I_Z465bM_LZmIaS2zGoWB-GT4ltRk"}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"aMXbOzCfq1UDpv21gN3ygQ","kid":"x3N+3R1ngk+nDfcxVL+BEA"}],"type":"temporary"}
 #EXTINF:-1 tvg-id="202.astro" tvg-name="VINMEEN HD" group-logo="https://rocket-tv.online/Gambar.webp" group-title="SERANGKAI" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/82/Astro_Vinmeen_HD.png" ch-number="202",202 Astro Vinmeen Server 1
