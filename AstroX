@@ -1296,7 +1296,7 @@ https://linear06-playback.sooka.my/CH4/masterCH4.mpd
 #EXTINF:-1 tvg-id="AstroRia" group-title="Sooka | Astro" ch-number="104" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Astro_Ria.png/220px-Astro_Ria.png",Astro Ria 1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
-#EXTHTTP:{"Authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6IlpERm1PR1F5TUdZdE0yRTRaQzAwWVdZMExUbGhOamN0TldJd1pHUXlaR0U0Tm1OaCIsIndtb3BpZCI6MzIsImV4cCI6MTcyNzkyNzk5MywiaWF0IjoxNzI3MzIzOTkzfQ.qAjJnAeZp6MXqWOf8FAWQz0Z1GwqE0YqpL4-e6XIY2g"}
+#EXTHTTP:{"Authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik9HWmpOR05sWXpFdE5URTROeTAwWldJM0xUazVZV1V0WWpCaE5HWTNOV1JqWkRVMCIsIndtb3BpZCI6MzIsImV4cCI6MTczODU0MDAxNCwiaWF0IjoxNzM3OTM2MDE0fQ.f0N5ciVeQuP0l3I_Z465bM_LZmIaS2zGoWB-GT4ltRk"}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"9yP9JobZzo92qD+sNN/55A", "kid":"N/uZymGpTIif3HWLsqZ0lQ" } ], "type":"temporary" }
