@@ -1308,7 +1308,7 @@ https://linear07-playback.sooka.my/CH4/masterCH4.mpd
 
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik1UbGlOMkZrWWpRdE56RXlZeTAwTldVMUxUbGtPVE10TldJNVl6QXlPRGN3TlRjeSIsIndtb3BpZCI6MzIsImV4cCI6MTczODYzMDg2NCwiaWF0IjoxNzM4MDI2ODY0fQ.MUY91UMYaou1LyAfua3wiALHsf0XZzVP8s8mNDnUl40"}
+#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik9HWmpOR05sWXpFdE5URTROeTAwWldJM0xUazVZV1V0WWpCaE5HWTNOV1JqWkRVMCIsIndtb3BpZCI6MzIsImV4cCI6MTczODU0MDAxNCwiaWF0IjoxNzM3OTM2MDE0fQ.f0N5ciVeQuP0l3I_Z465bM_LZmIaS2zGoWB-GT4ltRk"}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"37fb99ca61a94c889fdc758bb2a67495": "f723fd2686d9ce8f76a83fac34dff9e4"}
@@ -1317,7 +1317,7 @@ https://linear07-playback.sooka.my/CH4/masterCH4.mpd
 
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="🇲🇾 MALAYSIA(ASTRO GO)", ASTRO CITRA Sooka
 #KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTHTTP:{"authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik1UbGlOMkZrWWpRdE56RXlZeTAwTldVMUxUbGtPVE10TldJNVl6QXlPRGN3TlRjeSIsIndtb3BpZCI6MzIsImV4cCI6MTczODYzMDg2NCwiaWF0IjoxNzM4MDI2ODY0fQ.MUY91UMYaou1LyAfua3wiALHsf0XZzVP8s8mNDnUl40"}
+#EXTHTTP:{"authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik9HWmpOR05sWXpFdE5URTROeTAwWldJM0xUazVZV1V0WWpCaE5HWTNOV1JqWkRVMCIsIndtb3BpZCI6MzIsImV4cCI6MTczODU0MDAxNCwiaWF0IjoxNzM3OTM2MDE0fQ.f0N5ciVeQuP0l3I_Z465bM_LZmIaS2zGoWB-GT4ltRk"}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"EQD+KXFG99AktZlE8J5tGg", "kid":"yk9f9ORpTVS9/cm9NDhCkA" } ], "type":"temporary" }
