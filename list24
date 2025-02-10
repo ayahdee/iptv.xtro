@@ -5504,7 +5504,7 @@ https://de6b41ae66ed4b67a4d6f522bcbda8dd.mediatailor.ap-southeast-1.amazonaws.co
 p*
 #EXTINF:-1 tvg-id="105.astro" ch-number="105" group-title="Astro" tvg-id="AstroPrima" ch-number="105" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Prima_v1.png",Astro Prima HD (Sooka)
 #EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"} 
-#EXTHTTP:{"Authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3MzkxNzExNjMsImlzcyI6IlZSIiwiZXhwIjoxNzM5MjI2NjAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiYjU0YmIzODgtMGExOS00ZjcwLTk2NmUtNDNlNGUwNjBkYWMzIiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NzIwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikifQ.drCnRj6xmarFKq5OqgmkWUvWBwv2NcElXmz6iNz1kiY"}
+#EXTHTTP:{"Authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik1tWTROV00wT0RFdE1qbGtNeTAwTW1KakxUa3daalV0Tm1aaU9Ea3dNR0k1Tm1RMiIsIndtb3BpZCI6MzIsImV4cCI6MTczOTIxNTE4NiwiaWF0IjoxNzM4NjExMTg2fQ.S9Q8PJwWHGuEoLMzly8gUDj5jtf4BrC6fdImfmw33vk"}
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -5513,7 +5513,7 @@ https://l18.dp.sooka.my/1000/linear/index.mpd
 
 #EXTINF:-1 group-title="Astro" tvg-id="104.astro" ch-number="104" tvg-name="RIA HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/193_144.png", Astro Ria HD (Sooka)
 #EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"} 
-#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3MzkxNzExNjMsImlzcyI6IlZSIiwiZXhwIjoxNzM5MjI2NjAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiYjU0YmIzODgtMGExOS00ZjcwLTk2NmUtNDNlNGUwNjBkYWMzIiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NzIwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikifQ.drCnRj6xmarFKq5OqgmkWUvWBwv2NcElXmz6iNz1kiY"} 
+#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik1tWTROV00wT0RFdE1qbGtNeTAwTW1KakxUa3daalV0Tm1aaU9Ea3dNR0k1Tm1RMiIsIndtb3BpZCI6MzIsImV4cCI6MTczOTIxNTE4NiwiaWF0IjoxNzM4NjExMTg2fQ.S9Q8PJwWHGuEoLMzly8gUDj5jtf4BrC6fdImfmw33vk"} 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
@@ -5550,7 +5550,7 @@ https://live.rocket-tv.online/Astro_Prima/default_primary.mpd
 
 Test PRIMA FHD
 #EXTINF:-1 tvg-id="105.astro" ch-number="105" group-title="ASTRO" tvg-id="AstroPrima" ch-number="105" tvg-logo="https://i.imgur.com/Rr1E0Ym.png",Astro Prima Server 2
-#EXTHTTP:{"Authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik1HUmxORFl4TkdZdE56Z3daQzAwTm1VNExXSXpZbVF0WTJWa01UVmhOamt4WXpndyIsIndtb3BpZCI6MzIsImV4cCI6MTczOTE0NDgxNCwiaWF0IjoxNzM4NTQwODE0fQ.CTvn-FvLD9qaGjp-Sc5uAJmPR9TXqTmB829_1xK8v-k"}
+#EXTHTTP:{"Authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik1tWTROV00wT0RFdE1qbGtNeTAwTW1KakxUa3daalV0Tm1aaU9Ea3dNR0k1Tm1RMiIsIndtb3BpZCI6MzIsImV4cCI6MTczOTIxNTE4NiwiaWF0IjoxNzM4NjExMTg2fQ.S9Q8PJwWHGuEoLMzly8gUDj5jtf4BrC6fdImfmw33vk"}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"21759e73f142452aa01acc6d08a86e50":"fc9eaf659647c675315f65747c2553da","6613bc303647468c974c3c839d5201e9":"5422811c83996a25f51229219b41c410"}
