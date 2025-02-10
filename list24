@@ -5457,7 +5457,7 @@ https://raw.githubusercontent.com/ayahdee/-/refs/heads/main/%24%E2%82%AC%CF%80%2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3f726fd5cbbf5944437a4dbfab431b10:376b009796e4ad50ea8f68d796676692
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://linears-playback.astro.com.my/vsg/41We62szQO9VzSNeml9QktjCjKKUReMGTu7IlCzVYItaI=Mwzi/dash-wv/jitp-linearwm/1004/default_primary.mpd
+https://linears-playback.astro.com.my/vsg/41EDaOkKprtad7zlQVNQeWT7_me3smmH4r3FKLetd_ayI=GNWK/dash-wv/jitp-linearwm/1004/default_ott.mpd
 ##https://playlist.x10.mx/get.php?id=ria.mpd
 ##http://d37lxn4ksn51zz.cloudfront.net/ria.mpd
 ##https://abahtv.live/rias
@@ -5478,7 +5478,7 @@ https://linears-playback.astro.com.my/vsg/41YlqjTDdCzlN4YZlvTrBfz9HKuC5gIWveZuLC
 #EXTINF:-1 tvg-id="108.astro" ch-number="108" group-title="Astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png",Astro Citra HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=84bf9ad6848be7db20f9d16823deef10:654f2d25a5bfb27c9e5ae0852584a166
-https://linears-playback.astro.com.my/vsg/41GJxTv6OjdvoeGJiEn-ETmDpwg0wFFkzDfn3nSYHqP28=Qaty/dash-wv/jitp-dashisowm/2700/default_primary.mpd
+https://5a30e597573846ffb4d14c961da73e57.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/ceb8322ae2e84c32cb0fce196fdc60100025ab50/MT-CH5-dash/vsg/41Y6595de8o-LXOSd26ZZwJGWBTOGi5rz4bmAV3Co-TLw=5W_b/dash-wv/jitp-dashisowm/2700/default_ott.mpd?aws.sessionId=f01a4e62-d4fd-4776-8658-0f408d45cf03
 ##https://playlist.x10.mx/get.php?id=citra.mpd
 ##http://d37lxn4ksn51zz.cloudfront.net/citra.mpd
 ##https://abahtv.live/citras
@@ -5613,7 +5613,8 @@ http://d14sysfrzu8fji.cloudfront.net/warna.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"ZU8tJaW/snyeWuCFJYShZg", "kid":"hL+a1oSL59sg+dFoI97vEA" } ], "type":"temporary" } 
-https://akutv.info/xcitrax
+https://5a30e597573846ffb4d14c961da73e57.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/ceb8322ae2e84c32cb0fce196fdc60100025ab50/MT-CH5-dash/vsg/41Y6595de8o-LXOSd26ZZwJGWBTOGi5rz4bmAV3Co-TLw=5W_b/dash-wv/jitp-dashisowm/2700/default_ott.mpd?aws.sessionId=f01a4e62-d4fd-4776-8658-0f408d45cf03
+#https://akutv.info/xcitrax
 ##https://abahtv.live/citras
 ##https://ht7mvvlb8c.execute-api.ap-southeast-1.amazonaws.com/citra.mpd
 ##http://d14sysfrzu8fji.cloudfront.net/citra.mpd
