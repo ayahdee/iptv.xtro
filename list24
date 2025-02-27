@@ -5142,7 +5142,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/1600/default_primary.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
-#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfbmFtZSI6InJ3LXBsYXRmb3JtIiwiZXhwIjoxNzQwNjM5MjcxLCJpYXQiOjE3NDA2Mzc0NzEsImlzcyI6Im1kYXAifQ.t3aciWjAz7FkbLatq2lWx_wTKza-hIm78rucswZGPEk"}
+#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfbmFtZSI6InJ3LXNob3AtcGFnZSIsImV4cCI6MTc0MDYzOTI0NiwiaWF0IjoxNzQwNjM3NDQ2LCJpc3MiOiJtZGFwIn0.6LNW4Tn6Pzc9bbusKqVWFLTjjWS_fRMDkeC4UjlLDGU"}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"57833c900c4c437f82daf6785eb6ef36":"7bf4663e43cdc277b4ae18219c81d2a1","fb06bb8266fb4a998e7c4e7e90461556":"52242587d8106c4b3ed596c7a56b4e28"}
