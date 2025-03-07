@@ -5072,6 +5072,13 @@ https://tonton-live-switch-ssar.akamaized.net/stream-tv3/master.m3u8?bpkio_servi
 #EXTVLCOPT:http-referrer=https://tonton-live-sg3.akamaized.net/
 https://tonton-live-switch-ssar.akamaized.net/stream-tv3/master_720.m3u8?bpkio_serviceid=6c0958d82a830a02ca0936d9cfab8311
 
+#EXTINF:-1 tvg-id="TV3" ch-number="103" tvg-name="TV3" group-title="MALAYSIA" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png",103 TV3 SD Source 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#EXTVLCOPT:Host=tonton-live-switch-ssar.akamaized.net
+#EXTHTTP:{"Origin":"https://tonton-live-sg3.akamaized.net"}
+#EXTVLCOPT:http-referrer=https://tonton-live-sg3.akamaized.net/
+https://tonton-live-switch-ssar.akamaized.net/stream-tv3/master_540.m3u8?bpkio_serviceid=6c0958d82a830a02ca0936d9cfab8311
+
 
 ===================================Add And Replaced Channel End========================================
 
