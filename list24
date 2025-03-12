@@ -6677,8 +6677,9 @@ https://unifi-live09.secureswiftcontent.com/UnifiHD/live31.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"XwbW5xMzNV60uJG01fUJdQ", "kid":"IEsTi0zUlCNmh6AWzyCloQ" } ], "type":"temporary" }
 #EXTINF:-1 tvg-id="DuniaSinema.my" tvg-name="Dunia Sinema" group-title="UNIFI TV" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716074123890vav.png",128 Dunia Sinema
-https://unifi-live07.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8
 https://unifi-live07.secureswiftcontent.com/UnifiHD/live27.mpd
+#https://unifi-live07.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8
+
 
 
 #EXTINF:-1 tvg-id="701" group-title="UNIFI TV" tvg-name="unifi Sports 1" tvg-logo="https://playtv.unifi.com.my:7042/CPS/images/universal/film/logo/202304/20230418/202304180833546499vy.png",701 Unifi Sports 1 hd
@@ -6736,7 +6737,7 @@ https://web.hypp.tv:443/PLTV/88888888/224/3221227596/3221227596.mpd?rrsip=web.hy
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"irCTravcNDuHNLfs8K6hGg", "kid":"48t0mXEHhusQX6t7UkWZEA" } ], "type":"temporary" }
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Liverome/65.0.3325.181 Safari/537.36
 #EXTINF:-1 tvg-id="MoonbugKids.uk.my" group-title="UNIFI TV" tvg-logo="https://linear-poster.astro.com.my/prod/logo/MoonbugKids.png" ch-number="551",551 Unifi Moonbug
-http://linearjitp02-playback.astro.com.my/dash-wv/linear/5067/default_primary.mpd
+http://linearjitp02-playback.astro.com.my/dash-wv/linear/5067/default_ott.mpd
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -6748,7 +6749,7 @@ https://web.hypp.tv:443/PLTV/88888888/224/3221227949/3221227949.mpd?rrsip=web.hy
 #EXTINF:-1 tvg-id="NickJr" tvg-name"Nickelodeon Junior" group-title="UNIFI TV" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/392_144.png" ch-number="552",552 Unifi Nick Jr
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"tKu+6Vtps+gKDRQScshw2w", "kid":"+mUiDJ925CQXOJnfUzptEA" } ], "type":"temporary" }
-https://linearjitp-playback.astro.com.my/dash-wv/linear/9982/default_primary.mpd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/9982/default_ott.mpd
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -6761,13 +6762,13 @@ https://web.hypp.tv:443/PLTV/88888888/224/3221227697/3221227697.mpd?rrsip=web.hy
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"3mxf6q5faWO0s5LdyLaneA","kid":"UMaZxETl+A2sr8TJlmfYEA"}],"type":"temporary"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/5093/default.mpd
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/5093/default_ott.mpd
 
 
 #EXTINF:-1 tvg-id="Nickelodeon" tvg-name"Nickelodeon HD" group-title="UNIFI TV" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/370_144.png" ch-number="554",554 Unifi Nickelodeon
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"vaX3u8HkQJb3eaBhn+mIHw", "kid":"2FIOlqEoOrblvlOEdL+oEA" } ], "type":"temporary" }
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2511/default_primary.mpd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2511/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=OGQ0ZGMxNmYtY2QwNC0zZjQ1LWJmYjktYTFjZjM5ZWI5ODdm
@@ -6787,7 +6788,7 @@ https://web.hypp.tv:443/PLTV/88888888/224/3221227529/3221227529.mpd?rrsip=center
 #EXTINF:-1 tvg-id="816" tvg-name="SPOTV" group-title="UNIFI TV" ch-number="706" tvg-logo="https://unifi.com.my/tv/sites/default/files/2022-08/logo-SPOTV.png",706 Unifi SPOTV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"dYgj5Oq7bkyMA20HPbRrjA","kid":"wOGASqHZ/ZxBxBvw9hpfEA"}],"type":"temporary"}
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5058/default_primary.mpd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5058/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=OGQ0ZGMxNmYtY2QwNC0zZjQ1LWJmYjktYTFjZjM5ZWI5ODdm
@@ -6808,7 +6809,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5079/default_ott.mpd
 #EXTINF:-1 tvg-id="tvNMovies" ch-number="201" tvg-name="tvN Movies HD" group-title="UNIFI TV" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/274_144.png",201 tvN Movies (MY)   
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"0SzOuvu6KlNdiKMIf4hCUg", "kid":"jiaciqMq1364MGgxI0PWEA" } ], "type":"temporary" }
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2406/default_primary.mpd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2406/default_ott.mpd
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -6820,7 +6821,7 @@ https://web.hypp.tv:443/PLTV/88888888/224/3221227553/3221227553.mpd?rrsip=center
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"GegOzF0zchXGQATLScnLAQ", "kid":"+vTWK7iY3lA0RsKPsaqSEA" } ], "type":"temporary" }
 #EXTINF:-1 tvg-id="tvN" ch-number="211" tvg-name="tvN HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/190_144.png" group-title="UNIFI TV",211 tvN HD
-https://linearjitp-playback.astro.com.my/dash-wv/linear/1001/default_primary.mpd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/1001/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=OGQ0ZGMxNmYtY2QwNC0zZjQ1LWJmYjktYTFjZjM5ZWI5ODdm
@@ -6831,7 +6832,7 @@ https://web.hypp.tv:443/PLTV/88888888/224/3221227556/3221227556.mpd?rrsip=center
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Red+aounZ7Y8rP2wHvKsKQ", "kid":"2P45jHkGUXP6l4jyJgVlEA" } ], "type":"temporary" }
 #EXTINF:-1 tvg-id="ONE" ch-number="461" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/133_144.png" group-title="UNIFI TV",461 ONE HD
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2702/default_primary.mpd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2702/default_ott.mpd
 
 
 
@@ -6839,7 +6840,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2702/default_primary.mpd
 #EXTINF:-1 tvg-id="453" tvg-name="AXN HD" group-title="UNIFI TV" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/131_144.png" ch-number="453",453 AXN
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"wyGv4WibB9W35VvQJcSDzg", "kid":"wkp4EdmrRrSLdGoOfiaSEA" } ], "type":"temporary" }
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2303/default_primary.mpd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2303/default_ott.mpd
   
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=OGQ0ZGMxNmYtY2QwNC0zZjQ1LWJmYjktYTFjZjM5ZWI5ODdm
@@ -6850,7 +6851,7 @@ https://web.hypp.tv:443/PLTV/88888888/224/3221227637/3221227637.mpd?rrsip=web.hy
 #EXTINF:-1 tvg-id="502" ch-number="502" tvg-name="Love Nature HD" group-title="UNIFI TV" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/483_144.png",502 Love Nature
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"d1plTAYQgRrQIjKaaIhN4Q","kid":"FovYFUaGOf5FKLS/AUHzEA"}],"type":"temporary"}
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5096/default_primary.mpd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5096/default_ott.mpd
 
   
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
