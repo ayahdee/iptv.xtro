@@ -6479,7 +6479,10 @@ https://cdn09jtedge.indihometv.com/joss/130/celestialmovie/index.m3u8
 https://cdn09jtedge.indihometv.com/joss/133/mycinema/index.m3u8?c
 
 #EXTINF:-1 group-title="INDIHOMETV"  tvg-logo="https://images.indihometv.com/logo_cinemaworldnew_small.png",CINEMAWORLD
-https://cdn09jtedge.indihometv.com/joss/134/cinemaworld/index.m3u8?c
+https://cdn08jtedge.indihometv.com/dassdvr/134/cinemaworld/manifest.mpd
+#https://cdn09jtedge.indihometv.com/joss/134/cinemaworld/index.m3u8?c
+
+
 
 #EXTINF:-1 group-title="INDIHOMETV"  tvg-logo="https://images.indihometv.com/logo_cnbcindonesia_ver1.png",CNBC INDONESIA
 https://cdn09jtedge.indihometv.com/joss/134/cnbcasia/index.m3u8?c
@@ -6618,8 +6621,7 @@ https://linearfast05.playback.sooka.my/v1/dash/7d6144f66f990e10fc667942d522b82f8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"nBBcxoyqnPZTFeBu9Qhgqw", "kid":"GQDQ/Y39I1fKJoXGZii/Bw" } ], "type":"temporary" }
 #EXTINF:-1 tvg-id="118" ch-number="118" tvg-name="Inspirasi" group-logo="https://iili.io/2APUeDJ.jpg" group-title="UNIFI TV" tvg-logo="https://i.ibb.co/tpJfQ9x/Unifi-Inspirasi.png",118 Unifi Inspirasi Test
-https://piracy-dev.tech/dev/unifi-tv/bypass?channel_url=https://playtv.unifi.com.my/EPG/WEBTV/index.html#/channels/channels-detail/38683387/20000003
-#https://aqfadtv.xyz/live/unifitv/inspirasi/index.mpd
+https://aqfadtv.xyz/live/unifitv/inspirasi/index.mpd
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
