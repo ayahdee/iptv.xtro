@@ -5156,7 +5156,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/1600/default_ott.mpd
 #EXTINF:-1 tvg-id="805.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroSportsUHD_2024.png" group-logo="" group-title="SPORTS",Astro UHD 4K RTM
 EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"7W1n2VPRSwJrJgLPiEZXfg", "kid":"Xv0m2lABNjtNb6SpyBKtEA" } ], "type":"temporary" }
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"nNXA0eVMIuA12I3Twd/ITA", "kid":"AQy7nPGgHq04Bwcw04vHEA" } ], "type":"temporary" }
 https://iptv.rocket-tv.online/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiMDI3MzQ2NTEiLCJyZWZyZXNoX3Rva2VuIjoiTnhwWGREV1AyKzl0a0dXSVVCdTN2YVJ6QXJtdnlVNnFjaGV0SXBGeVlhREh2VTkzTEFsdFl4Y20yNXRoKzJXSk1JZHRVcmpBcXRuajNTNjhnRENHdmpEV3p2Smxmc1RcL0FyWkxiRXpicE50dFwvd1c5aGRCZVdtbk45MURReTE2VE1GS0RmVU80Tzl0cFAzY2c3RW1aelRnOUU4aGZCVStVVWdSaEg2ODl1WFJ2UytsSG9QREpudVRLMUNBSFkyZzJCZmtyaDlKdloxTVJaWDI0VlwvemJ4NldJMWJOZllOdDdPTUxpSFwveWFrK25nb1lTbVdZY2ZKT0JoeDBic3lyakJUbFZMMnJmeWJzbDY3bmthT0FaTCs0NkY2UDBhc09kUTc2aXFTMnp4b1VRc0R1YWlUVkFNdkdDT21aOFNLcnZPeklKK1wvb0Rvd1wvQzlJOFwvb2VTUHBpNWkzdnpaZjBNTldVRWMyeXhadStrNkphN2Q5b0NoZHZUXC9NcE1Gc1MxbHQifQ==
 
 
