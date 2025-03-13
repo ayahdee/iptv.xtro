@@ -5295,7 +5295,7 @@ https://l18.dp.sooka.my/1601/linear/index.mpd
 #EXTHTTP:{"Authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NDE4NjE4MzgsImlzcyI6IlZSIiwiZXhwIjoxNzQxOTA1MDAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiZmJlY2ZlZTktYmQzZC00OGU3LTg0NmMtMTBhZjk5MDYxM2EyIiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9MjE2MCl8fCh0eXBlPT1cImF1ZGlvXCImJmZvdXJDQyE9XCJhYy0zXCIpfHwodHlwZSE9XCJ2aWRlb1wiJiZ0eXBlIT1cImF1ZGlvXCIpIn0.MWYraDnHt3ZPyN86JSCPZdigRwcuTHiDdl8v6EqjeJQ"}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"9e758cb0637a472aab20f783f99cbd51":"ce3644e5732a04837792c602c178b151","f1bf1a6ef2e5427ea223ba43af3c1990": "1bb538cf163523bda78688c30b2acca0"}
+#KODIPROP:inputstream.adaptive.license_key={"c67db95c983b4b01b5524840ac3147d8":"9ceddb798409657abfb5b6f33a7044e8","d3407c484da24ef398d00cde90681e8c": "38a820e62cc27679c89a7929809e048f"}
 https://l12.dp.sooka.my/711/linear/index.mpd
 
 #EXTINF:-1 tvg-id="AstroQJ" ch-number="308" tvg-name="Astro QJ" ch-number="308" group-title="CHINESE" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/158_144.png",Astro Quan Jia (Sooka)
