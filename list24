@@ -5079,6 +5079,43 @@ https://tonton-live-switch-ssar.akamaized.net/stream-tv3/master_720.m3u8?bpkio_s
 #EXTVLCOPT:http-referrer=https://tonton-live-sg3.akamaized.net/
 https://tonton-live-switch-ssar.akamaized.net/stream-tv3/master_540.m3u8?bpkio_serviceid=6c0958d82a830a02ca0936d9cfab8311
 
+========================================================= UNIFI Rocket TV ======================================================
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5aa0abae1506d547a21b2a68b11017cd:1e1b9d29d2ba308dfb1c5e01d9969392
+#EXTINF:-1 tvg-id="103.astro" tvg-logo="https://playtv.unifi.com.my:7219/CPS/images/universal/film/logo/202007/20200701/202007010436159112u3.png" group-title="Malaysia", 103 TV3 FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
+https://rocket-tv.online/unifai/index.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e8ded0f355021c167df79ea6875c7cb7:b1b334f7c35b760c0406ce18953d00b0
+#EXTINF:-1 tvg-id="120.unifi" tvg-logo="https://playtv.unifi.com.my:7219/CPS/images/universal/film/logo/202204/20220422/2022042207284940668e.png" group-title="Malaysia", DEGUP
+https://rocket-tv.online/unifai/degup.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2b40a99a438471ae679b0e3525773d79:2294db1ce0a7ddfd56063f76b378649f
+#EXTINF:-1 tvg-id="128.unifi" tvg-logo="https://playtv.unifi.com.my:7219/CPS/images/universal/film/logo/201907/20190716/20190716074123890vav.png" group-title="Malaysia", Dunia Sinema HD
+https://rocket-tv.online/unifai/sinema.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1fa7bc02c75e618b6b03f17024f5b94d:02455503b264f8239c8e7bab706195d2
+#EXTINF:-1 tvg-id="141.unifi" tvg-logo="https://playtv.unifi.com.my:7219/CPS/images/universal/film/logo/201907/20190716/201907160659062937ij.png" group-title="Malaysia", Pesona HD
+https://rocket-tv.online/unifai/pesona.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6b91c2262a705384ab13715ec7aac86a:21a03b86a690ed824189cbb85d271d80
+#EXTINF:-1 tvg-id="472.unifi" tvg-logo="https://playtv.unifi.com.my:7219/CPS/images/universal/film/logo/202208/20220811/20220811020901814w9o.png" group-title="Malaysia", Animax HD
+https://rocket-tv.online/unifai/animax.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=91ba3308536ff0a38043a48cab56664b:412bd7f4030996388a7ab5b8441936fa
+#EXTINF:-1 tvg-id="711.unifi" tvg-logo="https://playtv.unifi.com.my:7219/CPS/images/universal/film/logo/202209/20220901/20220901155400159gcw.png" group-title="Malaysia", Sensasi
+https://rocket-tv.online/unifai/sensasi.mpd
+
+========================================================= UNIFI Rocket TV End ======================================================
 
 ===================================Add And Replaced Channel End========================================
 
