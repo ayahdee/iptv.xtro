@@ -5303,7 +5303,7 @@ https://l12.dp.sooka.my/711/linear/index.mpd
 #EXTHTTP:{"Authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NDE4NjE4MzgsImlzcyI6IlZSIiwiZXhwIjoxNzQxOTA1MDAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiZmJlY2ZlZTktYmQzZC00OGU3LTg0NmMtMTBhZjk5MDYxM2EyIiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9MjE2MCl8fCh0eXBlPT1cImF1ZGlvXCImJmZvdXJDQyE9XCJhYy0zXCIpfHwodHlwZSE9XCJ2aWRlb1wiJiZ0eXBlIT1cImF1ZGlvXCIpIn0.MWYraDnHt3ZPyN86JSCPZdigRwcuTHiDdl8v6EqjeJQ"}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "095a0decd6ae4ed1b3b35e7df68ddac4":"a235d0ae26294093ecd200a911d56c98","27506df3c38e43c2b8b23675b04e7461": "609f4044b854e6206d1c7fa45f671da8"}
+#KODIPROP:inputstream.adaptive.license_key={"94562c1adaed496fa1347c0d77bff9b2":"e1e7a13fcbba8e6116e1a3c70936a638","a93b5d3b691343a5be707efa0ec1cb45": "ad9aa093743922fc801f16eff6c6ba54"}
 https://l01.dp.sooka.my/2507/linear/index.mpd
 
 ==========================================================================================
