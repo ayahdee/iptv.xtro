@@ -5117,21 +5117,33 @@ https://rocket-tv.online/unifai/sensasi.mpd
 
 ========================================================= UNIFI Rocket TV End ======================================================
 
+
+###################################################### X Token Rocket TV #########################################################
+
+#EXTHTTP:{"X-Token":"b62ca04f1bf89547619f6848a96cdf92397163624d596c6f556f336d465554486e4f7634436b6d476c5948744e6f745a74724479444c47767351733d"} 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"aMXbOzCfq1UDpv21gN3ygQ","kid":"x3N+3R1ngk+nDfcxVL+BEA"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="202.astro" tvg-name="VINMEEN HD" group-logo="https://rocket-tv.online/Gambar.webp" group-title="Indian" tvg-logo="https://i.imgur.com/2ruSDBj.png" ch-number="202",202 Astro Vinmeen Server 1
+https://nanopi.rocket-tv.online/Astro_Vinmeen/default_ott.mpd
+#https://nanopi.rocket-tv.online/Astro_Vinmeen/default_primary.mpd
+
+
+###################################################### X Token Rocket TV End ####################################################
+
+
+
 ===================================Add And Replaced Channel End========================================
 
 
 ============================ARENA BOLA==PREMIER==GRANDSTAND==SERVER 1==✔️=================================
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
+
 #EXTINF:-1 tvg-id="803.astro" ch-number="803" group-logo="https://iili.io/2Agidua.png" group-title="SPORTS" tvg-id="AstroArenaBola" ch-number="803" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroArenaBola_2024.png",Astro Arena Bola ✔️
+#EXTHTTP:{"X-Token":"b62ca04f1bf89547619f6848a96cdf92397163624d596c6f556f336d465554486e4f7634436b6d476c5948744e6f745a74724479444c47767351733d"} 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=499a8f368064b11cc092b7b013db0710:e151bb81468a8426d6ab12860d314aa3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://kuro.samproject.my.id/static/sooka/bola.mpd
-#https://ht7mvvlb8c.execute-api.ap-southeast-1.amazonaws.com/bola1.mpd
-#http://d14sysfrzu8fji.cloudfront.net/bola1.mpd
-#http://d37lxn4ksn51zz.cloudfront.net/bola1.mpd
-#http://d1w72er2qn2fg9.cloudfront.net/bola1.mpd
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"4VG7gUaKhCbWqxKGDTFKow","kid":"SZqPNoBksRzAkrewE9sHEA"}],"type":"temporary"}
+https://l01.dp.sooka.my/5099/linear/index.mpd
+#https://nanopi.rocket-tv.online/Arena_Bola/default_ott.mpd
 
 #EXTINF:-1 tvg-id="804.astro" ch-number="804" group-title="SPORTS" tvg-id="AstroArenaBola2" ch-number="804" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroArenaBola2_2024.png",Astro Arena Bola 2 ✔️
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -5195,23 +5207,6 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/1600/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"7hrhzQhvqb/AUF5tXp4n6Q", "kid":"isiy968FrYKYBTRaUXvBEA" } ], "type":"temporary" }
 EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/1600/default_primary.mpd
-
-
-
-###################################################### X Token Rocket TV #########################################################
-
-#EXTHTTP:{"X-Token":"b62ca04f1bf89547619f6848a96cdf92397163624d596c6f556f336d465554486e4f7634436b6d476c5948744e6f745a74724479444c47767351733d"} 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"aMXbOzCfq1UDpv21gN3ygQ","kid":"x3N+3R1ngk+nDfcxVL+BEA"}],"type":"temporary"}
-#EXTINF:-1 tvg-id="202.astro" tvg-name="VINMEEN HD" group-logo="https://rocket-tv.online/Gambar.webp" group-title="Indian" tvg-logo="https://i.imgur.com/2ruSDBj.png" ch-number="202",202 Astro Vinmeen Server 1
-https://nanopi.rocket-tv.online/Astro_Vinmeen/default_ott.mpd
-#https://nanopi.rocket-tv.online/Astro_Vinmeen/default_primary.mpd
-
-
-###################################################### X Token Rocket TV End ####################################################
-
-
-
 
 
 ==============================ARENA BOLA==PREMIER==GRANDSTAND==SERVER 1==✔️==END=================================
