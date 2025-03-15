@@ -5156,23 +5156,23 @@ https://nanopi.rocket-tv.online/Astro_AEC/default_ott.mpd
 https://nanopi.rocket-tv.online/Astro_AOD/default_ott.mpd
 
 
-#EXTINF:-1 tvg-id="104.astro" tvg-name="RIA HD" group-title="ASTRO" group-logo="#https://rocket-tv.online/Gambar.webp" tvg-logo="https://i.imgur.com/QU2aMAf.png" ch-number="104",104 Astro Ria FHD 
+#EXTINF:-1 tvg-id="104.astro" tvg-name="RIA HD" group-title="ASTRO" group-logo="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/193_144.png" ch-number="104",104 Astro Ria FHD 
 #EXTHTTP:{"X-Token":"3b430ddf26a0ce413869856d157743c2316849354c6a332f4c596d463542763675326465736c5739546c314f652f346d30434c47762b41527550673d"}  
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"N2sAl5bkrVDqj2jXlmdmkg", "kid":"P3Jv1cu/WURDek2/q0MbEA" } ], "type":"temporary" }
 https://nanopi.rocket-tv.online/Astro_Ria/default_ott.mpd
 
-#EXTINF:-1 tvg-id="105.astro" tvg-name="PRIMA HD" group-title="ASTRO" tvg-logo="https://i.imgur.com/fEGkzL7.png" ch-number="105",105 Astro Prima FHD
+#EXTINF:-1 tvg-id="105.astro" tvg-name="PRIMA HD" group-title="ASTRO" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/3_144.png" ch-number="105",105 Astro Prima FHD
 #EXTHTTP:{"X-Token":"3b430ddf26a0ce413869856d157743c2316849354c6a332f4c596d463542763675326465736c5739546c314f652f346d30434c47762b41527550673d"} 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"hBL0RP++NQzy7OBR+RUukA", "kid":"C2Uyau3j7b6B5vtAMX1TEA" } ], "type":"temporary" }
 https://nanopi.rocket-tv.online/Astro_Prima/default_ott.mpd
 
-#EXTINF:-1 tvg-id="108.astro" tvg-name="CITRA HD" group-title="ASTRO" tvg-logo="https://i.imgur.com/2qjYS1c.png" group-logo="#https://rocket-tv.online/Gambar.webp" ch-number="108",108 Astro Citra FHD
+#EXTINF:-1 tvg-id="108.astro" tvg-name="CITRA HD" group-title="ASTRO" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png" group-logo="" ch-number="108",108 Astro Citra FHD
 #EXTHTTP:{"X-Token":"3b430ddf26a0ce413869856d157743c2316849354c6a332f4c596d463542763675326465736c5739546c314f652f346d30434c47762b41527550673d"} 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"ZU8tJaW/snyeWuCFJYShZg", "kid":"hL+a1oSL59sg+dFoI97vEA" } ], "type":"temporary" } 
-https://nanopi.rocket-tv.online/Astro_Prima/default_ott.mpd
+https://nanopi.rocket-tv.online/Astro_Citra/default_ott.mpd
 
 
 
