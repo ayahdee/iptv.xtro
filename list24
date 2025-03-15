@@ -5122,7 +5122,7 @@ https://rocket-tv.online/unifai/sensasi.mpd
 
 
 #EXTINF:-1g-id="202" tvg-name="Astro Vinmeen" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/Astro_Vinmeen.png" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="INDIAN",Astro Vinmeen HD
-#EXTHTTP:{"X-Token":"154a847a95b265b0a4ee2a172cacf1ee6c4e4341714664446653667a6878696f646434716c334e724d68435a47444d4a61614441793431467142593d"} 
+#EXTHTTP:{"X-Token":"3b430ddf26a0ce413869856d157743c2316849354c6a332f4c596d463542763675326465736c5739546c314f652f346d30434c47762b41527550673d"} 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"aMXbOzCfq1UDpv21gN3ygQ","kid":"x3N+3R1ngk+nDfcxVL+BEA"}],"type":"temporary"}
 https://nanopi.rocket-tv.online/Astro_Vinmeen/default_ott.mpd
@@ -5131,7 +5131,7 @@ https://nanopi.rocket-tv.online/Astro_Vinmeen/default_ott.mpd
 ###EXTINF:-1 tvg-id="202.astro" tvg-name="VINMEEN HD" group-logo="https://rocket-tv.online/Gambar.webp" group-title="Indian" tvg-logo="https://i.imgur.com/2ruSDBj.png" ch-number="202",202 Astro Vinmeen Server 1
 
 #EXTINF:-1 tvg-id="241" tvg-name="ABO Movies Thangathirai" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="INDIAN" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/177_144.png", ABO Movies Thangathirai HD
-#EXTHTTP:{"X-Token":"154a847a95b265b0a4ee2a172cacf1ee6c4e4341714664446653667a6878696f646434716c334e724d68435a47444d4a61614441793431467142593d"} 
+#EXTHTTP:{"X-Token":"3b430ddf26a0ce413869856d157743c2316849354c6a332f4c596d463542763675326465736c5739546c314f652f346d30434c47762b41527550673d"} 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"CE52Vhu6nU866VOs3Tez7Q","kid":"kYrevhCphI1WfcbLWtzlEA"}],"type":"temporary"}
 https://nanopi.rocket-tv.online/Office_Thangathirai/default_ott.mpd
@@ -5149,41 +5149,41 @@ https://nanopi.rocket-tv.online/Office_Thangathirai/default_ott.mpd
 
 
 #EXTINF:-1 tvg-id="803.astro" ch-number="803" group-logo="https://iili.io/2Agidua.png" group-title="SPORTS" tvg-id="AstroArenaBola" ch-number="803" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroArenaBola_2024.png",Astro Arena Bola ✔️
-#EXTHTTP:{"X-Token":"154a847a95b265b0a4ee2a172cacf1ee6c4e4341714664446653667a6878696f646434716c334e724d68435a47444d4a61614441793431467142593d"} 
+#EXTHTTP:{"X-Token":"3b430ddf26a0ce413869856d157743c2316849354c6a332f4c596d463542763675326465736c5739546c314f652f346d30434c47762b41527550673d"} 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"4VG7gUaKhCbWqxKGDTFKow","kid":"SZqPNoBksRzAkrewE9sHEA"}],"type":"temporary"}
 https://nanopi.rocket-tv.online/Arena_Bola/default_ott.mpd
 
 
 #EXTINF:-1 tvg-id="804.astro" ch-number="804" group-title="SPORTS" tvg-id="AstroArenaBola2" ch-number="804" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroArenaBola2_2024.png",Astro Arena Bola 2 ✔️
-#EXTHTTP:{"X-Token":"154a847a95b265b0a4ee2a172cacf1ee6c4e4341714664446653667a6878696f646434716c334e724d68435a47444d4a61614441793431467142593d"} 
+#EXTHTTP:{"X-Token":"3b430ddf26a0ce413869856d157743c2316849354c6a332f4c596d463542763675326465736c5739546c314f652f346d30434c47762b41527550673d"} 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"se/6nlHPOLOuZ2vCZJN++w","kid":"Yqe3kXqtUSPNTfZcVhxwEA"}],"type":"temporary"}
 https://nanopi.rocket-tv.online/Arena_Bola_2/default_ott.mpd
 
 
 #EXTINF:-1 tvg-id="AstroPremierLeague" tvg-id="AstroPremierLeague" tvg-name="APL HD" ch-number="AstroPremierLeague" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroPremierLeague_2024.png" group-title="SPORTS",Astro Premier League ✔️
-#EXTHTTP:{"X-Token":"154a847a95b265b0a4ee2a172cacf1ee6c4e4341714664446653667a6878696f646434716c334e724d68435a47444d4a61614441793431467142593d"} 
+#EXTHTTP:{"X-Token":"3b430ddf26a0ce413869856d157743c2316849354c6a332f4c596d463542763675326465736c5739546c314f652f346d30434c47762b41527550673d"} 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"TxVBP35HZ7UMSOGbf5ovzA","kid":"90mrcfInmZv7CY9zNZqsEA"}],"type":"temporary"}
 https://nanopi.rocket-tv.online/Premier_League/default_ott.mpd
 
 
 #EXTINF:-1 tvg-id="AstroPremierLeague2" tvg-name="AstroPremierLeague2" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroPremierLeague2_2024.png" group-title="SPORTS",Astro Premier League 2 ✔️
-#EXTHTTP:{"X-Token":"154a847a95b265b0a4ee2a172cacf1ee6c4e4341714664446653667a6878696f646434716c334e724d68435a47444d4a61614441793431467142593d"} 
+#EXTHTTP:{"X-Token":"3b430ddf26a0ce413869856d157743c2316849354c6a332f4c596d463542763675326465736c5739546c314f652f346d30434c47762b41527550673d"} 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"3fpujVSbTVF3qcref5oLIw","kid":"wdyS8HifESUDwNs73i8SEA"}],"type":"temporary"}
 https://nanopi.rocket-tv.online/Premier_League_2/default_ott.mpd
 
 
 #EXTINF:-1 tvg-id="AstroGrandstand" tvg-name="AstroGrandstand" ch-number="813" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroGrandstand_2024.png" group-title="SPORTS",Astro Grandstand ✔️
-#EXTHTTP:{"X-Token":"154a847a95b265b0a4ee2a172cacf1ee6c4e4341714664446653667a6878696f646434716c334e724d68435a47444d4a61614441793431467142593d"} 
+#EXTHTTP:{"X-Token":"3b430ddf26a0ce413869856d157743c2316849354c6a332f4c596d463542763675326465736c5739546c314f652f346d30434c47762b41527550673d"} 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"Fo8/rfxzC6PfyTL3xDDifQ","kid":"W+Zqb4jv7j1uMPcqnFjjEA"}],"type":"temporary"}
 https://nanopi.rocket-tv.online/Astro_Grandstand/default_ott.mpd
 
 #EXTINF:-1 tvg-id="805.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroSportsUHD_2024.png" group-logo="" group-title="SPORTS",Astro UHD 4K ✔️
-#EXTHTTP:{"X-Token":"154a847a95b265b0a4ee2a172cacf1ee6c4e4341714664446653667a6878696f646434716c334e724d68435a47444d4a61614441793431467142593d"} 
+#EXTHTTP:{"X-Token":"3b430ddf26a0ce413869856d157743c2316849354c6a332f4c596d463542763675326465736c5739546c314f652f346d30434c47762b41527550673d"} 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"eupDzZPCSqmDTstJhPf9Wg","kid":"IvvvHBzXJek5fsFkVfCCEA"}],"type":"temporary"}
 https://nanopi.rocket-tv.online/SuperSport_UHD/default_ott.mpd
