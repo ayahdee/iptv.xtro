@@ -5684,7 +5684,8 @@ https://raw.githubusercontent.com/ayahdee/iptv.xtro/46c4140836ce1873b87ae853ba84
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3f726fd5cbbf5944437a4dbfab431b10:376b009796e4ad50ea8f68d796676692
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
-https://linearjitp.perfecttv.net/ria.mpd
+https://get.perfecttv.net/dash.mpd?channel=ria&username=perfecttv&password=perfecttv
+#https://linearjitp.perfecttv.net/ria.mpd
 ##https://ht7mvvlb8c.execute-api.ap-southeast-1.amazonaws.com/ria.mpd
 ##http://d14sysfrzu8fji.cloudfront.net/ria.mpd
 #http://d37lxn4ksn51zz.cloudfront.net/ria.mpd
@@ -5710,7 +5711,8 @@ https://raw.githubusercontent.com/ayahdee/-/refs/heads/main/R%C2%A1%40.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"hBL0RP++NQzy7OBR+RUukA", "kid":"C2Uyau3j7b6B5vtAMX1TEA" } ], "type":"temporary" }
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://linearjitp.perfecttv.net/prima.mpd
+https://get.perfecttv.net/dash.mpd?channel=prima&username=perfecttv&password=perfecttv
+#https://linearjitp.perfecttv.net/prima.mpd
 ##https://ht7mvvlb8c.execute-api.ap-southeast-1.amazonaws.com/prima.mpd
 ##http://d14sysfrzu8fji.cloudfront.net/prima.mpd
 #http://d37lxn4ksn51zz.cloudfront.net/prima.mpd
@@ -5757,7 +5759,8 @@ https://raw.githubusercontent.com/ayahdee/-/refs/heads/main/W%40%C2%AE%CF%80%E2%
 #EXTINF:-1 tvg-id="Astro Citra" ch-number="107" group-title="ASTRO" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png",ASTRO CITRA HD ✔️
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=84bf9ad6848be7db20f9d16823deef10:654f2d25a5bfb27c9e5ae0852584a166
-https://linearjitp.perfecttv.net/citra.mpd
+https://get.perfecttv.net/dash.mpd?channel=prima&username=perfecttv&password=perfecttv
+#https://linearjitp.perfecttv.net/citra.mpd
 ##https://ht7mvvlb8c.execute-api.ap-southeast-1.amazonaws.com/citra.mpd
 ##http://d14sysfrzu8fji.cloudfront.net/citra.mpd
 #http://d37lxn4ksn51zz.cloudfront.net/citra.mpd
@@ -5859,11 +5862,11 @@ https://jandatv.online/memfs/4b103398-f115-45ca-b90b-40850352dd0f.m3u8
 
 =========================================RIA PRIMA WARNA CITRA BACKUP SERVER END======================================================================
 
-=====================================================Update 15 Jan 2025========≈===≈=================================
+=====================================================CLOSED 15 Mac 2025========≈===≈=================================
 
 ##### RIA ##### FAWYRAD ####
 
-#EXTINF:-1 group-title="ASTRO" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/39/Astro_Ria_HD.png" tvg-id="Astro Ria",ASTRO RIA HD ✔️💥
+##EXTINF:-1 group-title="ASTRO" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/39/Astro_Ria_HD.png" tvg-id="Astro Ria",ASTRO RIA HD ✔️💥
 #KODIPROP:inputstreamaddon=inputstream.adaptive  
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -5878,7 +5881,7 @@ https://jandatv.online/memfs/f871858b-b6ea-47e3-a644-b5988deaa68f.m3u8
 
 ##### PRIMA ##### FAWYRAD ###
 
-#EXTINF:-1 tvg-id:"Astro Prima" ch-number="105" group-title="ASTRO" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/316_144.png",ASTRO PRIMA HD ✔️💥
+##EXTINF:-1 tvg-id:"Astro Prima" ch-number="105" group-title="ASTRO" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/316_144.png",ASTRO PRIMA HD ✔️💥
 #KODIPROP:inputstreamaddon=inputstream.adaptive  
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -5906,7 +5909,7 @@ http://d14sysfrzu8fji.cloudfront.net/warna.mpd
 
 ##### CITRA ##### FAWYRAD ### 
 
-#EXTINF:-1 tvg-id="Astro Citra" ch-number="107" group-title="ASTRO" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png",ASTRO CITRA HD ✔️💥
+##EXTINF:-1 tvg-id="Astro Citra" ch-number="107" group-title="ASTRO" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png",ASTRO CITRA HD ✔️💥
 #KODIPROP:inputstreamaddon=inputstream.adaptive  
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -5920,7 +5923,7 @@ https://jandatv.online/memfs/ee3ab236-be4f-4a9c-8027-5701232933c6.m3u8
 #http://d37lxn4ksn51zz.cloudfront.net/citra.mpd
 ##http://d1w72er2qn2fg9.cloudfront.net/citra.mpd
 
-=====================================================Updated 20 Nov 2024========≈===≈=================================
+====================================================CLOSED 15 Mac 2025========≈===≈=================================
 
 #################################################RIA==PRIMA==WARNA==LIVE BROADCAST ONLY######################################################################################################################
 
