@@ -5367,8 +5367,8 @@ https://l01.dp.sooka.my/2507/linear/index.mpd
 #EXTHTTP:{"Authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NDE5OTE3MDYsImlzcyI6IlZSIiwiZXhwIjoxNzQyMDc3ODAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiOTRjYTRmM2QtNGM0My00Y2VhLWEzNTktYjI2ZmE1NzNkYWQ0IiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NzIwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikifQ.1gwCLo10ufsLlZpyPVj28eZPb7i-2F5YaRGUQCdK2CE"}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"51Fl04uQlWfAM1OuSye2+A", "kid":"AesRaCCJQPiycLTgmUVw5w" } ], "type":"temporary" }
-https://d1yws6emo43ny.cloudfront.net/CH1/masterCH1.mpd
+#KODIPROP:inputstream.adaptive.license_key={"655b6df8085d4fe6b3f71c0f4288f98a":"5f0d4251e05e0a3a661218169ee84181","d66e2fe5f045426195d432802f9ba807": "6fe283a6f1f3a3fb69f82c4340e0dde2"}
+https://l04.dp.sooka.my/2400/linear/index.mpd
 
 ==========================================================================================
 
