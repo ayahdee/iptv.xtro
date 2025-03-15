@@ -5127,8 +5127,6 @@ https://rocket-tv.online/unifai/sensasi.mpd
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"aMXbOzCfq1UDpv21gN3ygQ","kid":"x3N+3R1ngk+nDfcxVL+BEA"}],"type":"temporary"}
 https://nanopi.rocket-tv.online/Astro_Vinmeen/default_ott.mpd
 
-#https://nanopi.rocket-tv.online/Astro_Vinmeen/default_primary.mpd
-###EXTINF:-1 tvg-id="202.astro" tvg-name="VINMEEN HD" group-logo="https://rocket-tv.online/Gambar.webp" group-title="Indian" tvg-logo="https://i.imgur.com/2ruSDBj.png" ch-number="202",202 Astro Vinmeen Server 1
 
 #EXTINF:-1 tvg-id="241" tvg-name="ABO Movies Thangathirai" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="INDIAN" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/177_144.png", ABO Movies Thangathirai HD
 #EXTHTTP:{"X-Token":"eaeaf32446c6e3ca9c7f1bd8a78ff64d4a63454e736c687333614447764d5a6858787a594b736866517555566e52716c2b6b7751716b457843656b3d"} 
@@ -5143,13 +5141,13 @@ https://nanopi.rocket-tv.online/Office_Thangathirai/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"nV4DYJS7d8uviGfTJyxm0A","kid":"id5xzzm+CUbeyCjt/4TQEA"}],"type":"temporary"}
 https://nanopi.rocket-tv.online/Astro_QJ/default_ott.mpd
 
-#EXTINF:-1 group-logo="https://telegra.ph/file/5231dea66798aba2c94b7.png" group-title="CHINESE" tvg-logo="https://telegra.ph/file/e36872d8b3f54568fdcbb.png" tvg-id="AstroAEC",Astro AEC
+#EXTINF:-1  group-title="CHINESE" tvg-logo="https://telegra.ph/file/e36872d8b3f54568fdcbb.png" tvg-id="AstroAEC",Astro AEC
 #EXTHTTP:{"X-Token":"eaeaf32446c6e3ca9c7f1bd8a78ff64d4a63454e736c687333614447764d5a6858787a594b736866517555566e52716c2b6b7751716b457843656b3d"} 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"jacsqFAaTetL/Dgf4XN+9A","kid":"BighV9pOj5diOnDtAX+tEA"}],"type":"temporary"}
 https://nanopi.rocket-tv.online/Astro_AEC/default_ott.mpd
 
-#EXTINF:-1 group-logo="https://telegra.ph/file/5231dea66798aba2c94b7.png" group-title="CHINESE" tvg-logo="https://telegra.ph/file/ab4779ded9411f381bd84.png" tvg-id="311.astro",Astro AOD
+#EXTINF:-1  group-title="CHINESE" tvg-logo="https://telegra.ph/file/ab4779ded9411f381bd84.png" tvg-id="311.astro",Astro AOD
 #EXTHTTP:{"X-Token":"eaeaf32446c6e3ca9c7f1bd8a78ff64d4a63454e736c687333614447764d5a6858787a594b736866517555566e52716c2b6b7751716b457843656b3d"} 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"F24pOLznldHIVVmiRAR39w","kid":"KGrvTo2F22bgX+Slx5nkEA"}],"type":"temporary"}
@@ -5684,7 +5682,7 @@ https://raw.githubusercontent.com/ayahdee/iptv.xtro/46c4140836ce1873b87ae853ba84
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"ce82e3d81126183e5a262e320f6348b3", "kid":"c15541e4dde34c48a0d144a4b0ab7194" } ], "type":"temporary" }
+#KODIPROP:inputstream.adaptive.license_key=c15541e4dde34c48a0d144a4b0ab7194:ce82e3d81126183e5a262e320f6348b3
 https://get.perfecttv.net/linear.mpd?channel=riac&username=perfecttv&password=perfecttv|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NDE5OTE3MDYsImlzcyI6IlZSIiwiZXhwIjoxNzQyMDc3ODAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiOTRjYTRmM2QtNGM0My00Y2VhLWEzNTktYjI2ZmE1NzNkYWQ0IiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NzIwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikifQ.1gwCLo10ufsLlZpyPVj28eZPb7i-2F5YaRGUQCdK2CE
 
 ----------------------------------------------------------
@@ -5704,7 +5702,7 @@ https://raw.githubusercontent.com/ayahdee/-/refs/heads/main/R%C2%A1%40.m3u8
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"5422811c83996a25f51229219b41c410", "kid":"6613bc303647468c974c3c839d5201e9" } ], "type":"temporary" }
+#KODIPROP:inputstream.adaptive.license_key=6613bc303647468c974c3c839d5201e9:5422811c83996a25f51229219b41c410
 https://get.perfecttv.net/1080.mpd?channel=primafhd&username=perfecttv&password=perfecttv|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NDE5OTE3MDYsImlzcyI6IlZSIiwiZXhwIjoxNzQyMDc3ODAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiOTRjYTRmM2QtNGM0My00Y2VhLWEzNTktYjI2ZmE1NzNkYWQ0IiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NzIwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikifQ.1gwCLo10ufsLlZpyPVj28eZPb7i-2F5YaRGUQCdK2CE
 
 ----------------------------------------------------------
