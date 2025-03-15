@@ -5221,8 +5221,9 @@ https://nanopi.rocket-tv.online/Astro_Grandstand/default_ott.mpd
 #EXTINF:-1 tvg-id="805.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroSportsUHD_2024.png" group-logo="" group-title="SPORTS",Astro UHD 4K ✔️
 #EXTHTTP:{"X-Token":"edb58a7257741e21b23c809a4b3d3b4e7772384338436748662f74624a714f757a6e7076665462445177683241472f6a4d6937326b3459746137413d"} 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"eupDzZPCSqmDTstJhPf9Wg","kid":"IvvvHBzXJek5fsFkVfCCEA"}],"type":"temporary"}
-https://nanopi.rocket-tv.online/SuperSport_UHD/default_ott.mpd
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"7hrhzQhvqb/AUF5tXp4n6Q","kid":"isiy968FrYKYBTRaUXvBEA"}],"type":"temporary"}
+https://linearjitp-playback.astro.com.my/dash-wv/linear/1600/default_primary.mpd
+#https://nanopi.rocket-tv.online/SuperSport_UHD/default_ott.mpd
 #https://linearjitp-playback.astro.com.my/dash-wv/linear/1600/default_primary.mpd
 
 -------------------------------------------------------------------------------------------------------------------
