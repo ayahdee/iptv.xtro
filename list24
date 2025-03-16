@@ -5687,8 +5687,8 @@ https://get.perfecttv.net/1080.mpd?channel=riafhd&username=perfecttv&password=pe
 
 --------------------ASTRO RIA B---------------------------
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/193_144.png" group-title="ASTRO", Astro Ria (Backup)
-https://raw.githubusercontent.com/ayahdee/-/refs/heads/main/R%C2%A1%402.m3u8
-#https://stream.bookmarkmanager.net/live/tv?id=66d0ZyaMWyWJsbUQ_yRhTsg8pYhXaQw8veNCXeKqMXFjuPkKELKbm5_9o_gq_adfCIgx6vyisCwCVRbya6xL9P_ppqT4XoE23KAwKdwkTqFsQ4IuRG4DApGHwxcgZBfAtn9Qgpqpf-deQvMOhEWo_fHgA45CsZ6lqOJigd5GMZb0hJ8&idp=ef0693HpxJNKfgiADuA6iMsfDvbeDMJDuP-BeaaZ540MIULD
+https://stream.bookmarkmanager.net/live/tv?id=66d0ZyaMWyWJsbUQ_yRhTsg8pYhXaQw8veNCXeKqMXFjuPkKELKbm5_9o_gq_adfCIgx6vyisCwCVRbya6xL9P_ppqT4XoE23KAwKdwkTqFsQ4IuRG4DApGHwxcgZBfAtn9Qgpqpf-deQvMOhEWo_fHgA45CsZ6lqOJigd5GMZb0hJ8&idp=ef0693HpxJNKfgiADuA6iMsfDvbeDMJDuP-BeaaZ540MIULD
+#https://raw.githubusercontent.com/ayahdee/-/refs/heads/main/R%C2%A1%402.m3u8
 #https://raw.githubusercontent.com/ayahdee/-/refs/heads/main/R%C2%A1%40.m3u8
 ##http://31.42.187.37:25461/watchpad13158/1234/68
 ##http://31.42.187.37:25461/watchpad13158/1234/11485
@@ -5708,7 +5708,8 @@ https://get.perfecttv.net/1080.mpd?channel=primafhd&username=perfecttv&password=
 
 -------------------ASTRO PRIMA B--------------------------
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/3_144.png" group-title="ASTRO", Astro Prima (Backup)
-https://raw.githubusercontent.com/ayahdee/-/refs/heads/main/P%C2%AE%EF%B8%8F%C2%A1%CF%80%CF%80%E2%88%86.m3u8
+https://stream.bookmarkmanager.net/live/tv?id=441ef2qr5Y80ZvYKaEGn8Rqp70EsJ0DJji5eJ-fS8fjxbXLBX5Ti_bm2XhJWSfNkKNZhBMRcF7R7QX-SEDWfEJeDq1D8v30xginNWCCgDbmrhWXKOVx20Yg6cqgUwkze40R6SCSSgMYL-D9NDlmqHFQTx0aha6ePZ76sY4pSTXv5HUCdaA&idp=d56fCFLn0AUot-3a91d7vpwixTpuqGIIAlkwB1tY8CxFgR4m
+#https://raw.githubusercontent.com/ayahdee/-/refs/heads/main/P%C2%AE%EF%B8%8F%C2%A1%CF%80%CF%80%E2%88%86.m3u8
 ##http://31.42.187.37:25461/watchpad13158/1234/65
 ###http://opplex.tv:8080/live/1525939/1552699/352084.ts###
 ###http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/18627###
@@ -5749,7 +5750,8 @@ https://get.perfecttv.net/dash.mpd?channel=citra&username=perfecttv&password=per
 
 -------------------ASTRO CITRA B------------------------------------
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png" group-title="ASTRO", Astro Citra (Backup)
-https://raw.githubusercontent.com/ayahdee/-/refs/heads/main/%C2%A9%EF%B8%8F%C2%A17%C2%AE%EF%B8%8F%E2%88%86.m3u8
+https://stream.bookmarkmanager.net/live/tv?id=106af0Ui9NNlLpxuHO5ugovNcbmQHVGHYLpO0ghVIU0YT4Kwj_iZb8OUZRSbli1PFw85CP58j-woCCOgSTLCh4pzhLPRSQV0Tg4wNANNEvwUehkbZr72cjT6jtJ1muOlUcNpW1QLul6hNMT-AOg8cHms0y0QIyeQiHFVO3smLF9my6LQOg&idp=1944EA6bMAItIWWMA0JT2zMnwne-eBkeP1X67upg5Riprct4
+#https://raw.githubusercontent.com/ayahdee/-/refs/heads/main/%C2%A9%EF%B8%8F%C2%A17%C2%AE%EF%B8%8F%E2%88%86.m3u8
 ##http://31.42.187.37:25461/watchpad13158/1234/6316
 ##http://50.7.220.74:8278/Citra-0/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=3b80042009b1f0e8e25ce5fca11b9888
 ------------------------------------------------------------------
