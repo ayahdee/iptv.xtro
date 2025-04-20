@@ -5929,6 +5929,754 @@ https://d277c08tzca9og.cloudfront.net/CH4/masterCH4.mpd
 
 #################################################RIA==PRIMA==WARNA==LIVE BROADCAST ONLY END##########################################################################
 
+
+############################################# RTM  KLIK #######################################
+  
+#EXTINF:-1 tvg-id="TV1" ch-number="101" tvg-name="TV1 HD" group-title="RTM KLIK" group-logo="https://lbmchannel.serv00.net/logo/lbmlogo.png" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV1_v1.png", 101 TV1
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/playlist.m3u8?id=1
+
+#EXTINF:-1 tvg-id="TV2" ch-number="102" tvg-name="TV2 HD" group-title="RTM KLIK" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/396_144.png", 102 TV2
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/playlist.m3u8?id=2 
+  
+#EXTINF:-1 tvg-id="146" ch-number="146" tvg-name="TV Okey" group-title="RTM KLIK" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/467_144.png", 146 Okey
+https://d25tgymtnqzu8s.cloudfront.net/smil:okey/playlist.m3u8?id=3
+  
+#EXTINF:-1 tvg-id="BERITARTM" ch-number="" tvg-name="BERITA RTM" tvg-logo="https://ott-1.ottnavi99.workers.dev/0:/ott-1/BERITARTM.png" group-title="RTM KLIK",Berita RTM  
+#EXTVLCOPT:http-referrer=https://rtm-player.glueapi.io/
+https://d25tgymtnqzu8s.cloudfront.net/smil:berita/playlist.m3u8?id=5
+
+#EXTINF:-1 tvg-id="TVSUKAN" ch-number="111" tvg-name="SUKAN RTM" group-title="RTM KLIK" tvg-logo="https://ott-1.ottnavi99.workers.dev/0:/ott-1/SUKANRTM.png",111 Sukan RTM
+#EXTVLCOPT:http-referrer=https://rtm-player.glueapi.io/
+https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/playlist.m3u8?id=4
+  
+#EXTINF:-1 tvg-id="113" ch-number="113" tvg-name="TV6" group-title="RTM KLIK" tvg-logo="https://i.ibb.co/LPVMhTq/tv6.png", 113  TV6
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/playlist.m3u8?id=6
+  
+#EXTINF:-1 tvg-id="Dewan Negara" ch-number="111" tvg-name="Dewan Negara" tvg-logo="https://ott-1.ottnavi99.workers.dev/0:/ott-1/NEGARA.png" group-title="RTM KLIK",Parlimen Dewan Negara
+#EXTVLCOPT:http-referrer=https://rtm-player.glueapi.io/
+https://d25tgymtnqzu8s.cloudfront.net/smil:negara/playlist.m3u8?id=8
+
+#EXTINF:-1 tvg-id="Dewan Rakyat" ch-number="111" tvg-name="Dewan Rakyat" tvg-logo="https://ott-1.ottnavi99.workers.dev/0:/ott-1/RAKYAT.png" group-title="RTM KLIK",Parlimen Dewan Rakyat
+#EXTVLCOPT:http-referrer=https://rtm-player.glueapi.io/
+https://d25tgymtnqzu8s.cloudfront.net/smil:rakyat/playlist.m3u8?id=7
+  
+############# RTM KLIK BARU ####################
+
+#EXTINF:-1 tvg-id="rtm_snap" tvg-logo="https://rtm-images.glueapi.io/320x0/fast_channel/SNAP_CHANNEL.jpg" group-title="RTM KLIK", RTM Snap
+https://d1sq2slp9afh7o.cloudfront.net/smil:snap/playlist.m3u8?id=24099
+
+#EXTINF:-1 tvg-id="rtm_lead" tvg-logo="https://rtm-images.glueapi.io/320x0/fast_channel/LEAD_CHANNEL.jpg" group-title="RTM KLIK", RTM Lead
+https://d1sq2slp9afh7o.cloudfront.net/smil:lead/playlist.m3u8?id=24101
+
+#EXTINF:-1 tvg-id="rtm_apetito" tvg-logo="https://rtm-images.glueapi.io/320x0/fast_channel/APETITO_CHANNEL.jpg" group-title="RTM KLIK", RTM Apetito
+https://d1sq2slp9afh7o.cloudfront.net/smil:apetito/playlist.m3u8?id=24100
+
+#EXTINF:-1 tvg-id="rtm_fitrah" tvg-logo="https://rtm-images.glueapi.io/320x0/fast_channel/FITRAH_CHANNEL.jpg" group-title="RTM KLIK", RTM Fitrah
+https://d1sq2slp9afh7o.cloudfront.net/smil:fitrah/playlist.m3u8?id=24103
+
+#EXTINF:-1 tvg-id="rtm_junior" tvg-logo="https://rtm-images.glueapi.io/320x0/fast_channel/JR_CHANNEL.jpg" group-title="RTM KLIK", RTM Junior
+https://d1sq2slp9afh7o.cloudfront.net/smil:jr/playlist.m3u8?id=24104
+
+#EXTINF:-1 tvg-id="rtm_roll" tvg-logo="https://rtm-images.glueapi.io/320x0/fast_channel/ROLL_CHANNEL.jpg" group-title="RTM KLIK", RTM Roll
+https://d1sq2slp9afh7o.cloudfront.net/smil:roll/playlist.m3u8?id=24095
+
+#EXTINF:-1 tvg-id="rtm_borak" tvg-logo="https://rtm-images.glueapi.io/320x0/fast_channel/AURA_CHANNEL.jpg" group-title="RTM KLIK", RTM Aura
+https://d1sq2slp9afh7o.cloudfront.net/smil:aura/playlist.m3u8?id=24102
+
+
+############################################# RTM  KLIK END #######################################
+
+######### ALQURAN ###########
+  
+  
+#EXTINF:-1, group-title="[MP3] ALQURAN" tvg-id="Dummy" group-logo="https://lbmchannel.serv00.net/logo/lbmlogo.png" tvg-logo="https://i.ibb.co/6PhzzWP/pngwing-com.png", [001] Surah Alfatihah (Pembukaan)
+https://archive.org/download/MurotalMR/001.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/6PhzzWP/pngwing-com.png" group-title="[MP3] ALQURAN", [002] Surah Al-Baqarah (Lembu Betina)
+https://archive.org/download/MurotalMR/002.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/6PhzzWP/pngwing-com.png" group-title="[MP3] ALQURAN", [003] Surah Ali 'Imran (Keluarga Imran)
+https://archive.org/download/MurotalMR/003.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/6PhzzWP/pngwing-com.png" group-title="[MP3] ALQURAN", [004] Surah An-Nisaa' (Wanita)
+https://archive.org/download/MurotalMR/004.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/6PhzzWP/pngwing-com.png" group-title="[MP3] ALQURAN", [005] Surah Al-Maa'idah (Hidangan)
+https://archive.org/download/MurotalMR/005.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/6PhzzWP/pngwing-com.png" group-title="[MP3] ALQURAN", [006] Surah Al-An'aam (Binatang Ternakan)
+https://archive.org/download/MurotalMR/006.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/6PhzzWP/pngwing-com.png" group-title="[MP3] ALQURAN", [007] Surah Al-A'raaf (Tempat Tertinggi)
+https://archive.org/download/MurotalMR/007.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/6PhzzWP/pngwing-com.png" group-title="[MP3] ALQURAN", [008] Surah Al-Anfaal (Rampasan Perang)
+https://archive.org/download/MurotalMR/008.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/6PhzzWP/pngwing-com.png" group-title="[MP3] ALQURAN", [009] Surah At-Taubah (Pengampunan)
+https://archive.org/download/MurotalMR/009.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/6PhzzWP/pngwing-com.png" group-title="[MP3] ALQURAN", [010] Surah Yunus (Nabi Yunus a.s.)
+https://archive.org/download/MurotalMR/010.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/6PhzzWP/pngwing-com.png" group-title="[MP3] ALQURAN", [011] Surah Hud (Nabi Hud a.s.)
+https://archive.org/download/MurotalMR/011.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/6PhzzWP/pngwing-com.png" group-title="[MP3] ALQURAN", [012] Surah Yusuf (Nabi Yusuf a.s.)
+https://archive.org/download/MurotalMR/012.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/6PhzzWP/pngwing-com.png" group-title="[MP3] ALQURAN", [013] Surah Ar-Ra'd (Guruh)
+https://archive.org/download/MurotalMR/013.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/6PhzzWP/pngwing-com.png" group-title="[MP3] ALQURAN", [014] Surah Ibrahim (Nabi Ibrahim a.s.)
+https://archive.org/download/MurotalMR/014.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/6PhzzWP/pngwing-com.png" group-title="[MP3] ALQURAN", [015] Surah Al-Hijr (Kawasan Berbatu)
+https://archive.org/download/MurotalMR/015.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/6PhzzWP/pngwing-com.png" group-title="[MP3] ALQURAN", [016] Surah An-Nahl (Lebah)
+https://archive.org/download/MurotalMR/016.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/6PhzzWP/pngwing-com.png" group-title="[MP3] ALQURAN", [017] Surah Al-Israa' (Perjalanan Malam)
+https://archive.org/download/MurotalMR/017.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/6PhzzWP/pngwing-com.png" group-title="[MP3] ALQURAN", [018] Surah Al-Kahfi (Gua)
+https://archive.org/download/MurotalMR/018.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/6PhzzWP/pngwing-com.png" group-title="[MP3] ALQURAN", [019] Surah Maryam (Siti Maryam)
+https://archive.org/download/MurotalMR/019.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/6PhzzWP/pngwing-com.png" group-title="[MP3] ALQURAN", [020] Surah Taahaa
+https://archive.org/download/MurotalMR/020.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/6PhzzWP/pngwing-com.png" group-title="[MP3] ALQURAN", [021] Surah Al-Anbiyaa' (Para Nabi)
+https://archive.org/download/MurotalMR/021.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/6PhzzWP/pngwing-com.png" group-title="[MP3] ALQURAN", [022] Surah Al-Hajj (Haji)
+https://archive.org/download/MurotalMR/022.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/6PhzzWP/pngwing-com.png" group-title="[MP3] ALQURAN", [023] Surah Al-Mu'minun (Golongan yang Beriman)
+https://archive.org/download/MurotalMR/023.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/6PhzzWP/pngwing-com.png" group-title="[MP3] ALQURAN", [024] Surah An-Nuur (Cahaya)
+https://archive.org/download/MurotalMR/024.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/6PhzzWP/pngwing-com.png" group-title="[MP3] ALQURAN", [025] Surah Al-Furqaan (Pembeza Kebenaran dan Kebatilan)
+https://archive.org/download/MurotalMR/025.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/6PhzzWP/pngwing-com.png" group-title="[MP3] ALQURAN", [026] Surah Asy-Syu'araa (Para Penyair)
+https://archive.org/download/MurotalMR/026.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="[MP3] ALQURAN", [027] Surah An-Naml (Semut)
+https://archive.org/download/MurotalMR/027.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/6PhzzWP/pngwing-com.png" group-title="[MP3] ALQURAN", [028] Surah Al-Qasas (Cerita-cerita)
+https://archive.org/download/MurotalMR/028.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/6PhzzWP/pngwing-com.png" group-title="[MP3] ALQURAN", [029] Surah Al-'Ankabut (Labah-labah)
+https://archive.org/download/MurotalMR/029.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/6PhzzWP/pngwing-com.png" group-title="[MP3] ALQURAN", [030] Surah Ar-Rum (Bangsa Rom)
+https://archive.org/download/MurotalMR/030.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/6PhzzWP/pngwing-com.png" group-title="[MP3] ALQURAN", [031] Surah Luqman (Luqman)
+https://archive.org/download/MurotalMR/031.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/6PhzzWP/pngwing-com.png" group-title="[MP3] ALQURAN", [032] Surah As-Sajdah (Sujud)
+https://archive.org/download/MurotalMR/032.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/6PhzzWP/pngwing-com.png" group-title="[MP3] ALQURAN", [033] Surah Al-Ahzab (Golongan yang Bersekutu)
+https://archive.org/download/MurotalMR/033.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/6PhzzWP/pngwing-com.png" group-title="[MP3] ALQURAN", [034] Surah Saba' (Kaum Saba')
+https://archive.org/download/MurotalMR/034.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/6PhzzWP/pngwing-com.png" group-title="[MP3] ALQURAN", [035] Surah Faatir (Pencipta)
+https://archive.org/download/MurotalMR/035.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/6PhzzWP/pngwing-com.png" group-title="[MP3] ALQURAN", [036] Surah Yaasin
+https://archive.org/download/MurotalMR/036.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/6PhzzWP/pngwing-com.png" group-title="[MP3] ALQURAN", [037] Surah As-Saaffat (Yang Teratur Berbaris)
+https://archive.org/download/MurotalMR/037.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/6PhzzWP/pngwing-com.png" group-title="[MP3] ALQURAN", [038] Surah Saad
+https://archive.org/download/MurotalMR/038.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/6PhzzWP/pngwing-com.png" group-title="[MP3] ALQURAN", [039] Surah Az-Zumar (Rombongan)
+https://archive.org/download/MurotalMR/039.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/6PhzzWP/pngwing-com.png" group-title="[MP3] ALQURAN", [040] Surah Al-Ghafir / Al-Mu'min (Orang yang Beriman)
+https://archive.org/download/MurotalMR/040.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/6PhzzWP/pngwing-com.png" group-title="[MP3] ALQURAN", [041] Surah Fussilat (Dijelaskan)
+https://archive.org/download/MurotalMR/041.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/6PhzzWP/pngwing-com.png" group-title="[MP3] ALQURAN", [042] Surah Asy-Syuraa (Permesyuaratan)
+https://archive.org/download/MurotalMR/042.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/6PhzzWP/pngwing-com.png" group-title="[MP3] ALQURAN", [043] Surah Az-Zukhruf (Perhiasan Emas)
+https://archive.org/download/MurotalMR/043.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/6PhzzWP/pngwing-com.png" group-title="[MP3] ALQURAN", [044] Surah Ad-Dukhaan (Kabut / Asap)
+https://archive.org/download/MurotalMR/044.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/6PhzzWP/pngwing-com.png" group-title="[MP3] ALQURAN", [045] Surah Al-Jatsiyah (Yang Berlutut)
+https://archive.org/download/MurotalMR/045.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/6PhzzWP/pngwing-com.png" group-title="[MP3] ALQURAN", [046] Surah Al-Ahqaaf (Bukit-bukit Pasir)
+https://archive.org/download/MurotalMR/046.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/6PhzzWP/pngwing-com.png" group-title="[MP3] ALQURAN", [047] Surah Muhammad (Nabi Muhammad SAW)
+https://archive.org/download/MurotalMR/047.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/6PhzzWP/pngwing-com.png" group-title="[MP3] ALQURAN", [048] Surah Al-Fath (Kemenangan)
+https://archive.org/download/MurotalMR/048.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/6PhzzWP/pngwing-com.png" group-title="[MP3] ALQURAN", [049] Surah Al-Hujurat (Bilik-bilik)
+https://archive.org/download/MurotalMR/049.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/6PhzzWP/pngwing-com.png" group-title="[MP3] ALQURAN", [050] Surah Qaaf
+https://archive.org/download/MurotalMR/050.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/6PhzzWP/pngwing-com.png" group-title="[MP3] ALQURAN", [051] Surah Adz-Dzariyaat (Angin yang Menerbangkan)
+https://archive.org/download/MurotalMR/051.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/6PhzzWP/pngwing-com.png" group-title="[MP3] ALQURAN", [052] Surah At-Tur (Bukit)
+https://archive.org/download/MurotalMR/052.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/6PhzzWP/pngwing-com.png" group-title="[MP3] ALQURAN", [053] Surah An-Najm (Bintang)
+https://archive.org/download/MurotalMR/053.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/6PhzzWP/pngwing-com.png" group-title="[MP3] ALQURAN", [054] Surah Al-Qamar (Bulan)
+https://archive.org/download/MurotalMR/054.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/6PhzzWP/pngwing-com.png" group-title="[MP3] ALQURAN", [055] Surah Ar-Rahman (Yang Maha Pemurah)
+https://archive.org/download/MurotalMR/055.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/6PhzzWP/pngwing-com.png" group-title="[MP3] ALQURAN", [056] Surah Al-Waqi'ah (Peristiwa yang Tidak Dapat Dielakkan)
+https://archive.org/download/MurotalMR/056.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/6PhzzWP/pngwing-com.png" group-title="[MP3] ALQURAN", [057] Surah Al-Hadid (Besi)
+https://archive.org/download/MurotalMR/057.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/6PhzzWP/pngwing-com.png" group-title="[MP3] ALQURAN", [058] Surah Al-Mujadilah (Perempuan yang Merayu)
+https://archive.org/download/MurotalMR/058.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/6PhzzWP/pngwing-com.png" group-title="[MP3] ALQURAN", [059] Surah Al-Hasyr (Pengusiran)
+https://archive.org/download/MurotalMR/059.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/6PhzzWP/pngwing-com.png" group-title="[MP3] ALQURAN", [060] Surah Al-Mumtahanah (Perempuan yang Diuji)
+https://archive.org/download/MurotalMR/060.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/6PhzzWP/pngwing-com.png" group-title="[MP3] ALQURAN", [061] Surah As-Saf (Barisan)
+https://archive.org/download/MurotalMR/061.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/6PhzzWP/pngwing-com.png" group-title="[MP3] ALQURAN", [062] Surah Al-Jumu'ah (Hari Jumaat)
+https://archive.org/download/MurotalMR/062.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/6PhzzWP/pngwing-com.png" group-title="[MP3] ALQURAN", [063] Surah Al-Munafiquun (Golongan Munafik)
+https://archive.org/download/MurotalMR/063.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/6PhzzWP/pngwing-com.png" group-title="[MP3] ALQURAN", [064] Surah At-Taghabun (Dinampakkan Kesalahan)
+https://archive.org/download/MurotalMR/064.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/6PhzzWP/pngwing-com.png" group-title="[MP3] ALQURAN", [065] Surah At-Talaq (Cerai / Talak)
+https://archive.org/download/MurotalMR/065.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/6PhzzWP/pngwing-com.png" group-title="[MP3] ALQURAN", [066] Surah At-Tahrim (Mengharamkan)
+https://archive.org/download/MurotalMR/066.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/6PhzzWP/pngwing-com.png" group-title="[MP3] ALQURAN", [067] Surah Al-Mulk (Kerajaan)
+https://archive.org/download/MurotalMR/067.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/6PhzzWP/pngwing-com.png" group-title="[MP3] ALQURAN", [068] Surah Al-Qalam (Pena / Kalam)
+https://archive.org/download/MurotalMR/068.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/6PhzzWP/pngwing-com.png" group-title="[MP3] ALQURAN", [069] Surah Al-Haaqqah (Keadaan Sebenar / Hari Kiamat)
+https://archive.org/download/MurotalMR/069.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/6PhzzWP/pngwing-com.png" group-title="[MP3] ALQURAN", [070] Surah Al-Ma'arij (Tempat-tempat Naik)
+https://archive.org/download/MurotalMR/070.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/6PhzzWP/pngwing-com.png" group-title="[MP3] ALQURAN", [071] Surah Nuh (Nabi Nuh a.s.)
+https://archive.org/download/MurotalMR/071.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/6PhzzWP/pngwing-com.png" group-title="[MP3] ALQURAN", [072] Surah A-Jin (Jin)
+https://archive.org/download/MurotalMR/072.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/6PhzzWP/pngwing-com.png" group-title="[MP3] ALQURAN", [073] Surah Al-Muzammil (Yang Berselimut)
+https://archive.org/download/MurotalMR/073.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/6PhzzWP/pngwing-com.png" group-title="[MP3] ALQURAN", [074] Surah Al-Muddathir (Yang Berselubung)
+https://archive.org/download/MurotalMR/074.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/6PhzzWP/pngwing-com.png" group-title="[MP3] ALQURAN", [075] Surah Al-Qiyaamah (Hari Kebangkitan / Kiamat)
+https://archive.org/download/MurotalMR/075.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/6PhzzWP/pngwing-com.png" group-title="[MP3] ALQURAN", [076] Surah Al-Insaan (Manusia)
+https://archive.org/download/MurotalMR/076.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/6PhzzWP/pngwing-com.png" group-title="[MP3] ALQURAN", [077] Surah Al-Mursalat (Malaikat Yang Diutus)
+https://archive.org/download/MurotalMR/077.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/6PhzzWP/pngwing-com.png" group-title="[MP3] ALQURAN", [078] Surah An-Naba' (Berita Besar)
+https://archive.org/download/MurotalMR/078.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/6PhzzWP/pngwing-com.png" group-title="[MP3] ALQURAN", [079] Surah An-Naazi'aat (Malaikat Yang Mencabut)
+https://archive.org/download/MurotalMR/079.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/6PhzzWP/pngwing-com.png" group-title="[MP3] ALQURAN", [080] Surah 'Abasa (Dia Bermasam Muka)
+https://archive.org/download/MurotalMR/080.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/6PhzzWP/pngwing-com.png" group-title="[MP3] ALQURAN", [081] Surah At-Takwiir (Menggulung)
+https://archive.org/download/MurotalMR/081.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/6PhzzWP/pngwing-com.png" group-title="[MP3] ALQURAN", [082] Surah Al-Infitar (Terpecah & Terbelah)
+https://archive.org/download/MurotalMR/082.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/6PhzzWP/pngwing-com.png" group-title="[MP3] ALQURAN", [083] Surah Al-Mutaffifiin (Golongan yang Curang)
+https://archive.org/download/MurotalMR/083.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/6PhzzWP/pngwing-com.png" group-title="[MP3] ALQURAN", [084] Surah Al-Insyiqaaq (Terbelah)
+https://archive.org/download/MurotalMR/084.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/6PhzzWP/pngwing-com.png" group-title="[MP3] ALQURAN", [085] Surah Al-Buruj (Gugusan Bintang)
+https://archive.org/download/MurotalMR/085.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/6PhzzWP/pngwing-com.png" group-title="[MP3] ALQURAN", [086] Surah At-Taariq (Pengunjung Malam)
+https://archive.org/download/MurotalMR/086.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/6PhzzWP/pngwing-com.png" group-title="[MP3] ALQURAN", [087] Surah Al-A'laa (Yang Tertinggi)
+https://archive.org/download/MurotalMR/087.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/6PhzzWP/pngwing-com.png" group-title="[MP3] ALQURAN", [088] Surah Al-Ghaasyiah (Peristiwa Menggelisahkan/Hari Pembalasan)
+https://archive.org/download/MurotalMR/088.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/6PhzzWP/pngwing-com.png" group-title="[MP3] ALQURAN", [089] Surah Al-Fajr (Fajar / Sinar Mentari)
+https://archive.org/download/MurotalMR/089.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/6PhzzWP/pngwing-com.png" group-title="[MP3] ALQURAN", [090] Surah Al-Balad (Negeri)
+https://archive.org/download/MurotalMR/090.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/6PhzzWP/pngwing-com.png" group-title="[MP3] ALQURAN", [091] Surah Asy-Syams (Matahari)
+https://archive.org/download/MurotalMR/091.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/6PhzzWP/pngwing-com.png" group-title="[MP3] ALQURAN", [092] Surah Al-Lail (Malam)
+https://archive.org/download/MurotalMR/092.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/6PhzzWP/pngwing-com.png" group-title="[MP3] ALQURAN", [093] Surah Adh-Dhuha (Pagi yang Cemerlang / Matahari Meninggi)
+https://archive.org/download/MurotalMR/093.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/6PhzzWP/pngwing-com.png" group-title="[MP3] ALQURAN", [094] Surah Al-Insyirah/An-Nasyrah (Melapangkan)
+https://archive.org/download/MurotalMR/094.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/6PhzzWP/pngwing-com.png" group-title="[MP3] ALQURAN", [095] Surah At-Tin (Buah Tin / Buah Ara)
+https://archive.org/download/MurotalMR/095.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/6PhzzWP/pngwing-com.png" group-title="[MP3] ALQURAN", [096] Surah Al-'Alaq (Segumpal Darah)
+https://archive.org/download/MurotalMR/096.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/6PhzzWP/pngwing-com.png" group-title="[MP3] ALQURAN", [097] Surah Al-Qadr (Kemuliaan)
+https://archive.org/download/MurotalMR/097.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/6PhzzWP/pngwing-com.png" group-title="[MP3] ALQURAN", [098] Surah Al-Baiyinah (Bukti yang Nyata)
+https://archive.org/download/MurotalMR/098.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/6PhzzWP/pngwing-com.png" group-title="[MP3] ALQURAN", [099] Surah Al-Zalzalah (Kegoncangan)
+https://archive.org/download/MurotalMR/099.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/6PhzzWP/pngwing-com.png" group-title="[MP3] ALQURAN", [100] Surah Al-'Aadiyaat (Yang Berlari Kencang)
+https://archive.org/download/MurotalMR/100.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/6PhzzWP/pngwing-com.png" group-title="[MP3] ALQURAN", [101] Surah Al-Qari'ah (Hari Yang Hingar Bingar/kiamat)
+https://archive.org/download/MurotalMR/101.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/6PhzzWP/pngwing-com.png" group-title="[MP3] ALQURAN", [102] Surah At-Takathur (Bermegah-Megah)
+https://archive.org/download/MurotalMR/102.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/6PhzzWP/pngwing-com.png" group-title="[MP3] ALQURAN", [103] Surah Al-'Asr (Masa)
+https://archive.org/download/MurotalMR/103.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/6PhzzWP/pngwing-com.png" group-title="[MP3] ALQURAN", [104] Surah Al-Humazah (Pengumpat)
+https://archive.org/download/MurotalMR/104.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/6PhzzWP/pngwing-com.png" group-title="[MP3] ALQURAN", [105] Surah Al-Fiil (Gajah)
+https://archive.org/download/MurotalMR/105.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/6PhzzWP/pngwing-com.png" group-title="[MP3] ALQURAN", [106] Surah Quraisy (Kaum Quraisy)
+https://archive.org/download/MurotalMR/106.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/6PhzzWP/pngwing-com.png" group-title="[MP3] ALQURAN", [107] Surah Al-Ma'un (Barangan Berguna)
+https://archive.org/download/MurotalMR/107.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/6PhzzWP/pngwing-com.png" group-title="[MP3] ALQURAN", [108] Surah Al-Kauthar (Sungai Di Syurga)
+https://archive.org/download/MurotalMR/108.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/6PhzzWP/pngwing-com.png" group-title="[MP3] ALQURAN", [109] Surah Al-Kafirun (Golongan Kafir)
+https://archive.org/download/MurotalMR/109.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/6PhzzWP/pngwing-com.png" group-title="[MP3] ALQURAN", [110] Surah An-Nasr (Pertolongan)
+https://archive.org/download/MurotalMR/110.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/6PhzzWP/pngwing-com.png" group-title="[MP3] ALQURAN", [111] Surah Al-Masad / Al-Lahab (Nyalaan Api)
+https://archive.org/download/MurotalMR/111.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/6PhzzWP/pngwing-com.png" group-title="[MP3] ALQURAN", [112] Surah Al-Ikhlas (Tulus Ikhlas / Memurnikan Keesaan Allah)
+https://archive.org/download/MurotalMR/112.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/6PhzzWP/pngwing-com.png" group-title="[MP3] ALQURAN", [113] Surah Al-Falaq (Waktu Subuh / Dinihari)
+https://archive.org/download/MurotalMR/113.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/6PhzzWP/pngwing-com.png" group-title="[MP3] ALQURAN", [114] Surah An-Naas (Manusia)
+https://archive.org/download/MurotalMR/114.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/6PhzzWP/pngwing-com.png" group-title="[MP3] ALQURAN", [001] Surah Alfatihah (Pembukaan)
+https://archive.org/download/MurotalMR/001.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/6PhzzWP/pngwing-com.png" group-title="[MP3] ALQURAN", [002] Surah Al-Baqarah (Lembu Betina)
+https://archive.org/download/MurotalMR/002.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/6PhzzWP/pngwing-com.png" group-title="[MP3] ALQURAN", [003] Surah Ali 'Imran (Keluarga Imran)
+https://archive.org/download/MurotalMR/003.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/6PhzzWP/pngwing-com.png" group-title="[MP3] ALQURAN", [004] Surah An-Nisaa' (Wanita)
+https://archive.org/download/MurotalMR/004.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/6PhzzWP/pngwing-com.png" group-title="[MP3] ALQURAN", [005] Surah Al-Maa'idah (Hidangan)
+https://archive.org/download/MurotalMR/005.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/6PhzzWP/pngwing-com.png" group-title="[MP3] ALQURAN", [006] Surah Al-An'aam (Binatang Ternakan)
+https://archive.org/download/MurotalMR/006.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/6PhzzWP/pngwing-com.png" group-title="[MP3] ALQURAN", [007] Surah Al-A'raaf (Tempat Tertinggi)
+https://archive.org/download/MurotalMR/007.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/6PhzzWP/pngwing-com.png" group-title="[MP3] ALQURAN", [008] Surah Al-Anfaal (Rampasan Perang)
+https://archive.org/download/MurotalMR/008.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/6PhzzWP/pngwing-com.png" group-title="[MP3] ALQURAN", [009] Surah At-Taubah (Pengampunan)
+https://archive.org/download/MurotalMR/009.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/6PhzzWP/pngwing-com.png" group-title="[MP3] ALQURAN", [010] Surah Yunus (Nabi Yunus a.s.)
+https://archive.org/download/MurotalMR/010.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/6PhzzWP/pngwing-com.png" group-title="[MP3] ALQURAN", [011] Surah Hud (Nabi Hud a.s.)
+https://archive.org/download/MurotalMR/011.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/6PhzzWP/pngwing-com.png" group-title="[MP3] ALQURAN", [012] Surah Yusuf (Nabi Yusuf a.s.)
+https://archive.org/download/MurotalMR/012.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/6PhzzWP/pngwing-com.png" group-title="[MP3] ALQURAN", [013] Surah Ar-Ra'd (Guruh)
+https://archive.org/download/MurotalMR/013.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/6PhzzWP/pngwing-com.png" group-title="[MP3] ALQURAN", [014] Surah Ibrahim (Nabi Ibrahim a.s.)
+https://archive.org/download/MurotalMR/014.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/6PhzzWP/pngwing-com.png" group-title="[MP3] ALQURAN", [015] Surah Al-Hijr (Kawasan Berbatu)
+https://archive.org/download/MurotalMR/015.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/6PhzzWP/pngwing-com.png" group-title="[MP3] ALQURAN", [016] Surah An-Nahl (Lebah)
+https://archive.org/download/MurotalMR/016.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/6PhzzWP/pngwing-com.png" group-title="[MP3] ALQURAN", [017] Surah Al-Israa' (Perjalanan Malam)
+https://archive.org/download/MurotalMR/017.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/6PhzzWP/pngwing-com.png" group-title="[MP3] ALQURAN", [018] Surah Al-Kahfi (Gua)
+https://archive.org/download/MurotalMR/018.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/6PhzzWP/pngwing-com.png" group-title="[MP3] ALQURAN", [019] Surah Maryam (Siti Maryam)
+https://archive.org/download/MurotalMR/019.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/6PhzzWP/pngwing-com.png" group-title="[MP3] ALQURAN", [020] Surah Taahaa
+https://archive.org/download/MurotalMR/020.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/6PhzzWP/pngwing-com.png" group-title="[MP3] ALQURAN", [021] Surah Al-Anbiyaa' (Para Nabi)
+https://archive.org/download/MurotalMR/021.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/6PhzzWP/pngwing-com.png" group-title="[MP3] ALQURAN", [022] Surah Al-Hajj (Haji)
+https://archive.org/download/MurotalMR/022.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/6PhzzWP/pngwing-com.png" group-title="[MP3] ALQURAN", [023] Surah Al-Mu'minun (Golongan yang Beriman)
+https://archive.org/download/MurotalMR/023.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/6PhzzWP/pngwing-com.png" group-title="[MP3] ALQURAN", [024] Surah An-Nuur (Cahaya)
+https://archive.org/download/MurotalMR/024.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/6PhzzWP/pngwing-com.png" group-title="[MP3] ALQURAN", [025] Surah Al-Furqaan (Pembeza Kebenaran dan Kebatilan)
+https://archive.org/download/MurotalMR/025.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/6PhzzWP/pngwing-com.png" group-title="[MP3] ALQURAN", [026] Surah Asy-Syu'araa (Para Penyair)
+https://archive.org/download/MurotalMR/026.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="[MP3] ALQURAN", [027] Surah An-Naml (Semut)
+https://archive.org/download/MurotalMR/027.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/6PhzzWP/pngwing-com.png" group-title="[MP3] ALQURAN", [028] Surah Al-Qasas (Cerita-cerita)
+https://archive.org/download/MurotalMR/028.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/6PhzzWP/pngwing-com.png" group-title="[MP3] ALQURAN", [029] Surah Al-'Ankabut (Labah-labah)
+https://archive.org/download/MurotalMR/029.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/6PhzzWP/pngwing-com.png" group-title="[MP3] ALQURAN", [030] Surah Ar-Rum (Bangsa Rom)
+https://archive.org/download/MurotalMR/030.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/6PhzzWP/pngwing-com.png" group-title="[MP3] ALQURAN", [031] Surah Luqman (Luqman)
+https://archive.org/download/MurotalMR/031.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/6PhzzWP/pngwing-com.png" group-title="[MP3] ALQURAN", [032] Surah As-Sajdah (Sujud)
+https://archive.org/download/MurotalMR/032.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/6PhzzWP/pngwing-com.png" group-title="[MP3] ALQURAN", [033] Surah Al-Ahzab (Golongan yang Bersekutu)
+https://archive.org/download/MurotalMR/033.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/6PhzzWP/pngwing-com.png" group-title="[MP3] ALQURAN", [034] Surah Saba' (Kaum Saba')
+https://archive.org/download/MurotalMR/034.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/6PhzzWP/pngwing-com.png" group-title="[MP3] ALQURAN", [035] Surah Faatir (Pencipta)
+https://archive.org/download/MurotalMR/035.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/6PhzzWP/pngwing-com.png" group-title="[MP3] ALQURAN", [036] Surah Yaasin
+https://archive.org/download/MurotalMR/036.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/6PhzzWP/pngwing-com.png" group-title="[MP3] ALQURAN", [037] Surah As-Saaffat (Yang Teratur Berbaris)
+https://archive.org/download/MurotalMR/037.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/6PhzzWP/pngwing-com.png" group-title="[MP3] ALQURAN", [038] Surah Saad
+https://archive.org/download/MurotalMR/038.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/6PhzzWP/pngwing-com.png" group-title="[MP3] ALQURAN", [039] Surah Az-Zumar (Rombongan)
+https://archive.org/download/MurotalMR/039.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/6PhzzWP/pngwing-com.png" group-title="[MP3] ALQURAN", [040] Surah Al-Ghafir / Al-Mu'min (Orang yang Beriman)
+https://archive.org/download/MurotalMR/040.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/6PhzzWP/pngwing-com.png" group-title="[MP3] ALQURAN", [041] Surah Fussilat (Dijelaskan)
+https://archive.org/download/MurotalMR/041.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/6PhzzWP/pngwing-com.png" group-title="[MP3] ALQURAN", [042] Surah Asy-Syuraa (Permesyuaratan)
+https://archive.org/download/MurotalMR/042.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/6PhzzWP/pngwing-com.png" group-title="[MP3] ALQURAN", [043] Surah Az-Zukhruf (Perhiasan Emas)
+https://archive.org/download/MurotalMR/043.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/6PhzzWP/pngwing-com.png" group-title="[MP3] ALQURAN", [044] Surah Ad-Dukhaan (Kabut / Asap)
+https://archive.org/download/MurotalMR/044.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/6PhzzWP/pngwing-com.png" group-title="[MP3] ALQURAN", [045] Surah Al-Jatsiyah (Yang Berlutut)
+https://archive.org/download/MurotalMR/045.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/6PhzzWP/pngwing-com.png" group-title="[MP3] ALQURAN", [046] Surah Al-Ahqaaf (Bukit-bukit Pasir)
+https://archive.org/download/MurotalMR/046.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/6PhzzWP/pngwing-com.png" group-title="[MP3] ALQURAN", [047] Surah Muhammad (Nabi Muhammad SAW)
+https://archive.org/download/MurotalMR/047.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/6PhzzWP/pngwing-com.png" group-title="[MP3] ALQURAN", [048] Surah Al-Fath (Kemenangan)
+https://archive.org/download/MurotalMR/048.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/6PhzzWP/pngwing-com.png" group-title="[MP3] ALQURAN", [049] Surah Al-Hujurat (Bilik-bilik)
+https://archive.org/download/MurotalMR/049.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/6PhzzWP/pngwing-com.png" group-title="[MP3] ALQURAN", [050] Surah Qaaf
+https://archive.org/download/MurotalMR/050.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/6PhzzWP/pngwing-com.png" group-title="[MP3] ALQURAN", [051] Surah Adz-Dzariyaat (Angin yang Menerbangkan)
+https://archive.org/download/MurotalMR/051.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/6PhzzWP/pngwing-com.png" group-title="[MP3] ALQURAN", [052] Surah At-Tur (Bukit)
+https://archive.org/download/MurotalMR/052.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/6PhzzWP/pngwing-com.png" group-title="[MP3] ALQURAN", [053] Surah An-Najm (Bintang)
+https://archive.org/download/MurotalMR/053.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/6PhzzWP/pngwing-com.png" group-title="[MP3] ALQURAN", [054] Surah Al-Qamar (Bulan)
+https://archive.org/download/MurotalMR/054.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/6PhzzWP/pngwing-com.png" group-title="[MP3] ALQURAN", [055] Surah Ar-Rahman (Yang Maha Pemurah)
+https://archive.org/download/MurotalMR/055.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/6PhzzWP/pngwing-com.png" group-title="[MP3] ALQURAN", [056] Surah Al-Waqi'ah (Peristiwa yang Tidak Dapat Dielakkan)
+https://archive.org/download/MurotalMR/056.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/6PhzzWP/pngwing-com.png" group-title="[MP3] ALQURAN", [057] Surah Al-Hadid (Besi)
+https://archive.org/download/MurotalMR/057.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/6PhzzWP/pngwing-com.png" group-title="[MP3] ALQURAN", [058] Surah Al-Mujadilah (Perempuan yang Merayu)
+https://archive.org/download/MurotalMR/058.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/6PhzzWP/pngwing-com.png" group-title="[MP3] ALQURAN", [059] Surah Al-Hasyr (Pengusiran)
+https://archive.org/download/MurotalMR/059.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/6PhzzWP/pngwing-com.png" group-title="[MP3] ALQURAN", [060] Surah Al-Mumtahanah (Perempuan yang Diuji)
+https://archive.org/download/MurotalMR/060.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/6PhzzWP/pngwing-com.png" group-title="[MP3] ALQURAN", [061] Surah As-Saf (Barisan)
+https://archive.org/download/MurotalMR/061.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/6PhzzWP/pngwing-com.png" group-title="[MP3] ALQURAN", [062] Surah Al-Jumu'ah (Hari Jumaat)
+https://archive.org/download/MurotalMR/062.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/6PhzzWP/pngwing-com.png" group-title="[MP3] ALQURAN", [063] Surah Al-Munafiquun (Golongan Munafik)
+https://archive.org/download/MurotalMR/063.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/6PhzzWP/pngwing-com.png" group-title="[MP3] ALQURAN", [064] Surah At-Taghabun (Dinampakkan Kesalahan)
+https://archive.org/download/MurotalMR/064.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/6PhzzWP/pngwing-com.png" group-title="[MP3] ALQURAN", [065] Surah At-Talaq (Cerai / Talak)
+https://archive.org/download/MurotalMR/065.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/6PhzzWP/pngwing-com.png" group-title="[MP3] ALQURAN", [066] Surah At-Tahrim (Mengharamkan)
+https://archive.org/download/MurotalMR/066.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/6PhzzWP/pngwing-com.png" group-title="[MP3] ALQURAN", [067] Surah Al-Mulk (Kerajaan)
+https://archive.org/download/MurotalMR/067.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/6PhzzWP/pngwing-com.png" group-title="[MP3] ALQURAN", [068] Surah Al-Qalam (Pena / Kalam)
+https://archive.org/download/MurotalMR/068.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/6PhzzWP/pngwing-com.png" group-title="[MP3] ALQURAN", [069] Surah Al-Haaqqah (Keadaan Sebenar / Hari Kiamat)
+https://archive.org/download/MurotalMR/069.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/6PhzzWP/pngwing-com.png" group-title="[MP3] ALQURAN", [070] Surah Al-Ma'arij (Tempat-tempat Naik)
+https://archive.org/download/MurotalMR/070.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/6PhzzWP/pngwing-com.png" group-title="[MP3] ALQURAN", [071] Surah Nuh (Nabi Nuh a.s.)
+https://archive.org/download/MurotalMR/071.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/6PhzzWP/pngwing-com.png" group-title="[MP3] ALQURAN", [072] Surah A-Jin (Jin)
+https://archive.org/download/MurotalMR/072.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/6PhzzWP/pngwing-com.png" group-title="[MP3] ALQURAN", [073] Surah Al-Muzammil (Yang Berselimut)
+https://archive.org/download/MurotalMR/073.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/6PhzzWP/pngwing-com.png" group-title="[MP3] ALQURAN", [074] Surah Al-Muddathir (Yang Berselubung)
+https://archive.org/download/MurotalMR/074.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/6PhzzWP/pngwing-com.png" group-title="[MP3] ALQURAN", [075] Surah Al-Qiyaamah (Hari Kebangkitan / Kiamat)
+https://archive.org/download/MurotalMR/075.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/6PhzzWP/pngwing-com.png" group-title="[MP3] ALQURAN", [076] Surah Al-Insaan (Manusia)
+https://archive.org/download/MurotalMR/076.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/6PhzzWP/pngwing-com.png" group-title="[MP3] ALQURAN", [077] Surah Al-Mursalat (Malaikat Yang Diutus)
+https://archive.org/download/MurotalMR/077.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/6PhzzWP/pngwing-com.png" group-title="[MP3] ALQURAN", [078] Surah An-Naba' (Berita Besar)
+https://archive.org/download/MurotalMR/078.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/6PhzzWP/pngwing-com.png" group-title="[MP3] ALQURAN", [079] Surah An-Naazi'aat (Malaikat Yang Mencabut)
+https://archive.org/download/MurotalMR/079.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/6PhzzWP/pngwing-com.png" group-title="[MP3] ALQURAN", [080] Surah 'Abasa (Dia Bermasam Muka)
+https://archive.org/download/MurotalMR/080.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/6PhzzWP/pngwing-com.png" group-title="[MP3] ALQURAN", [081] Surah At-Takwiir (Menggulung)
+https://archive.org/download/MurotalMR/081.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/6PhzzWP/pngwing-com.png" group-title="[MP3] ALQURAN", [082] Surah Al-Infitar (Terpecah & Terbelah)
+https://archive.org/download/MurotalMR/082.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/6PhzzWP/pngwing-com.png" group-title="[MP3] ALQURAN", [083] Surah Al-Mutaffifiin (Golongan yang Curang)
+https://archive.org/download/MurotalMR/083.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/6PhzzWP/pngwing-com.png" group-title="[MP3] ALQURAN", [084] Surah Al-Insyiqaaq (Terbelah)
+https://archive.org/download/MurotalMR/084.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/6PhzzWP/pngwing-com.png" group-title="[MP3] ALQURAN", [085] Surah Al-Buruj (Gugusan Bintang)
+https://archive.org/download/MurotalMR/085.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/6PhzzWP/pngwing-com.png" group-title="[MP3] ALQURAN", [086] Surah At-Taariq (Pengunjung Malam)
+https://archive.org/download/MurotalMR/086.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/6PhzzWP/pngwing-com.png" group-title="[MP3] ALQURAN", [087] Surah Al-A'laa (Yang Tertinggi)
+https://archive.org/download/MurotalMR/087.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/6PhzzWP/pngwing-com.png" group-title="[MP3] ALQURAN", [088] Surah Al-Ghaasyiah (Peristiwa Menggelisahkan/Hari Pembalasan)
+https://archive.org/download/MurotalMR/088.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/6PhzzWP/pngwing-com.png" group-title="[MP3] ALQURAN", [089] Surah Al-Fajr (Fajar / Sinar Mentari)
+https://archive.org/download/MurotalMR/089.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/6PhzzWP/pngwing-com.png" group-title="[MP3] ALQURAN", [090] Surah Al-Balad (Negeri)
+https://archive.org/download/MurotalMR/090.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/6PhzzWP/pngwing-com.png" group-title="[MP3] ALQURAN", [091] Surah Asy-Syams (Matahari)
+https://archive.org/download/MurotalMR/091.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/6PhzzWP/pngwing-com.png" group-title="[MP3] ALQURAN", [092] Surah Al-Lail (Malam)
+https://archive.org/download/MurotalMR/092.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/6PhzzWP/pngwing-com.png" group-title="[MP3] ALQURAN", [093] Surah Adh-Dhuha (Pagi yang Cemerlang / Matahari Meninggi)
+https://archive.org/download/MurotalMR/093.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/6PhzzWP/pngwing-com.png" group-title="[MP3] ALQURAN", [094] Surah Al-Insyirah/An-Nasyrah (Melapangkan)
+https://archive.org/download/MurotalMR/094.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/6PhzzWP/pngwing-com.png" group-title="[MP3] ALQURAN", [095] Surah At-Tin (Buah Tin / Buah Ara)
+https://archive.org/download/MurotalMR/095.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/6PhzzWP/pngwing-com.png" group-title="[MP3] ALQURAN", [096] Surah Al-'Alaq (Segumpal Darah)
+https://archive.org/download/MurotalMR/096.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/6PhzzWP/pngwing-com.png" group-title="[MP3] ALQURAN", [097] Surah Al-Qadr (Kemuliaan)
+https://archive.org/download/MurotalMR/097.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/6PhzzWP/pngwing-com.png" group-title="[MP3] ALQURAN", [098] Surah Al-Baiyinah (Bukti yang Nyata)
+https://archive.org/download/MurotalMR/098.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/6PhzzWP/pngwing-com.png" group-title="[MP3] ALQURAN", [099] Surah Al-Zalzalah (Kegoncangan)
+https://archive.org/download/MurotalMR/099.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/6PhzzWP/pngwing-com.png" group-title="[MP3] ALQURAN", [100] Surah Al-'Aadiyaat (Yang Berlari Kencang)
+https://archive.org/download/MurotalMR/100.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/6PhzzWP/pngwing-com.png" group-title="[MP3] ALQURAN", [101] Surah Al-Qari'ah (Hari Yang Hingar Bingar/kiamat)
+https://archive.org/download/MurotalMR/101.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/6PhzzWP/pngwing-com.png" group-title="[MP3] ALQURAN", [102] Surah At-Takathur (Bermegah-Megah)
+https://archive.org/download/MurotalMR/102.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/6PhzzWP/pngwing-com.png" group-title="[MP3] ALQURAN", [103] Surah Al-'Asr (Masa)
+https://archive.org/download/MurotalMR/103.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/6PhzzWP/pngwing-com.png" group-title="[MP3] ALQURAN", [104] Surah Al-Humazah (Pengumpat)
+https://archive.org/download/MurotalMR/104.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/6PhzzWP/pngwing-com.png" group-title="[MP3] ALQURAN", [105] Surah Al-Fiil (Gajah)
+https://archive.org/download/MurotalMR/105.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/6PhzzWP/pngwing-com.png" group-title="[MP3] ALQURAN", [106] Surah Quraisy (Kaum Quraisy)
+https://archive.org/download/MurotalMR/106.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/6PhzzWP/pngwing-com.png" group-title="[MP3] ALQURAN", [107] Surah Al-Ma'un (Barangan Berguna)
+https://archive.org/download/MurotalMR/107.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/6PhzzWP/pngwing-com.png" group-title="[MP3] ALQURAN", [108] Surah Al-Kauthar (Sungai Di Syurga)
+https://archive.org/download/MurotalMR/108.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/6PhzzWP/pngwing-com.png" group-title="[MP3] ALQURAN", [109] Surah Al-Kafirun (Golongan Kafir)
+https://archive.org/download/MurotalMR/109.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/6PhzzWP/pngwing-com.png" group-title="[MP3] ALQURAN", [110] Surah An-Nasr (Pertolongan)
+https://archive.org/download/MurotalMR/110.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/6PhzzWP/pngwing-com.png" group-title="[MP3] ALQURAN", [111] Surah Al-Masad / Al-Lahab (Nyalaan Api)
+https://archive.org/download/MurotalMR/111.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/6PhzzWP/pngwing-com.png" group-title="[MP3] ALQURAN", [112] Surah Al-Ikhlas (Tulus Ikhlas / Memurnikan Keesaan Allah)
+https://archive.org/download/MurotalMR/112.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/6PhzzWP/pngwing-com.png" group-title="[MP3] ALQURAN", [113] Surah Al-Falaq (Waktu Subuh / Dinihari)
+https://archive.org/download/MurotalMR/113.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/6PhzzWP/pngwing-com.png" group-title="[MP3] ALQURAN", [114] Surah An-Naas (Manusia)
+https://archive.org/download/MurotalMR/114.mp3
+
+
+################# AL-QURAN END ##################
+
+
 ########################################################################PLUTOTV##################################################################################
 
 
@@ -8738,7 +9486,141 @@ https://tglmp04.akamaized.net/out/v1/421a3cd3bdcd492f8f4b5efb2363ed2c/manifest.m
 https://tglmp02.akamaized.net/out/v1/621a7089e63144e4be7891cd9bfb10e2/manifest.mpd
 
 
+############################ASTRO GO RADIO####################################
 
+
+#EXTINF:-1 group-title="[RADIO] ASTRO GO" group-logo="https://lbmchannel.serv00.net/logo/lbmlogo.png"  tvg-logo="http://linear-poster.astro.com.my/prod/poster/ivp_default_2161_IVP_LAND_288x162.jpg",HITZ
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c759f4bc157b00a7b1dba7873197fc10:96da0bbe83b8f54194e42428e1fd6632
+https://linearjitp-playback.astro.com.my/dash-wv/linear/121/default_ott.mpd
+
+#EXTINF:-1 group-title="[RADIO] ASTRO GO" tvg-logo="http://linear-poster.astro.com.my/prod/poster/ivp_default_2162_IVP_LAND_288x162.jpg",MY
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8f618c12955ac5c431f5f901451c9d10:433fa68d6ec980675c96bb5ae2e01789
+https://linearjitp-playback.astro.com.my/dash-wv/linear/119/default_ott.mpd
+
+#EXTINF:-1 group-title="[RADIO] ASTRO GO" tvg-logo="http://linear-poster.astro.com.my/prod/poster/ivp_default_2163_IVP_LAND_288x162.jpg",LITE
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e8ab350491e05128235859f127225b10:b59d48e5da5e34a1d17bcb6e8cc36267
+https://linearjitp-playback.astro.com.my/dash-wv/linear/123/default_ott.mpd
+
+#EXTINF:-1 group-title="[RADIO] ASTRO GO" tvg-logo="http://linear-poster.astro.com.my/prod/poster/ivp_default_2177_IVP_LAND_288x162.jpg",MIX
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=14f020e638635a66792cc7955e4d2810:8e2be3777dd95fb09ce2a70cf099cf8a
+https://linearjitp-playback.astro.com.my/dash-wv/linear/122/default_ott.mpd
+
+#EXTINF:-1 group-title="[RADIO] ASTRO GO" tvg-logo="http://linear-poster.astro.com.my/prod/poster/ivp_default_2164_IVP_LAND_288x162.jpg",ERA
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=85294251c8aeb373689eaa0ea9587810:4d559fcc12052d9e7fce0f8f6592bba1
+https://linearjitp-playback.astro.com.my/dash-wv/linear/118/default_ott.mpd
+
+#EXTINF:-1 group-title="[RADIO] ASTRO GO" tvg-logo="http://linear-poster.astro.com.my/prod/poster/ivp_default_2165_IVP_LAND_288x162.jpg",SINAR
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7af3ec1f2db077ae6374a018cbb48510:9458ed76e85f1ad8aa7eefcdbd628908
+https://linearjitp-playback.astro.com.my/dash-wv/linear/130/default_ott.mpd
+
+#EXTINF:-1 group-title="[RADIO] ASTRO GO" tvg-logo="http://linear-poster.astro.com.my/prod/poster/ivp_default_2174_IVP_LAND_288x162.jpg",MELODY
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d34dc49701f9c22b9f20baabb27ad410:6df52c46b193522fe87420938e029759
+https://linearjitp-playback.astro.com.my/dash-wv/linear/132/default_ott.mpd
+
+#EXTINF:-1 group-title="[RADIO] ASTRO GO" tvg-logo="http://linear-poster.astro.com.my/prod/poster/ivp_default_2167_IVP_LAND_288x162.jpg",RAAGA
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8d9ba6f62b14a5d5706b21007bc21310:058790fb88613e6a71028aafa2258403
+https://linearjitp-playback.astro.com.my/dash-wv/linear/134/default_ott.mpd
+
+#EXTINF:-1 group-title="[RADIO] ASTRO GO" tvg-logo="http://linear-poster.astro.com.my/prod/poster/ivp_default_2168_IVP_LAND_288x162.jpg",CLASSIC ROCK
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=74377f9dea75453994f7f6f5edb08e10:a064d58fa49d67614b052ab9a92a375c
+https://linearjitp-playback.astro.com.my/dash-wv/linear/124/default_ott.mpd
+
+#EXTINF:-1 group-title="[RADIO] ASTRO GO" tvg-logo="http://linear-poster.astro.com.my/prod/poster/ivp_default_2169_IVP_LAND_288x162.jpg",GOLD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8f92ecdf4cd1ac55bc8c788fa1958610:715c8401d7829c9a7c5d665922ca13f6
+https://linearjitp-playback.astro.com.my/dash-wv/linear/125/default_ott.mpd
+
+#EXTINF:-1 group-title="[RADIO] ASTRO GO" tvg-logo="http://linear-poster.astro.com.my/prod/poster/ivp_default_2170_IVP_LAND_288x162.jpg",OPUS
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a14f9a14450a96032b106d4ee8181310:b0b97cca1f9e311a09d33265c85a20e8
+https://linearjitp-playback.astro.com.my/dash-wv/linear/120/default_ott.mpd
+
+#EXTINF:-1 group-title="[RADIO] ASTRO GO" tvg-logo="http://linear-poster.astro.com.my/prod/poster/ivp_default_2171_IVP_LAND_288x162.jpg",GEGAR
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=70b6a9d1c5f5d275accf0a8c51dbf710:a0feca3810b9227592bd893bfb9f1f89
+https://linearjitp-playback.astro.com.my/dash-wv/linear/126/default_ott.mpd
+
+#EXTINF:-1 group-title="[RADIO] ASTRO GO" tvg-logo="http://linear-poster.astro.com.my/prod/poster/ivp_default_2172_IVP_LAND_288x162.jpg",INDIA BEAT
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2b4e873bc93eff959ba232e1fa016f10:3e84b173e8997210fd270b7029491a9e
+https://linearjitp-playback.astro.com.my/dash-wv/linear/127/default_ott.mpd
+
+#EXTINF:-1 group-title="[RADIO] ASTRO GO" tvg-logo="http://linear-poster.astro.com.my/prod/poster/ivp_default_2173_IVP_LAND_288x162.jpg",JAZZ
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1bbab67b1f95ae9a32db73a88c308110:b284563fcddeb078b5bfe0efb684ffa1
+https://linearjitp-playback.astro.com.my/dash-wv/linear/128/default_ott.mpd
+
+#EXTINF:-1 group-title="[RADIO] ASTRO GO" tvg-logo="http://linear-poster.astro.com.my/prod/poster/ivp_default_2175_IVP_LAND_288x162.jpg",OSAI
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=082e516398c5ea15d6b9cda572247c10:cb8b2f2190cd84b62e6876fcc6bf24bf
+https://linearjitp-playback.astro.com.my/dash-wv/linear/131/default_ott.mpd
+
+#EXTINF:-1 group-title="[RADIO] ASTRO GO" tvg-logo="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000036_IVP_LAND_288x162.jpg",BAYU
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5515d4f22664e386c62f7cf2c166ab10:f72c380581aa12a016ea88789c679c67
+https://linearjitp-playback.astro.com.my/dash-wv/linear/135/default_ott.mpd
+
+#EXTINF:-1 group-title="[RADIO] ASTRO GO" tvg-logo="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000037_IVP_LAND_288x162.jpg",KENYALANG
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fdd9690c43631eac67dbfb11a6d6a510:53bcece8d71ecbe7bac08a94927cf358
+https://linearjitp-playback.astro.com.my/dash-wv/linear/136/default_ott.mpd
+
+#EXTINF:-1 group-title="[RADIO] ASTRO GO" tvg-logo="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000101_IVP_LAND_288x162.jpg",NAS FM
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ae8c20070c706333ad13230f05411c10:9c0832a8dbc36d2ab5892600ea6960fd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/129/default_ott.mpd
+
+#EXTINF:-1 group-title="[RADIO] ASTRO GO" tvg-logo="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000102_IVP_LAND_288x162.jpg",V FM
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ed4dc7b6e2225c45634e9d63272a9b10:57d4290607a9a3a163de07388fcdf58d
+https://linearjitp-playback.astro.com.my/dash-wv/linear/133/default_ott.mpd
+
+#EXTINF:-1 group-title="[RADIO] ASTRO GO" tvg-logo="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000103_IVP_LAND_288x162.jpg",WAI FM
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=bde4784bc64eb326169d11c10a0b1510:bc9df5e162c5692669a8ec6366c9e4db
+https://linearjitp-playback.astro.com.my/dash-wv/linear/137/default_ott.mpd
+
+#EXTINF:-1 group-title="[RADIO] ASTRO GO" tvg-logo="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000310_IVP_LAND_288x162.jpg",TRAXX FM
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=74c6ae20ff7e31ee2aa1812bc7931310:865a25aba8134164791b29793d7b97db
+https://linearjitp-playback.astro.com.my/dash-wv/linear/138/default_ott.mpd
+
+#EXTINF:-1 group-title="[RADIO] ASTRO GO" tvg-logo="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000311_IVP_LAND_288x162.jpg",MINNAL FM
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4a2428702c66220ce105d5cba2033410:d2011e32b524a02e43978e1a066394bd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/139/default_ott.mpd
+
+#EXTINF:-1 group-title="[RADIO] ASTRO GO" tvg-logo="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000312_IVP_LAND_288x162.jpg",AI FM
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=99d0060f4d3333be90b0cae6addb4310:2f61d66cfce12bcb056571510999f3bf
+https://linearjitp-playback.astro.com.my/dash-wv/linear/140/default_ott.mpd
+
+#EXTINF:-1 group-title="[RADIO] ASTRO GO" tvg-logo="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000313_IVP_LAND_288x162.jpg",ASYIK FM
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ba01b2f73c76432e649092767f107010:8c198e97119e46dad9a4d693f5a82aff
+https://linearjitp-playback.astro.com.my/dash-wv/linear/141/default_ott.mpd
+
+#EXTINF:-1 group-title="[RADIO] ASTRO GO" tvg-logo="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000334_IVP_LAND_288x162.jpg",ZAYAN
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f8366fd866e0ef521268b53446203610:8ac6d3ead461c5c1497ab25a8bd1f619
+https://linearjitp-playback.astro.com.my/dash-wv/linear/142/default_ott.mpd
+
+#EXTINF:-1 group-title="[RADIO] ASTRO GO" tvg-logo="http://linear-poster.astro.com.my/prod/poster/goxuan2023_IVP_LAND_288x162.jpg",GO XUAN
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ee738a67776d147e95f95df27e626b10:ef1e7ce3e50a78788ce1831cea8e187d
+https://linearjitp-playback.astro.com.my/dash-wv/linear/143/default_ott.mpd
+
+
+############################ ASTRO GO RADIO END ###################################
   
 ########################################################################RADIO#########################################################################################
 
