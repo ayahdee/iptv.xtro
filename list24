@@ -5932,7 +5932,7 @@ https://d277c08tzca9og.cloudfront.net/CH4/masterCH4.mpd
 
 ############################################# RTM  KLIK #######################################
   
-#EXTINF:-1 tvg-id="TV1" ch-number="101" tvg-name="TV1 HD" group-title="RTM KLIK" group-logo="https://lbmchannel.serv00.net/logo/lbmlogo.png" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV1_v1.png", 101 TV1
+#EXTINF:-1 tvg-id="TV1" ch-number="101" tvg-name="TV1 HD" group-title="RTM KLIK" group-logo="" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV1_v1.png", 101 TV1
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/playlist.m3u8?id=1
 
 #EXTINF:-1 tvg-id="TV2" ch-number="102" tvg-name="TV2 HD" group-title="RTM KLIK" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/396_144.png", 102 TV2
@@ -5989,7 +5989,7 @@ https://d1sq2slp9afh7o.cloudfront.net/smil:aura/playlist.m3u8?id=24102
 ######### ALQURAN ###########
   
   
-#EXTINF:-1, group-title="[MP3] ALQURAN" tvg-id="Dummy" group-logo="https://lbmchannel.serv00.net/logo/lbmlogo.png" tvg-logo="https://i.ibb.co/6PhzzWP/pngwing-com.png", [001] Surah Alfatihah (Pembukaan)
+#EXTINF:-1, group-title="[MP3] ALQURAN" tvg-id="Dummy" group-logo="" tvg-logo="https://i.ibb.co/6PhzzWP/pngwing-com.png", [001] Surah Alfatihah (Pembukaan)
 https://archive.org/download/MurotalMR/001.mp3
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/6PhzzWP/pngwing-com.png" group-title="[MP3] ALQURAN", [002] Surah Al-Baqarah (Lembu Betina)
@@ -9489,7 +9489,7 @@ https://tglmp02.akamaized.net/out/v1/621a7089e63144e4be7891cd9bfb10e2/manifest.m
 ############################ASTRO GO RADIO####################################
 
 
-#EXTINF:-1 group-title="[RADIO] ASTRO GO" group-logo="https://lbmchannel.serv00.net/logo/lbmlogo.png"  tvg-logo="http://linear-poster.astro.com.my/prod/poster/ivp_default_2161_IVP_LAND_288x162.jpg",HITZ
+#EXTINF:-1 group-title="[RADIO] ASTRO GO" group-logo=""  tvg-logo="http://linear-poster.astro.com.my/prod/poster/ivp_default_2161_IVP_LAND_288x162.jpg",HITZ
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c759f4bc157b00a7b1dba7873197fc10:96da0bbe83b8f54194e42428e1fd6632
 https://linearjitp-playback.astro.com.my/dash-wv/linear/121/default_ott.mpd
