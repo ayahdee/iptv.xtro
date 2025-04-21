@@ -5857,12 +5857,13 @@ https://jandatv.online/memfs/304ba579-e5b8-4b4b-b3d1-852e6105c581.m3u8
 
 ##### RIA ##### FAWYRAD ####
 
-##EXTINF:-1 group-title="ASTRO" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/39/Astro_Ria_HD.png" tvg-id="Astro Ria",ASTRO RIA HD ✔️💥
+#EXTINF:-1 group-title="ASTRO" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/39/Astro_Ria_HD.png" tvg-id="Astro Ria",ASTRO RIA HD ✔️💥
 #KODIPROP:inputstreamaddon=inputstream.adaptive  
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"N2sAl5bkrVDqj2jXlmdmkg", "kid":"P3Jv1cu/WURDek2/q0MbEA" } ], "type":"temporary" }
-https://jandatv.online/memfs/f26897ab-d8f3-4239-a6c4-444a2b767ccb.m3u8
+https://akutv.info/riaabahkau
+#https://jandatv.online/memfs/f26897ab-d8f3-4239-a6c4-444a2b767ccb.m3u8
 #https://akutv.info/xriax
 ##https://abahtv.live/rias
 ##https://ht7mvvlb8c.execute-api.ap-southeast-1.amazonaws.com/ria.mpd
@@ -5872,12 +5873,13 @@ https://jandatv.online/memfs/f26897ab-d8f3-4239-a6c4-444a2b767ccb.m3u8
 
 ##### PRIMA ##### FAWYRAD ###
 
-##EXTINF:-1 tvg-id:"Astro Prima" ch-number="105" group-title="ASTRO" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/316_144.png",ASTRO PRIMA HD ✔️💥
+#EXTINF:-1 tvg-id:"Astro Prima" ch-number="105" group-title="ASTRO" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/316_144.png",ASTRO PRIMA HD ✔️💥
 #KODIPROP:inputstreamaddon=inputstream.adaptive  
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"hBL0RP++NQzy7OBR+RUukA", "kid":"C2Uyau3j7b6B5vtAMX1TEA" } ], "type":"temporary" }
-https://jandatv.online/memfs/304ba579-e5b8-4b4b-b3d1-852e6105c581.m3u8
+https://akutv.info/primaabahkau
+#https://jandatv.online/memfs/304ba579-e5b8-4b4b-b3d1-852e6105c581.m3u8
 #https://de6b41ae66ed4b67a4d6f522bcbda8dd.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/ceb8322ae2e84c32cb0fce196fdc60100025ab50/MT-CH2-dash/vsg/41aIWiL3XbozY8ng6zPZrxOzoKn6v4mpfcm2lwHfgQO-4=16sf/dash-wv/jitp-dashisowm/1000/default_ott.mpd?aws.sessionId=458644db-6d48-4d43-b50f-e87f1be037b4
 #https://akutv.info/xprimax
 ##https://playlist.x10.mx/get.php?id=prima.mpd
@@ -5900,12 +5902,13 @@ http://d14sysfrzu8fji.cloudfront.net/warna.mpd
 
 ##### CITRA ##### FAWYRAD ### 
 
-##EXTINF:-1 tvg-id="Astro Citra" ch-number="107" group-title="ASTRO" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png",ASTRO CITRA HD ✔️💥
+#EXTINF:-1 tvg-id="Astro Citra" ch-number="107" group-title="ASTRO" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png",ASTRO CITRA HD ✔️💥
 #KODIPROP:inputstreamaddon=inputstream.adaptive  
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"ZU8tJaW/snyeWuCFJYShZg", "kid":"hL+a1oSL59sg+dFoI97vEA" } ], "type":"temporary" } 
-https://jandatv.online/memfs/133aa40b-2811-4c18-9916-f70175034297.m3u8
+https://akutv.info/citraabahkau
+#https://jandatv.online/memfs/133aa40b-2811-4c18-9916-f70175034297.m3u8
 #https://5a30e597573846ffb4d14c961da73e57.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/ceb8322ae2e84c32cb0fce196fdc60100025ab50/MT-CH5-dash/vsg/41Y6595de8o-LXOSd26ZZwJGWBTOGi5rz4bmAV3Co-TLw=5W_b/dash-wv/jitp-dashisowm/2700/default_ott.mpd?aws.sessionId=f01a4e62-d4fd-4776-8658-0f408d45cf03
 #https://akutv.info/xcitrax
 ##https://abahtv.live/citras
