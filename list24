@@ -6025,7 +6025,7 @@ https://d1sq2slp9afh7o.cloudfront.net/smil:aura/playlist.m3u8?id=24102
 ######### ALQURAN ###########
   
   
-#EXTINF:-1, group-title="[MP3] ALQURAN" tvg-id="Dummy" group-logo="" tvg-logo="https://i.ibb.co/6PhzzWP/pngwing-com.png", [001] Surah Alfatihah (Pembukaan)
+#EXTINF:-1, group-title="[MP3] ALQURAN" tvg-id="Dummy" group-logo="https://i.ibb.co/6PhzzWP/pngwing-com.png" tvg-logo="https://i.ibb.co/6PhzzWP/pngwing-com.png", [001] Surah Alfatihah (Pembukaan)
 https://archive.org/download/MurotalMR/001.mp3
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/6PhzzWP/pngwing-com.png" group-title="[MP3] ALQURAN", [002] Surah Al-Baqarah (Lembu Betina)
@@ -7572,20 +7572,22 @@ https://streaming.indihometv.com/atm/DASH/thrill/manifest.mpd
 
 
 #EXTINF:-1 tvg-id="x.astro" tvg-logo="https://telegra.ph/file/7b071d2ccbc3052b82cd1.png" group-logo="https://iili.io/2APNFe4.png" group-title="SOOKA",131 Filem Mantap
-https://linearfast02.playback.sooka.my/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_2_Ad/dash.mpd
+https://827f31c3f2824c0c95c7a5190e96e284.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/951fbca46ac9b52422f8e3d6d4d6dab33623c3cc/FASTOO_CH2_FILEMMANTAP/dash.mpd
 
 #EXTINF:-1 tvg-id="x.astro" tvg-logo="https://telegra.ph/file/d2f120faedec1a128846b.png" group-title="SOOKA",132 Drama Hebat
-https://linearfast02.playback.sooka.my/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_1_Ad/dash.mpd
+https://827f31c3f2824c0c95c7a5190e96e284.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/951fbca46ac9b52422f8e3d6d4d6dab33623c3cc/FASTOO_CH1_DRAMAHEBAT/dash.mpd
 
 #EXTINF:-1 tvg-id="x.astro" tvg-logo="https://telegra.ph/file/444552edb8dc56b75f79e.png" group-title="SOOKA",133 Drama Hotpot
-https://linearfast04.playback.sooka.my/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_4_Ad/dash.mpd
+https://827f31c3f2824c0c95c7a5190e96e284.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/951fbca46ac9b52422f8e3d6d4d6dab33623c3cc/FASTOO_CH4_DRAMAHOTPOT/dash.mpd
 
 #EXTINF:-1 tvg-id="x.astro" tvg-logo="https://telegra.ph/file/12bc717e3ee372f2a62e8.png" group-title="SOOKA",134 Lawak Sentral
-https://linearfast02.playback.sooka.my/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_3_Ad/dash.mpd
+https://827f31c3f2824c0c95c7a5190e96e284.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/951fbca46ac9b52422f8e3d6d4d6dab33623c3cc/FASTOO_CH3_LAWAK/dash.mpd
 
 #EXTINF:-1 tvg-id="x.astro" tvg-logo="https://telegra.ph/file/b98309b1149a14d39490f.png" group-title="SOOKA",135 Travel & Taste
-https://linearfast05.playback.sooka.my/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_5_Ad/dash.mpd
+https://827f31c3f2824c0c95c7a5190e96e284.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/951fbca46ac9b52422f8e3d6d4d6dab33623c3cc/FASTOO_CH5_TRAVEL/dash.mpd
 
+#EXTINF:-1 tvg-id="JomNgaji" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/Sooka_Jom_Ngaji.png" group-title="SOOKA",Jom Ngaji
+https://827f31c3f2824c0c95c7a5190e96e284.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/951fbca46ac9b52422f8e3d6d4d6dab33623c3cc/FASTOO_CH6_JOMNGAJI/dash.mpd
 
 
 #############################################################################UNIFI##########################################################################################
