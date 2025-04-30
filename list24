@@ -5012,7 +5012,7 @@
 
 //=======≈==============================================================================================================================================================
 
-#EXTM3U refresh="15" billed-msg="☢️ AYAHDEE TV CHANNELS ©️™️ 🇲🇾 | MY FAMILY TV ♥️ | ❌️ TIDAK DIJUAL BELI 💲 | 🦹‍♀️PENCURI PLAYLIST ❗️ 🗣PENJUAL ❗️ 👥️PEMBELI ❗️ SAYA HARAMKAN❗️ KUN FAYAKUN ☝️ | UPDATE: 29 APR 2025  ☢️"
+#EXTM3U refresh="15" billed-msg="☢️ AYAHDEE TV CHANNELS ©️™️ 🇲🇾 | MY FAMILY TV ♥️ | ❌️ TIDAK DIJUAL BELI 💲 | 🦹‍♀️PENCURI PLAYLIST ❗️ 🗣PENJUAL ❗️ 👥️PEMBELI ❗️ SAYA HARAMKAN❗️ KUN FAYAKUN ☝️ | UPDATE: 30 APR 2025  ☢️"
 
 //======================================================================================================================================================================
 
@@ -8928,6 +8928,23 @@ https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b4a7b3289eff493d8700becf2e2a1157:bfbcfcb8137dd565a7f4b5ce7800c1f0
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/dc63bd198bc44193b570e0567ff5b22c/index.mpd
+
+
+#EXTINF:-1 tvg-id="TAPMovies" tvg-name=TAP Movies HD" group-title="MOVIES" tvg-logo=" ",TAP MOVIES
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; DV9110 Build/ST; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/131.0.6778.200 Mobile
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"7e37588e893ab9252e505bd6dda35beb", "kid":"2b9ff7cc1a3dc9fef47cc5773472d510" } ], "type":"temporary" }
+https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_tapmovies_hd1.mpd
+
+#EXTINF:-1 tvg-id="TAP ACTION FLIX" tvg-name=TAP Movies HD" group-title="MOVIES" tvg-logo=" ",TAP ACTION FLIX
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; DV9110 Build/ST; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/131.0.6778.200 Mobile
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"f5b72bf3b89b9848de5616f37de040b7", "kid":"bee1066160c0424696d9bf99ca0645e3" } ], "type":"temporary" }
+https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_tapactionflix_hd1.mpd
 
 
 #EXTINF:-1 tvg-id="USBD2500012DH" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/EbonyByLionsgate.png" group-logo="" group-title="MOVIES",Ebony By Lionsgate
