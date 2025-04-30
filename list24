@@ -7369,6 +7369,8 @@ https://kodonolonz.serv00.net/tol/mbut/Sonyten5.m3u8
 #EXTINF:-1 tvg-id="Flik" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/Flik.png" group-logo="" group-title="INDIHOMETV",Flik
 https://cdn08jtedge.indihometv.com/dassdvr/133/flik/manifest.mpd
 
+
+
 #EXTINF:-1 tvg-id="7.astro" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/FreeMovies.png" group-logo="" group-title="INDIHOMETV",Free Movies
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01553-blueantmediaasi-freemovies-dash-sooka-sooka/index.mpd
 
@@ -7406,36 +7408,34 @@ https://cdn08jtedge.indihometv.com/dassdvr/194/maxstream/manifest.mpd
 
 
 #EXTINF:-1 group-logo="https://iili.io/2APHWGI.png" group-title="INDIHOMETV"  tvg-logo="https://images.indihometv.com/logo_bein1_ver1.png",SPOTV
-https://cdn09jtedge.indihometv.com/joss/133/beib1/index.m3u8
+https://cdn08jtedge.indihometv.com/dassdvr/133/beib1/index.m3u8
 
 #EXTINF:-1 group-title="INDIHOMETV"  tvg-logo="https://images.indihometv.com/logo_bein2_ver1.png",SPOTV 2
-https://cdn09jtedge.indihometv.com/joss/133/beib2/index.m3u8
+https://cdn08jtedge.indihometv.com/dassdvr/133/beib2/index.m3u8
 
 #EXTINF:-1 group-title="INDIHOMETV"  tvg-logo="https://images.indihometv.com/logo_nba_ver1.png",NBA TV
-https://cdn09jtedge.indihometv.com/joss/133/nba/index.m3u8?c
+https://cdn08jtedge.indihometv.com/dassdvr/133/nba/index.m3u8
 
 #EXTINF:-1 group-title="INDIHOMETV"  tvg-logo="https://images.indihometv.com/logo_fightsport_ver1.png",FIGHT SPORTS
-https://cdn09jtedge.indihometv.com/joss/133/fightsport/index.m3u8?c
+https://cdn08jtedge.indihometv.com/dassdvr/133/fightsport/index.m3u8
 
 #EXTINF:-1 group-title="INDIHOMETV"  tvg-logo="https://images.indihometv.com/assets/FUNPLANET-OTT-88.png",FUN PLANET
-https://cdn09jtedge.indihometv.com/atm/hlsv3/indikids/indikids.m3u8?c
-https://cdn09jtedge.indihometv.com/joss/134/indikids/index.m3u8?c
+https://cdn08jtedge.indihometv.com/dassdvr/134/indikids/index.m3u8
 
 #EXTINF:-1 group-title="INDIHOMETV"  tvg-logo="https://images.indihometv.com/logo_antvnew_small.png",ANTV
-https://cdn09jtedge.indihometv.com/atm/hlsv3/ANTV/ANTV.m3u8?c
-https://cdn09jtedge.indihometv.com/joss/130/antv/index.m3u8?c
+https://cdn08jtedge.indihometv.com/dassdvr/130/antv/index.m3u8
 
 #EXTINF:-1 group-title="INDIHOMETV"  tvg-logo="https://images.indihometv.com/logo_alquran_small1.png?v=2.0.0.13",AL QURAN AL KAREEM
-https://cdn09jtedge.indihometv.com/joss/130/alquran/index.m3u8?c
+https://cdn08jtedge.indihometv.com/dassdvr/130/alquran/index.m3u8
 
 #EXTINF:-1 group-title="INDIHOMETV"  tvg-logo="https://images.indihometv.com/logo_rodjatv_small1.png?v=2.0.0.13",RODJA TV
-https://cdn09jtedge.indihometv.com/joss/130/rodjatv/index.m3u8?c
+https://cdn08jtedge.indihometv.com/dassdvr/130/rodjatv/index.m3u8
 
 #EXTINF:-1 group-title="INDIHOMETV"  tvg-logo="https://images.indihometv.com/logo_tvmui_small.png?v=2.0.0.13",MUI TV
-https://cdn09jtedge.indihometv.com/joss/130/muitv/index.m3u8?c
+https://cdn08jtedge.indihometv.com/dassdvr/130/muitv/index.m3u8
 
 #EXTINF:-1 group-title="INDIHOMETV"  tvg-logo="https://images.indihometv.com/logo_tv9_small.png?v=2.0.0.13",TV9
-https://cdn09jtedge.indihometv.com/joss/130/tv9/index.m3u8?c
+https://cdn08jtedge.indihometv.com/dassdvr/130/tv9/index.m3u8
 
 #EXTINF:-1 group-title="INDIHOMETV"  tvg-logo="https://images.indihometv.com/logo_tvnmovies_ver1.png",TVN MOVIES
 https://cdn09jtedge.indihometv.com/joss/133/tvnmovies/index.m3u8?c
@@ -8956,7 +8956,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/CitraBioskopHD/mpd/CitraBioskopHD
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-#EXTINF:-1 tvg-id="Cinema.World.id" tvg-name="Cinema World" tvg-logo="https://iili.io/Jmo9ReI.png" group-title=""MOVIES;INDIHOMETV", Cinema World
+#EXTINF:-1 tvg-id="Cinema.World.id" tvg-name="Cinema World" tvg-logo="https://iili.io/Jmo9ReI.png" group-title="MOVIES;INDIHOMETV", Cinema World
 https://cdn08jtedge.indihometv.com/dassdvr/134/cinemaworld/manifest.mpd
 
 
