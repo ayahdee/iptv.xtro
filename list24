@@ -8901,6 +8901,22 @@ http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2686.ts
 #http://119.156.26.155:8000/play/a07j/index.m3u8
 #####http://opplex.tv:8080//live/83212539/43153928/66228.m3u8
 
+#EXTINF:-1 group-title="UNIFI TV;MOVIES" tvg-id="128.unifi" tvg-logo="https://pictr.com/images/2025/01/14/x12DQ1.png",Unifi Dunia Sinema
+#KODIPROP:contentlookup=False
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+#KODIPROP:inputstream=inputstream.adaptive
+https://unifi-live01.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8
+
+
+#EXTINF:-1 tvg-id="121.unifi" group-title="UNIFI TV;MOVIES" tvg-logo="https://pictr.com/images/2024/11/06/xi9eB8.png",Unifi Siar
+#KODIPROP:contentlookup=False
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "fc23c442355854992a264931a28fc1c5": "3a3368fa385a049695ff4de3c36809cd"  }
+https://unifi-live09.secureswiftcontent.com/UnifiHD/live31.mpd
+
 #EXTINF:-1 tvg-logo="https://planetdish.com/wp-content/uploads/2017/09/PixL-on-DISH.png" group-title="MOVIES", Pixl TV Movie Channel
 https://frndlymsl.akamaized.net/hls/live/2006426/pixlmsl/pixlmsl/playlist.m3u8?hdnts=st=1606053234~exp=3216054041~acl=*~hmac=208d261d9f98d76a5ac30aa2ce51751f88ee50cfc24812b7cbea8b0397489a07
 
