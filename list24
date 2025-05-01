@@ -5012,7 +5012,7 @@
 
 //=======≈==============================================================================================================================================================
 
-#EXTM3U refresh="15" billed-msg="☢️ AYAHDEE TV CHANNELS ©️™️ 🇲🇾 | MY FAMILY TV ♥️ | ❌️ TIDAK DIJUAL BELI 💲 | 🦹‍♀️PENCURI PLAYLIST ❗️ 🗣PENJUAL ❗️ 👥️PEMBELI ❗️ SAYA HARAMKAN❗️ KUN FAYAKUN ☝️ | UPDATE: 30 APR 2025  ☢️"
+#EXTM3U refresh="15" billed-msg="☢️ AYAHDEE TV CHANNELS ©️™️ 🇲🇾 | MY FAMILY TV ♥️ | ❌️ TIDAK DIJUAL BELI 💲 | 🦹‍♀️PENCURI PLAYLIST ❗️ 🗣PENJUAL ❗️ 👥️PEMBELI ❗️ SAYA HARAMKAN❗️ KUN FAYAKUN ☝️ | UPDATE: 01 MAY 2025  ☢️"
 
 //======================================================================================================================================================================
 
@@ -8875,28 +8875,28 @@ http://streaming-hwc.ch7.com/livech7hd/HD_1080p.m3u8
 
 #########################################################MOVIES#######################################################################################################
 
-#EXTINF:-1 tvg-id="32" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/SonyPixV3.png" group-logo="https://iili.io/2AgXmOX.png" group-title="MOVIES",Sony Pix
+#EXTINF:-1 tvg-id="32" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/SonyPixV3.png" group-logo="https://iili.io/2AgXmOX.png" group-title="MOVIES",Sony Pix ᴴᴰ
 https://tataplay.slivcdn.com/hls/live/2011748/PIXHD/master.m3u8
 #http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2688.ts
 #http://119.156.26.155:8000/play/a07d/index.m3u8
 #####http://opplex.tv:8080//live/83212539/43153928/66224.m3u8
 
-#EXTINF:-1 tvg-id="ts560" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/StarMovies.png" group-logo="" group-title="MOVIES",Star Movies HD
+#EXTINF:-1 tvg-id="ts560" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/StarMovies.png" group-logo="" group-title="MOVIES",Star Movies ᴴᴰ
 http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2687.ts
 #http://119.156.26.155:8000/play/a06p/index.m3u8
 #####http://opplex.tv:8080//live/83212539/43153928/66213.m3u8
 
-#EXTINF:-1 tvg-id="593" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/StarMoviesSelect.png" group-logo="" group-title="MOVIES",Star Movies Select HD
+#EXTINF:-1 tvg-id="593" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/StarMoviesSelect.png" group-logo="" group-title="MOVIES",Star Movies Select ᴴᴰ
 http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2687.ts
 #http://119.156.26.155:8000/play/a06q/index.m3u8
 #####http://opplex.tv:8080//live/83212539/43153928/66315.m3u8
 
-#EXTINF:-1 tvg-id="ts506" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/&flix.png" group-logo="" group-title="MOVIES",&Flix HD
+#EXTINF:-1 tvg-id="ts506" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/&flix.png" group-logo="" group-title="MOVIES",&Flix ᴴᴰ
 http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2685.ts
 #http://119.156.26.155:8000/play/a06x/index.m3u8
 #####http://opplex.tv:8080//live/83212539/43153928/66236.m3u8
 
-#EXTINF:-1 tvg-id="ts530" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/%26priv%C3%A9.png" group-logo="" group-title="MOVIES",&Prive HD
+#EXTINF:-1 tvg-id="ts530" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/%26priv%C3%A9.png" group-logo="" group-title="MOVIES",&Prive ᴴᴰ
 http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2686.ts
 #http://119.156.26.155:8000/play/a07j/index.m3u8
 #####http://opplex.tv:8080//live/83212539/43153928/66228.m3u8
@@ -8916,6 +8916,28 @@ https://unifi-live01.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "fc23c442355854992a264931a28fc1c5": "3a3368fa385a049695ff4de3c36809cd"  }
 https://unifi-live09.secureswiftcontent.com/UnifiHD/live31.mpd
+
+#EXTINF:-1 tvg-id="US18000163F" tvg-chno="770" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/Miramax.png" group-title="MOVIES",Miramax Movies Channel 
+https://raw.githubusercontent.com/mystery75/m3u8/main/MIRAMAX.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"BY3shFvTQBeKOI7dEEoBXg", "kid":"QPAZuGJB0j7wdWM/1/HpJw" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="ts210" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/MN%2B.png" group-logo="" group-title="MOVIES",MN+ ᴴᴰ
+https://times-ott-live.akamaized.net/mnplus_wv_drm/index.mpd
+#####https://starshare.live:443/live/Winston123/Winston123/98847.ts
+#####https://starshare.live:443/live/star123/star123/178.ts
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"BY3shFvTQBeKOI7dEEoBXg", "kid":"QPAZuGJB0j7wdWM/1/HpJw" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="ts599" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/MNX.png" group-logo="" group-title="MOVIES",MNX ᴴᴰ
+https://times-ott-live.akamaized.net/mnxhd_wv_drm/index.mpd
+#####https://starshare.live:443/live/star123/star123/191.ts
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"BY3shFvTQBeKOI7dEEoBXg", "kid":"QPAZuGJB0j7wdWM/1/HpJw" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="ts173" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/MoviesNow.png" group-logo="" group-title="MOVIES",Movies Now ᴴᴰ
+https://times-ott-live.akamaized.net/moviesnow_wv_drm/index.mpd
+
 
 #EXTINF:-1 tvg-logo="https://planetdish.com/wp-content/uploads/2017/09/PixL-on-DISH.png" group-title="MOVIES", Pixl TV Movie Channel
 https://frndlymsl.akamaized.net/hls/live/2006426/pixlmsl/pixlmsl/playlist.m3u8?hdnts=st=1606053234~exp=3216054041~acl=*~hmac=208d261d9f98d76a5ac30aa2ce51751f88ee50cfc24812b7cbea8b0397489a07
@@ -8948,7 +8970,7 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dbfeb961
 #EXTINF:-1 tvg-id="" tvg-name="Moviesphere Free" tvg-logo="https://images.samsung.com/is/image/samsung/assets/au/tvs/smart-tv/samsung-tv-plus/all-channels/Moviesphere-Free_SamsungAsset_Logo_1000x1000_C_White.png" group-title="MOVIES",Moviesphere Free
 https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/114/345114-LOGO-m.png" group-title="MOVIES",Studio Universal
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/114/345114-LOGO-m.png" group-title="MOVIES",Studio Universal ᴴᴰ
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -8966,7 +8988,7 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/dc63bd198bc44193b570e0567ff5b22c/ind
 https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_tapmovies_hd1.mpd
 
 
-#EXTINF:-1 tvg-id="Tapactionflix.Hd.ph" tvg-logo="https://www.tapdmv.com/logo-TapActionFlix-2021.png" group-title="MOVIES", TAP Action Flix HD
+#EXTINF:-1 tvg-id="Tapactionflix.Hd.ph" tvg-logo="https://www.tapdmv.com/logo-TapActionFlix-2021.png" group-title="MOVIES", TAP Action Flix ᴴᴰ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; DV9110 Build/ST; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/131.0.6778.200 Mobile
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -8982,7 +9004,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/CitraBioskopHD/mpd/CitraBioskopHD
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-#EXTINF:-1 tvg-id="Cinema.World.id" tvg-name="Cinema World" tvg-logo="https://iili.io/Jmo9ReI.png" group-title="MOVIES;INDIHOMETV", Cinema World
+#EXTINF:-1 tvg-id="Cinema.World.id" tvg-name="Cinema World" tvg-logo="https://iili.io/Jmo9ReI.png" group-title="MOVIES;INDIHOMETV", Cinema World ᴴᴰ
 https://cdn08jtedge.indihometv.com/dassdvr/134/cinemaworld/manifest.mpd
 
 
@@ -8997,15 +9019,15 @@ https://cdn08jtedge.indihometv.com/dassdvr/130/imc/manifest.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
 #KODIPROP:inputstream.adaptive.license_key=
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/MaxStream.png" group-logo="" group-logo="" group-title="MOVIES;INDIHOMETV",Max Stream
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/MaxStream.png" group-logo="" group-logo="" group-title="MOVIES;INDIHOMETV",Max Stream ᴴᴰ
 https://cdn08jtedge.indihometv.com/dassdvr/194/maxstream/manifest.mpd
 
-#EXTINF:-1 tvg-id="Thrill.hk" tvg-name="Thril" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCj2K_yF0V8V6pYqIi8PZvYrPbEWS1zffHFw&usqp=CAU" group-title="MOVIES;INDIHOMETV", Thrill
+#EXTINF:-1 tvg-id="Thrill.hk" tvg-name="Thril" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCj2K_yF0V8V6pYqIi8PZvYrPbEWS1zffHFw&usqp=CAU" group-title="MOVIES;INDIHOMETV", Thrill ᴴᴰ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 #EXTVLCOPT:http-referrer=https://www.indihometv.com
 https://streaming.indihometv.com/atm/DASH/thrill/manifest.mpd
 
-#EXTINF:-1 tvg-id="Studio Universal.id" tvg-logo="https://pictr.com/images/2025/01/23/xpbYXO.jpg" group-title="MOVIES;INDIHOMETV" ,Studio Universal
+#EXTINF:-1 tvg-id="Studio Universal.id" tvg-logo="https://pictr.com/images/2025/01/23/xpbYXO.jpg" group-title="MOVIES;INDIHOMETV" ,Studio Universal ᴴᴰ
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
 #KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/dash+xml
