@@ -8487,6 +8487,19 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2309/default_ott.mpd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5073/default_ott.mpd
 
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=918adebe10a9848d567dc6cb5adce510:084e76561bba9d4f3ae953acdd37b3ed
+#EXTINF:-1 group-title="Indian" tvg-id="" channel-id="60" group-title="INDIAN" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroThangathirai_2024.png",Astro Thangathirai
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; TMRV075G Build/UKQ1.230924.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/132.0.6834.163 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2109/default_primary.mpd
+
+#EXTINF:-1 tvg-id="202.astro" ch-number="202" tvg-name="Astro Vinmeen" group-title="INDIAN" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroVinmeen_2024.png",Astro Vinmeen
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c7737edd1d67824fa70df73154bf8110:68c5db3b309fab5503a6fdb580ddf281
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; TMRV075G Build/UKQ1.230924.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/132.0.6834.163 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2105/default_ott.mpd
+
 
 #EXTINF:-1 tvg-id="214" tvg-name="Adithya" tvg-logo="https://user-images.githubusercontent.com/85995579/130947065-c352cfdd-f4eb-47e3-aec3-806e76cec321.png" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="INDIAN", Adithya
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -8683,15 +8696,22 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5016/default_ott.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"4dteB6K/4Pv5TOVrXhOfSA", "kid":"oMHwDxR3ez2vSpEsQxDxEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="AstroAOD352" tvg-name="Astro AOD 352" group-title="CHINESE" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/fav-icon.png" tvg-logo="https://ws.kapallayar.cc//image//Logo//CHINESE//CH_AOD.png",352 ASTRO AOD
+##EXTINF:-1 tvg-id="AstroAOD352" tvg-name="Astro AOD 352" group-title="CHINESE" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/fav-icon.png" tvg-logo="https://ws.kapallayar.cc//image//Logo//CHINESE//CH_AOD.png",352 ASTRO AOD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/700/default_ott.mpd
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=286aef4e8d85db66e05fe4a5c799e410:176e2938bce795d1c85559a2440477f7
+#EXTINF:-1 group-title="CHINESE" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroAOD_2024.png" tvg-id="311.astro",Astro AOD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; TMRV075G Build/UKQ1.230924.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/132.0.6834.163 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2706/default_primary.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"OKaMdJiYEUzwYp134kaoiA", "kid":"aRkWFkvisa5shS8ZkNH+EA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="AstroAOD354" tvg-name="Astro AOD 354" group-title="CHINESE" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/fav-icon.png" tvg-logo="https://ws.kapallayar.cc//image//Logo//CHINESE//CH_AOD.png",354 ASTRO AOD
+##EXTINF:-1 tvg-id="AstroAOD354" tvg-name="Astro AOD 354" group-title="CHINESE" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/fav-icon.png" tvg-logo="https://ws.kapallayar.cc//image//Logo//CHINESE//CH_AOD.png",354 ASTRO AOD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/212/default_ott.mpd
 
@@ -9725,6 +9745,86 @@ https://tglmp04.akamaized.net/out/v1/421a3cd3bdcd492f8f4b5efb2363ed2c/manifest.m
 #EXTINF:-1 group-title="SINGAPORE" tvg-id="" tvg-chno="" group-logo="https://i.ibb.co/BzXszsr/flag-singapore-round-frame-1308-71152.jpg" tvg-logo="https://i.ibb.co/zsDGJDK/trtrtrt.jpg",ROCK ENTERTAINMENT (SGP)
 https://tglmp02.akamaized.net/out/v1/621a7089e63144e4be7891cd9bfb10e2/manifest.mpd
 
+================================= MTV CHANNEL =============================
+
+#EXTINF:-1 tvg-id="MTVLive" tvg-logo="https://static.epg.best/il/MTV.il.png" group-title="MTV CHANNEL",718 MTV Live
+#EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=3ac2542a4f7be746633db07647451710:22f964a6d6927ccdba482e775cdff190
+http://linearjitp-playback.astro.com.my/dash-wv/linear/5014/default_ott.mpd
+
+#EXTINF:-1 tvg-id="HITSNow" group-title="MTV CHANNEL" group-logo="https://aqfadtv.xyz/images/entertainment.png" tvg-logo="https://aqfadtv.xyz/logos/HITSNow.png", ch-number="702",702 HITS Now
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-server.danng.me/?username=HishamKamarul&channelid=5110
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 27821-67832-42-315-4231-233-21-43-12-1312-321-23-21-232-) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5110/default_ott.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTINF:-1 group-title="MTV CHANNEL" tvg-logo="https://images.pluto.tv/channels/62b218fc511d4b00070ddc0c/thumbnail.jpg" tvg-id="",MTV Flow Latino
+https://jmp2.uk/plu-5d3609cd6a6c78d7672f2a81.m3u8
+
+#EXTINF:-1 group-title="MTV CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9a/Traceurban2022.png",Trace Urban
+https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="99372" tvg-logo="https://i.imgur.com/CUVAi4u.png" group-title="MTV CHANNEL",Trace Latina
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracelatinach-samsungch/playlist.m3u8
+
+#EXTINF:-1 group-title="MTV CHANNEL" tvg-logo="https://raw.githubusercontent.com/KOGOCUNG/plugin/refs/heads/main/Vevo.png", Vevo Features
+https://jmp2.uk/sam-USBD1200008GL.m3u8
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/DRbqBkKBxosMW817-K66NdyobO9RwfxdpD18miEG-WEBeTyEqi7IVTTFgFI-nB7JasEk=w240-h480" group-title="MTV CHANNEL",MIC TV
+https://v2.siar.us/mic/live/playlist.m3u8
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSZbDC2h2l8cNdnXt4Q4Hgu_r1rvhBOpmGLR8k9jUwmA&s" group-title="MTV CHANNEL",New K-Pop
+https://8fd4e0b07d96480eb52382739cc8acce.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_NewKID/playlist.m3u8
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/ADrXQf8XcyzEP8zd77F9AN5m-SX1GhPXqqvRBjgT2zmSqkwVm5LIBg_cLv0vHuHXZ38=w240-h480" group-title="MTV CHANNEL",K-Pop TVPlay
+https://stream.gia.tv/giatv/giatv-kpoptvplay/kpoptvplay/playlist.m3u8|user-agent=ExoPlayerDemo/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+
+#EXTINF:-1 tvg-id="Vevo2K.us" tvg-logo="https://images.pluto.tv/channels/5fd7bca3e0a4ee0007a38e8c/featuredImage.jpg" group-title="MTV CHANNEL",Vevo 2K
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5fd7bca3e0a4ee0007a38e8c/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2cc208-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=9c78a281-5d61-4850-8b62-74632f015343
+
+#EXTINF:-1 tvg-id="Vevo90s.us" tvg-logo="https://images.pluto.tv/channels/5fd7bb1f86d94a000796e2c2/featuredImage.jpg" group-title="MTV CHANNEL",Vevo '90s
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5fd7bb1f86d94a000796e2c2/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2cc207-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=0728470d-6a7e-40da-b12d-986993b83ec1
+
+#EXTINF:-1 channel-id="USBD120002431" tvg-id="USBD120002431" tvg-chno="4400" tvg-name="Vevo 2010s" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD120002431_20241112T001825SQUARE.png" group-title="MTV CHANNEL", Vevo 2010s
+https://jmp2.uk/sam-USBD120002431.m3u8
+
+#EXTINF:-1 group-title="MTV CHANNEL" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/MTVLIVEHD.png",MTV LIVE 2
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:47:DE:1D&stream=227369&extension=ts
+
+#EXTINF:-1 group-title="MTV CHANNEL" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/mtvmusic.png",MTV MUSIC
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:47:DE:1D&stream=227363&extension=ts
+
+#EXTINF:-1 group-title="MTV CHANNEL" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/4fun.tv_Logo_(2017).svg.png",4FUN.TV
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:47:DE:1D&stream=227341&extension=ts
+
+#EXTINF:-1 group-title="MTV CHANNEL" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/Vox_Music.png",VOX MUSIC TV
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:47:DE:1D&stream=227339&extension=ts
+
+#EXTINF:-1 channel-id="USBC3600015GF" tvg-id="USBC3600015GF" tvg-chno="4406" tvg-name="Vevo Latino" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC3600015GF_20241112T001856SQUARE.png" group-title="MTV CHANNEL", Vevo Latino
+https://jmp2.uk/sam-USBC3600015GF.m3u8
+
+#EXTINF:-1 channel-id="USBD3500016NH" tvg-id="USBD3500016NH" tvg-chno="4454" tvg-name="Stingray Today's K-Pop" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500016NH_20240520T212852SQUARE.png" group-title="MTV CHANNEL", Stingray Today's K-Pop
+https://jmp2.uk/sam-USBD3500016NH.m3u8
+
+#EXTINF:-1 channel-id="USBD3500009Y3" tvg-id="USBD3500009Y3" tvg-chno="4464" tvg-name="Stingray Today's Latin Pop" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500009Y3_20240520T212854SQUARE.png" group-title="MTV CHANNEL", Stingray Today's Latin Pop
+https://jmp2.uk/sam-USBD3500009Y3.m3u8
+
+#EXTINF:-1 tvg-id="activa" tvg-logo="https://i.ibb.co.com/tp2z5Qmw/Activatv.png" group-title="MTV CHANNEL",Activa TV
+https://streamtv.mediasector.es/hls/activatv/index.m3u8
+
+
+============================== MTV CHANNEL END ==================================
 
 ############################ASTRO GO RADIO####################################
 
