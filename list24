@@ -5188,7 +5188,7 @@ https://nanopi.rocket-tv.online/Astro_Citra/default_ott.mpd
 ============================ARENA BOLA==PREMIER==GRANDSTAND==SERVER 1==✔️====== X Token Rocket TV ===========================
 
 
-##EXTINF:-1 tvg-id="803.astro" ch-number="803" group-logo="https://iili.io/2Agidua.png" group-title="SPORTS" tvg-id="AstroArenaBola" ch-number="803" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroArenaBola_2024.png",Astro Arena Bola ✔️
+#EXTINF:-1 tvg-id="803.astro" ch-number="803" group-logo="https://iili.io/2Agidua.png" group-title="SPORTS" tvg-id="AstroArenaBola" ch-number="803" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroArenaBola_2024.png",Astro Arena Bola ✔️
 ##EXTHTTP:{"X-Token":"08300709dbac7e9130078e6c4495d34533454e6d7a716373506559374d46744a576c4c536e4144774850453545375a663736306238654f4659646b3d"} 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"4VG7gUaKhCbWqxKGDTFKow","kid":"SZqPNoBksRzAkrewE9sHEA"}],"type":"temporary"}
@@ -5196,7 +5196,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5099/default_primary.mpd
 #https://nanopi.rocket-tv.online/Arena_Bola/default_ott.mpd
 
 
-##EXTINF:-1 tvg-id="804.astro" ch-number="804" group-title="SPORTS" tvg-id="AstroArenaBola2" ch-number="804" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroArenaBola2_2024.png",Astro Arena Bola 2 ✔️
+#EXTINF:-1 tvg-id="804.astro" ch-number="804" group-title="SPORTS" tvg-id="AstroArenaBola2" ch-number="804" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroArenaBola2_2024.png",Astro Arena Bola 2 ✔️
 ##EXTHTTP:{"X-Token":"08300709dbac7e9130078e6c4495d34533454e6d7a716373506559374d46744a576c4c536e4144774850453545375a663736306238654f4659646b3d"} 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"se/6nlHPOLOuZ2vCZJN++w","kid":"Yqe3kXqtUSPNTfZcVhxwEA"}],"type":"temporary"}
@@ -5204,7 +5204,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5100/default_primary.mpd
 #https://nanopi.rocket-tv.online/Arena_Bola_2/default_ott.mpd
 
 
-##EXTINF:-1 tvg-id="AstroPremierLeague" tvg-id="AstroPremierLeague" tvg-name="APL HD" ch-number="AstroPremierLeague" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroPremierLeague_2024.png" group-title="SPORTS",Astro Premier League ✔️
+#EXTINF:-1 tvg-id="AstroPremierLeague" tvg-id="AstroPremierLeague" tvg-name="APL HD" ch-number="AstroPremierLeague" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroPremierLeague_2024.png" group-title="SPORTS",Astro Premier League ✔️
 ##EXTHTTP:{"X-Token":"08300709dbac7e9130078e6c4495d34533454e6d7a716373506559374d46744a576c4c536e4144774850453545375a663736306238654f4659646b3d"} 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"TxVBP35HZ7UMSOGbf5ovzA","kid":"90mrcfInmZv7CY9zNZqsEA"}],"type":"temporary"}
@@ -5212,7 +5212,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/601/default_primary.mpd
 #https://nanopi.rocket-tv.online/Premier_League/default_ott.mpd
 
 
-##EXTINF:-1 tvg-id="AstroPremierLeague2" tvg-name="AstroPremierLeague2" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroPremierLeague2_2024.png" group-title="SPORTS",Astro Premier League 2 ✔️
+#EXTINF:-1 tvg-id="AstroPremierLeague2" tvg-name="AstroPremierLeague2" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroPremierLeague2_2024.png" group-title="SPORTS",Astro Premier League 2 ✔️
 ##EXTHTTP:{"X-Token":"08300709dbac7e9130078e6c4495d34533454e6d7a716373506559374d46744a576c4c536e4144774850453545375a663736306238654f4659646b3d"} 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"3fpujVSbTVF3qcref5oLIw","kid":"wdyS8HifESUDwNs73i8SEA"}],"type":"temporary"}
@@ -5220,7 +5220,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2104/default_primary.mpd
 #https://nanopi.rocket-tv.online/Premier_League_2/default_ott.mpd
 
 
-##EXTINF:-1 tvg-id="AstroGrandstand" tvg-name="AstroGrandstand" ch-number="813" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroGrandstand_2024.png" group-title="SPORTS",Astro Grandstand ✔️
+#EXTINF:-1 tvg-id="AstroGrandstand" tvg-name="AstroGrandstand" ch-number="813" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroGrandstand_2024.png" group-title="SPORTS",Astro Grandstand ✔️
 ##EXTHTTP:{"X-Token":"08300709dbac7e9130078e6c4495d34533454e6d7a716373506559374d46744a576c4c536e4144774850453545375a663736306238654f4659646b3d"} 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"Fo8/rfxzC6PfyTL3xDDifQ","kid":"W+Zqb4jv7j1uMPcqnFjjEA"}],"type":"temporary"}
