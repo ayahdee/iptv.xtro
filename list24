@@ -5243,7 +5243,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2701/default_primary.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"7hrhzQhvqb/AUF5tXp4n6Q","kid":"isiy968FrYKYBTRaUXvBEA"}],"type":"temporary"}
-https://linearjitp-playback.astro.com.my/dash-wv/linear/1600/default_primary.mpd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/1601/default_primary.mpd
 #https://nanopi.rocket-tv.online/SuperSport_UHD/default_ott.mpd
 
 -------------------------------------------------------------------------------------------------------------------
