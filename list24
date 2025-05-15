@@ -5189,51 +5189,62 @@ https://nanopi.rocket-tv.online/Astro_Citra/default_ott.mpd
 
 
 #EXTINF:-1 tvg-id="803.astro" ch-number="803" group-logo="https://iili.io/2Agidua.png" group-title="SPORTS" tvg-id="AstroArenaBola" ch-number="803" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroArenaBola_2024.png",Astro Arena Bola ✔️
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; DV9110 Build/ST; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/131.0.6778.200 Mobile 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"4VG7gUaKhCbWqxKGDTFKow","kid":"SZqPNoBksRzAkrewE9sHEA"}],"type":"temporary"}
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5099/default_primary.mpd
 #https://nanopi.rocket-tv.online/Arena_Bola/default_ott.mpd
 
 
 #EXTINF:-1 tvg-id="804.astro" ch-number="804" group-title="SPORTS" tvg-id="AstroArenaBola2" ch-number="804" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroArenaBola2_2024.png",Astro Arena Bola 2 ✔️
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; DV9110 Build/ST; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/131.0.6778.200 Mobile
-#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"se/6nlHPOLOuZ2vCZJN++w","kid":"Yqe3kXqtUSPNTfZcVhxwEA"}],"type":"temporary"}
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5100/default_primary.mpd
 #https://nanopi.rocket-tv.online/Arena_Bola_2/default_ott.mpd
 
 
 #EXTINF:-1 tvg-id="AstroPremierLeague" tvg-id="AstroPremierLeague" tvg-name="APL HD" ch-number="AstroPremierLeague" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroPremierLeague_2024.png" group-title="SPORTS",Astro Premier League ✔️
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; DV9110 Build/ST; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/131.0.6778.200 Mobile
-#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"TxVBP35HZ7UMSOGbf5ovzA","kid":"90mrcfInmZv7CY9zNZqsEA"}],"type":"temporary"}
 https://linearjitp-playback.astro.com.my/dash-wv/linear/601/default_primary.mpd
 #https://nanopi.rocket-tv.online/Premier_League/default_ott.mpd
 
 
 #EXTINF:-1 tvg-id="AstroPremierLeague2" tvg-name="AstroPremierLeague2" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroPremierLeague2_2024.png" group-title="SPORTS",Astro Premier League 2 ✔️
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; DV9110 Build/ST; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/131.0.6778.200 Mobile
-#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"3fpujVSbTVF3qcref5oLIw","kid":"wdyS8HifESUDwNs73i8SEA"}],"type":"temporary"}
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2104/default_primary.mpd
 #https://nanopi.rocket-tv.online/Premier_League_2/default_ott.mpd
 
 
 #EXTINF:-1 tvg-id="AstroGrandstand" tvg-name="AstroGrandstand" ch-number="813" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroGrandstand_2024.png" group-title="SPORTS",Astro Grandstand ✔️
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; DV9110 Build/ST; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/131.0.6778.200 Mobile
-#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"Fo8/rfxzC6PfyTL3xDDifQ","kid":"W+Zqb4jv7j1uMPcqnFjjEA"}],"type":"temporary"}
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2701/default_primary.mpd
 #https://nanopi.rocket-tv.online/Astro_Grandstand/default_ott.mpd
 
 #EXTINF:-1 tvg-id="805.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroSportsUHD_2024.png" group-logo="" group-title="SPORTS",Astro UHD 4K ✔️
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; DV9110 Build/ST; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/131.0.6778.200 Mobile
-#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"7hrhzQhvqb/AUF5tXp4n6Q","kid":"isiy968FrYKYBTRaUXvBEA"}],"type":"temporary"}
 https://linearjitp-playback.astro.com.my/dash-wv/linear/1600/default_primary.mpd
 #https://nanopi.rocket-tv.online/SuperSport_UHD/default_ott.mpd
-#https://linearjitp-playback.astro.com.my/dash-wv/linear/1600/default_primary.mpd
 
 -------------------------------------------------------------------------------------------------------------------
 
