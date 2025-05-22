@@ -5050,7 +5050,7 @@ http://OPPSS❗️OFFLINE🙏..OUR TECHNICIAN TRYING TO FIX..TQ😅
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.В3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"X842T7xEmYVll7GalvRGSA", "kid":"O8Pw5Riu2S6AqYEY5bwsEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="TV3" tvg-name="TV3" group-title="AstroGO" group-logo="https://telegra.ph/file/ed0787b99b8153874c7e1.png" tvg-logo="https://iili.io/1NKfxR.png",103 TV3 SD Source 3
+#EXTINF:-1 tvg-id="TV3" tvg-name="TV3" group-title="MALAYSIA" group-logo="https://telegra.ph/file/ed0787b99b8153874c7e1.png" tvg-logo="https://iili.io/1NKfxR.png",103 TV3 SD Source 3
 https://linearjitp-playback.astro.com.my/dash-wv/linear/809/default_primary.mpd
 
 ###EXTINF:-1 tvg-id="TV3" ch-number="103" tvg-name="TV3" group-title="MALAYSIA" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png",103 TV3 FHD Server 3
