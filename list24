@@ -5066,8 +5066,8 @@ https://manifest.bapok.best/UnifiTV/TV3.mpd
 #EXTVLCOPT:Host=tonton-live-switch-ssar.akamaized.net
 #EXTHTTP:{"Origin":"https://tonton-live-sg3.akamaized.net"}
 #EXTVLCOPT:http-referrer=https://tonton-live-sg3.akamaized.net/
-https://live-ssar-02.tonton.com.my/stream-tv3/master.m3u8?bpkio_serviceid=6c0958d82a830a02ca0936d9cfab8311|referrer=https://watch.tonton.com.my/
-#https://live-ssar-02.tonton.com.my/1752044183/0xbf7559fb30ef7b8cecf0a7fca66d20912a373736e3f6c13399c7a62f8da0ccb3/stream-tv3/master.m3u8?bpkio_serviceid=6c0958d82a830a02ca0936d9cfab8311&did=d1b49c12-4ee4-4324-f460-e73c8d9780ab&dnt=0&ifatype=sessionid&plt=&lot_auds=&ttd_uid2=A4AAABKp27kh6-u5fuoELvvhCFTrEydJ0BRzxKLY4ClaycEjDegefYARLrJG68V0a9xxSP1qgjhbGfm6yFOqIXUbXShMwdgDddT90_GKzXkzMTcAhW_zG9-O2NoBcyTtOdne-RUryC51JpND023u6188ZGBTmMVwzBLCk-3AOe3vpwTrRkZ11zqchW8a5QaYuFO5GCBAM1x2Yrdg_oHxS1dyyw&bpkio_sessionid=10a3e35a231-328a46de-cf8a-4997-a2f3-0a3b5c2c7d16&category=all
+https://live-ssar-02.tonton.com.my/1752081231/0x61f8aa1ebf844de61c15b2713103452d6198b2681db108619c612c07c61e5f42/stream-tv3/master.m3u8?bpkio_serviceid=6c0958d82a830a02ca0936d9cfab8311&did=14a491ab-0813-cdad-c7d7-71af4dc70a5d&dnt=0&ifatype=sessionid&plt=&lot_auds=&ttd_uid2=A4AAABKp27kh6-u5fuoELvvhCFTrEydJ0BRzxKLY4ClaycEjDegefYARLrJG68V0a9xxSP1qgjhbGfm6yFOqIXUbXShMwdgDddT90_GKzXkzMTcAhW_zG9-O2NoBcyTtOdne-RUryC51JpND023u6188ZGBTmMVwzBLCk-3AOe3vpwTrRkZ11zqchW8a5QaYuFO5GCBAM1x2Yrdg_oHxS1dyyw&bpkio_sessionid=10a3d9b145-471b9e99-165b-44a8-bbf7-aeac1eca9d29&category=all
+#https://live-ssar-02.tonton.com.my/stream-tv3/master.m3u8?bpkio_serviceid=6c0958d82a830a02ca0936d9cfab8311|referrer=https://watch.tonton.com.my/
 #https://tonton-live-switch-ssar.akamaized.net/stream-tv3/master.m3u8?bpkio_serviceid=6c0958d82a830a02ca0936d9cfab8311
 
 ##EXTINF:-1 tvg-id="TV3" ch-number="103" tvg-name="TV3" group-title="MALAYSIA" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png",103 TV3 FHD Server 2
@@ -5083,6 +5083,9 @@ https://live-ssar-01.tonton.com.my/stream-tv3/master_1080.m3u8?bpkio_serviceid=6
 https://mifntechnology.github.io/siaranMy/channels/Tv3/index.m3u8
 
 #EXTINF:-1 tvg-id="TV3" ch-number="103" tvg-name="TV3" group-title="MALAYSIA" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png",103 TV3 FHD Server 3
+http://home.pijanify.my/tonton/?id=tv3
+
+##EXTINF:-1 tvg-id="TV3" ch-number="103" tvg-name="TV3" group-title="MALAYSIA" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png",103 TV3 FHD Server 3
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=widevine
