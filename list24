@@ -5023,10 +5023,13 @@
 
 
 New Channel || Updated 04 Dis 2024
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"USSZbrz+4He0qs7DB/ONDw", "kid":"sRGeAbZ6GaPrN8QRQMP6EA" } ], "type":"temporary" }
+
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=b1119e01b67a19a3eb37c41140c3fa10:5124996ebcfee077b4aacec307f38d0f
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="619.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Blippi&Friends.png" group-logo="" group-title="KIDS",Blippi & Friends   
-http://linearjitp-playback.astro.com.my/dash-wv/linear/5175/default_ott.mpd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5175/default_ott.mpd
 #https://linearjitp-playback.astro.com.my/dash-wv/linear/5175/default_ott.mpd
 
 TV3(S1) || Updated 27 Nov 2024 OFFlink
