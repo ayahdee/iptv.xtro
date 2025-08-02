@@ -73,7 +73,7 @@ https://manifest.bapok.best/UnifiTV/TV3.mpd
 #EXTVLCOPT:Host=tonton-live-switch-ssar.akamaized.net
 #EXTHTTP:{"Origin":"https://tonton-live-sg3.akamaized.net"}
 #EXTVLCOPT:http-referrer=https://tonton-live-sg3.akamaized.net/
-https://live-ssar-02.tonton.com.my/1752082305/0xbb28eaf0af64d20580f51496033c5f6ba2501dbf15fe92dfabd12dc8c8abd20f/stream-tv3/master.m3u8?bpkio_serviceid=6c0958d82a830a02ca0936d9cfab8311&did=14a491ab-0813-cdad-c7d7-71af4dc70a5d&dnt=0&ifatype=sessionid&plt=&lot_auds=&ttd_uid2=A4AAABKp27kh6-u5fuoELvvhCFTrEydJ0BRzxKLY4ClaycEjDegefYARLrJG68V0a9xxSP1qgjhbGfm6yFOqIXUbXShMwdgDddT90_GKzXkzMTcAhW_zG9-O2NoBcyTtOdne-RUryC51JpND023u6188ZGBTmMVwzBLCk-3AOe3vpwTrRkZ11zqchW8a5QaYuFO5GCBAM1x2Yrdg_oHxS1dyyw&bpkio_sessionid=10e3e11d233-97efbc6e-60ee-4ced-a1dc-4dfc9e59b6c8&category=all
+https://live-ssar-02.tonton.com.my/1754132539/0xdf7e52973d79a2cce6bd16a52ab521f881335cb2ef00454e87eebb17f0b8814b/stream-tv3/master_108020250802T050718_23484.ts?bpkio_serviceid=6c0958d82a830a02ca0936d9cfab8311&bpkio_sessionid=10e3e33d129-9cb3d9db-3780-4967-bd10-a98f81981bd0
 #https://live-ssar-02.tonton.com.my/stream-tv3/master.m3u8?bpkio_serviceid=6c0958d82a830a02ca0936d9cfab8311|referrer=https://watch.tonton.com.my/
 #https://tonton-live-switch-ssar.akamaized.net/stream-tv3/master.m3u8?bpkio_serviceid=6c0958d82a830a02ca0936d9cfab8311
 
