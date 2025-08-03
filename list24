@@ -792,7 +792,7 @@ https://raw.githubusercontent.com/ayahdee/-/70e0aa1e9daa7babdcfbc770db92097b06ea
 
 --------------------ASTRO RIA---------------------------
 
-#EXTINF:-1 tvg-id="Astro Ria" ch-number="104" group-logo="https://iili.io/2AgUl8G.png" group-title="ASTRO" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_RIA_v1.png",ASTRO RIA HD ✔️
+###EXTINF:-1 tvg-id="Astro Ria" ch-number="104" group-logo="https://iili.io/2AgUl8G.png" group-title="ASTRO" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_RIA_v1.png",ASTRO RIA HD ✔️
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; DV9110 Build/ST; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/131.0.6778.200 Mobile
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -818,7 +818,7 @@ https://get.perfecttv.net/jwt.mpd?username=vip_3klp0es8&password=wg3piwEs&channe
 
 -------------------ASTRO PRIMA---------------------------
 
-#EXTINF:-1 tvg-id:"Astro Prima" ch-number="105" group-title="ASTRO" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/316_144.png",ASTRO PRIMA HD ✔️
+###EXTINF:-1 tvg-id:"Astro Prima" ch-number="105" group-title="ASTRO" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/316_144.png",ASTRO PRIMA HD ✔️
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; DV9110 Build/ST; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/131.0.6778.200 Mobile
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6613bc303647468c974c3c839d5201e9:5422811c83996a25f51229219b41c410
@@ -864,7 +864,7 @@ https://raw.githubusercontent.com/ayahdee/-/refs/heads/main/W%40%C2%AE%CF%80%E2%
 
 -------------------ASTRO CITRA------------------------------------
 
-#EXTINF:-1 tvg-id="Astro Citra" ch-number="107" group-title="ASTRO" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png",ASTRO CITRA HD ✔️
+###EXTINF:-1 tvg-id="Astro Citra" ch-number="107" group-title="ASTRO" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png",ASTRO CITRA HD ✔️
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=84bf9ad6848be7db20f9d16823deef10:654f2d25a5bfb27c9e5ae0852584a166
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
@@ -918,7 +918,7 @@ https://linearjitp.perfecttv.net/sensasi.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3f726fd5cbbf5944437a4dbfab431b10:376b009796e4ad50ea8f68d796676692
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://linears2-playback.astro.com.my/vsg/4101ZxP1xiR8fKrbu-EzpoHSAZLEicJ5-Qn8CNWKQFt-4=9A7K/dash-wv/jitp-linearwm/1004/default_ott.mpd
+https://linears2-playback.astro.com.my/vsg/4101ZxP1xiR8fKrbu-EzpoHUsuuxWRMLWIPb7A5IBuc_U=Jexd/dash-wv/jitp-linearwm/1004/default_ott.mpd
 #https://get.perfecttv.net:443/live/vip_3klp0es8/wg3piwEs/2678.ts
 #https://jandatv.online/memfs/f26897ab-d8f3-4239-a6c4-444a2b767ccb.m3u8
 #https://linears-playback.astro.com.my/vsg/41pLfb9ybAaeNs5ReczbAJUK-3eM4vFOVkPw0JFFcVcyw=MU-s/dash-wv/jitp-linearwm/1004/default_primary.mpd
