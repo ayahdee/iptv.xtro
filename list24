@@ -731,7 +731,7 @@ P2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c1dc92f0789f112503c0db3bde2f1210:ddfa6e8d549b4d5177a9cade7f9a0b23
 EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
-https://09494360a707453480cd47f514ea1800.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/ceb8322ae2e84c32cb0fce196fdc60100025ab50/MT-CH27-dash/default_ott.mpd?astro=true&aws.sessionId=c71477c7-35d3-496e-ae1d-51765c820cb2
+https://09494360a707453480cd47f514ea1800.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/ceb8322ae2e84c32cb0fce196fdc60100025ab50/MT-CH27-dash/default_ott.mpd?astro=true&aws.sessionId=84b3da22-40c6-403d-bdf9-0c728af227be
 #https://jandatv.online/memfs/e504716e-2225-4a24-9eca-5220401679f7.m3u8
 #https://linears-playback.astro.com.my/vsg/41xFQQ0ngzU4toz_CaQE4bk-MWpdGmVeJQPQCz53HIroE=Yx-m/dash-wv/jitp-linearwm/2104/default_primary.mpd
 
