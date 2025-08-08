@@ -704,7 +704,8 @@ B1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=499a8f368064b11cc092b7b013db0710:e151bb81468a8426d6ab12860d314aa3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://jandatv.online/memfs/e76ee12a-47ad-42a6-a189-dbedda4b3cfd.m3u8
+https://linears2-playback.astro.com.my/vsg/41vEnWSEPVxSGiuJHz0E1clyq6PkNFX_Xds1l8qzLBYaY=ozGz/dash-wv/jitp-dashisowm/5099/default_ott.mpd
+#https://jandatv.online/memfs/e76ee12a-47ad-42a6-a189-dbedda4b3cfd.m3u8
 #https://linears-playback.astro.com.my/vsg/41oWaFM6a2TqAanXOZadeB1uDGDhFeppo_updpmBc6vx4=R_1X/dash-wv/jitp-linearwm/5099/default_primary.mpd
 
 B2
@@ -712,7 +713,8 @@ B2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=62a7b7917aad5123cd4df65c561c7010:b1effa9e51cf38b3ae676bc264937efb
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://jandatv.online/memfs/685c30c8-ba07-4627-aafb-93be17a6f738.m3u8
+https://linears2-playback.astro.com.my/vsg/416NK1ufuXxcgwslWlIX9Rl-Z0ws0K6ALkfOQ4j_PdFsc=pIdX/dash-wv/jitp-linearwm/5100/default_ott.mpd
+#https://jandatv.online/memfs/685c30c8-ba07-4627-aafb-93be17a6f738.m3u8
 #https://linears-playback.astro.com.my/vsg/41UOt3YpImdOMBAF751RsME38VYA52dY4JNy4DvSWPixY=HHvo/dash-wv/jitp-linearwm/5100/default_primary.mpd
 
 P1
@@ -720,7 +722,8 @@ P1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f749ab71f227999bfb098f73359aac10:4f15413f7e4767b50c48e19b7f9a2fcc
 EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
-https://jandatv.online/memfs/783449bf-1f68-4d88-b07b-a70bd3511db6.m3u8
+https://53308ba99bd1418388e4bff908902bf9.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/ceb8322ae2e84c32cb0fce196fdc60100025ab50/MT-CH26-dash/default_ott.mpd?astro=true&aws.sessionId=bf335a1c-8638-4ec9-af5c-d538c1144815
+#https://jandatv.online/memfs/783449bf-1f68-4d88-b07b-a70bd3511db6.m3u8
 #https://linears-playback.astro.com.my/vsg/41GpYpyPE1Rk_ebXT_sLCi4E4lmGsbRHXT1EdUmNSCZvg=XCVH/dash-wv/jitp-linearwm/601/default_primary.mpd
 
 P2
@@ -728,7 +731,8 @@ P2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c1dc92f0789f112503c0db3bde2f1210:ddfa6e8d549b4d5177a9cade7f9a0b23
 EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
-https://jandatv.online/memfs/e504716e-2225-4a24-9eca-5220401679f7.m3u8
+https://09494360a707453480cd47f514ea1800.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/ceb8322ae2e84c32cb0fce196fdc60100025ab50/MT-CH27-dash/default_ott.mpd?astro=true&aws.sessionId=c71477c7-35d3-496e-ae1d-51765c820cb2
+#https://jandatv.online/memfs/e504716e-2225-4a24-9eca-5220401679f7.m3u8
 #https://linears-playback.astro.com.my/vsg/41xFQQ0ngzU4toz_CaQE4bk-MWpdGmVeJQPQCz53HIroE=Yx-m/dash-wv/jitp-linearwm/2104/default_primary.mpd
 
 GR  
@@ -736,7 +740,8 @@ GR
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5be66a6f88efee3d6e30f72a9c58e310:168f3fadfc730ba3dfc932f7c430e27d
 EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
-https://jandatv.online/memfs/5c6f2080-e174-4d28-8fc1-f61b6f39d83a.m3u8
+https://linears2-playback.astro.com.my/vsg/41q5vQhXP8hw8JYPMx1hh6IrYdyQfZJarg_-XDU1dZaDk=I1eS/dash-wv/jitp-dashisowm/2701/default_ott.mpd
+#https://jandatv.online/memfs/5c6f2080-e174-4d28-8fc1-f61b6f39d83a.m3u8
 #https://linears-playback.astro.com.my/vsg/417HoU_l0qHobRKb7lILHv6GTDYHlBb-KSdlnnDU4pt3k=r9nn/dash-wv/jitp-linearwm/2701/default_primary.mpd
 
 
