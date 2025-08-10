@@ -18,7 +18,7 @@
 
 //=======≈==============================================================================================================================================================
 
-#EXTM3U refresh="15" billed-msg="☢️ AYAHDEE TV CHANNELS ©️™️ 🇲🇾 | MY FAMILY TV ♥️ | ❌️ TIDAK DIJUAL BELI 💲 | 🦹‍♀️PENCURI PLAYLIST ❗️ 🗣PENJUAL ❗️ 👥️PEMBELI ❗️ SAYA HARAMKAN❗️ KUN FAYAKUN ☝️ | UPDATED 09 AUG 2025  ☢️"
+#EXTM3U refresh="15" billed-msg="☢️ AYAHDEE TV CHANNELS ©️™️ 🇲🇾 | MY FAMILY TV ♥️ | ❌️ TIDAK DIJUAL BELI 💲 | 🦹‍♀️PENCURI PLAYLIST ❗️ 🗣PENJUAL ❗️ 👥️PEMBELI ❗️ SAYA HARAMKAN❗️ KUN FAYAKUN ☝️ | UPDATED 10 AUG 2025  ☢️"
 
 //======================================================================================================================================================================
 
@@ -704,7 +704,7 @@ B1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=499a8f368064b11cc092b7b013db0710:e151bb81468a8426d6ab12860d314aa3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://linears2-playback.astro.com.my/vsg/41vEnWSEPVxSGiuJHz0E1cl9V2iB8rBpWE4FdkGPEOuSs=uYAU/dash-wv/jitp-dashisowm/5099/default_ott.mpd
+https://linears2-playback.astro.com.my/vsg/41vEnWSEPVxSGiuJHz0E1cl2qiLnQtyTdbjkbtDby3Avs=ZAmK/dash-wv/jitp-dashisowm/5099/default_ott.mpd
 #https://jandatv.online/memfs/e76ee12a-47ad-42a6-a189-dbedda4b3cfd.m3u8
 #https://linears-playback.astro.com.my/vsg/41oWaFM6a2TqAanXOZadeB1uDGDhFeppo_updpmBc6vx4=R_1X/dash-wv/jitp-linearwm/5099/default_primary.mpd
 
@@ -713,7 +713,7 @@ B2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=62a7b7917aad5123cd4df65c561c7010:b1effa9e51cf38b3ae676bc264937efb
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://linears2-playback.astro.com.my/vsg/416NK1ufuXxcgwslWlIX9RlxyGosOyHaces2MZg4U6u7g=LWEE/dash-wv/jitp-linearwm/5100/default_ott.mpd
+https://linears2-playback.astro.com.my/vsg/416NK1ufuXxcgwslWlIX9Rl7EbLdkYLkirktmmW1elcaM=rQM0/dash-wv/jitp-linearwm/5100/default_ott.mpd
 #https://jandatv.online/memfs/685c30c8-ba07-4627-aafb-93be17a6f738.m3u8
 #https://linears-playback.astro.com.my/vsg/41UOt3YpImdOMBAF751RsME38VYA52dY4JNy4DvSWPixY=HHvo/dash-wv/jitp-linearwm/5100/default_primary.mpd
 
@@ -722,7 +722,7 @@ P1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f749ab71f227999bfb098f73359aac10:4f15413f7e4767b50c48e19b7f9a2fcc
 EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
-https://53308ba99bd1418388e4bff908902bf9.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/ceb8322ae2e84c32cb0fce196fdc60100025ab50/MT-CH26-dash/default_ott.mpd?astro=true&aws.sessionId=51cf8a8f-c046-4650-a2ba-f9df39023cfa
+https://53308ba99bd1418388e4bff908902bf9.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/ceb8322ae2e84c32cb0fce196fdc60100025ab50/MT-CH26-dash/default_ott.mpd?astro=true&aws.sessionId=a26cc920-0d0c-4cc0-a748-81de61e92e58
 #https://jandatv.online/memfs/783449bf-1f68-4d88-b07b-a70bd3511db6.m3u8
 #https://linears-playback.astro.com.my/vsg/41GpYpyPE1Rk_ebXT_sLCi4E4lmGsbRHXT1EdUmNSCZvg=XCVH/dash-wv/jitp-linearwm/601/default_primary.mpd
 
@@ -731,7 +731,7 @@ P2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c1dc92f0789f112503c0db3bde2f1210:ddfa6e8d549b4d5177a9cade7f9a0b23
 EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
-https://09494360a707453480cd47f514ea1800.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/ceb8322ae2e84c32cb0fce196fdc60100025ab50/MT-CH27-dash/default_ott.mpd?astro=true&aws.sessionId=6deb9903-27fe-46dc-9787-003924cb541e
+https://09494360a707453480cd47f514ea1800.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/ceb8322ae2e84c32cb0fce196fdc60100025ab50/MT-CH27-dash/default_ott.mpd?astro=true&aws.sessionId=8211f2c4-3bcf-4a9b-bf51-f614fe2954a7
 #https://jandatv.online/memfs/e504716e-2225-4a24-9eca-5220401679f7.m3u8
 #https://linears-playback.astro.com.my/vsg/41xFQQ0ngzU4toz_CaQE4bk-MWpdGmVeJQPQCz53HIroE=Yx-m/dash-wv/jitp-linearwm/2104/default_primary.mpd
 
@@ -740,7 +740,7 @@ GR
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5be66a6f88efee3d6e30f72a9c58e310:168f3fadfc730ba3dfc932f7c430e27d
 EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
-https://linears2-playback.astro.com.my/vsg/41q5vQhXP8hw8JYPMx1hh6IgkMDfpfxfn4iLx92phstfs=V77u/dash-wv/jitp-dashisowm/2701/default_ott.mpd
+https://linears2-playback.astro.com.my/vsg/41q5vQhXP8hw8JYPMx1hh6Iuq3BFShZHC6SmsQa8B7XVE=-_nP/dash-wv/jitp-dashisowm/2701/default_ott.mpd
 #https://jandatv.online/memfs/5c6f2080-e174-4d28-8fc1-f61b6f39d83a.m3u8
 #https://linears-playback.astro.com.my/vsg/417HoU_l0qHobRKb7lILHv6GTDYHlBb-KSdlnnDU4pt3k=r9nn/dash-wv/jitp-linearwm/2701/default_primary.mpd
 
@@ -950,7 +950,7 @@ https://linearjitp.perfecttv.net/sensasi.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3f726fd5cbbf5944437a4dbfab431b10:376b009796e4ad50ea8f68d796676692
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://linears2-playback.astro.com.my/vsg/4101ZxP1xiR8fKrbu-EzpoHciXTDOVQ2RWadozQngkRJQ=wNzL/dash-wv/jitp-linearwm/1004/default_ott.mpd
+https://linears2-playback.astro.com.my/vsg/4101ZxP1xiR8fKrbu-EzpoHX8yJg79rGaub5nh2_7mpO0=-9jo/dash-wv/jitp-linearwm/1004/default_ott.mpd
 #https://get.perfecttv.net:443/live/vip_3klp0es8/wg3piwEs/2678.ts
 #https://jandatv.online/memfs/f26897ab-d8f3-4239-a6c4-444a2b767ccb.m3u8
 #https://linears-playback.astro.com.my/vsg/41pLfb9ybAaeNs5ReczbAJUK-3eM4vFOVkPw0JFFcVcyw=MU-s/dash-wv/jitp-linearwm/1004/default_primary.mpd
@@ -992,7 +992,7 @@ https://linears2-playback.astro.com.my/vsg/41MgP8xcDuTzecD_Hk2nh2KO5jP1zQ3YoJXsw
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; Astro UHD 4K Build/1.0)
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"ZU8tJaW/snyeWuCFJYShZg", "kid":"hL+a1oSL59sg+dFoI97vEA" } ], "type":"temporary" }
-https://linears2-playback.astro.com.my/vsg/41MgP8xcDuTzecD_Hk2nh2KBrkPAxAl0hYgb8ycaYR-R4=-lvy/dash-wv/jitp-dashisowm/2700/default_ott.mpd
+https://linears2-playback.astro.com.my/vsg/41MgP8xcDuTzecD_Hk2nh2KGo_UxOLsKNL4bLs-QwcGAo=Licl/dash-wv/jitp-dashisowm/2700/default_ott.mpd
 
 
 p
@@ -1000,7 +1000,7 @@ p
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0b65326aede3edbe81e6fb40317d5310:8412f444ffbe350cf2ece051f9152e90
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
-https://linears2-playback.astro.com.my/vsg/41b9I9IK2KUz80nJrXdKYkSeP6Koay-z6i3NyoZcsVw6g=Hq2S/dash-wv/jitp-dashisowm/1000/default_ott.mpd
+https://linears2-playback.astro.com.my/vsg/41b9I9IK2KUz80nJrXdKYkSSWaRdauXzeur_3p2yLIjzk=qB0W/dash-wv/jitp-dashisowm/1000/default_ott.mpd
 #https://get.perfecttv.net:443/live/vip_3klp0es8/wg3piwEs/2677.ts
 #https://jandatv.online/memfs/304ba579-e5b8-4b4b-b3d1-852e6105c581.m3u8
 #https://linears-playback.astro.com.my/vsg/41l4PPHfAXkoeXe8kQNa8H2Uu0fzYXjA1KtK3pAOxnin4=9Yno/dash-wv/jitp-linearwm/1000/default_primary.mpd
