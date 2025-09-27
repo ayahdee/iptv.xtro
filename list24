@@ -950,7 +950,8 @@ https://linearjitp.perfecttv.net/sensasi.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3f726fd5cbbf5944437a4dbfab431b10:376b009796e4ad50ea8f68d796676692
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://linears2-playback.astro.com.my/vsg/4101ZxP1xiR8fKrbu-EzpoHX8yJg79rGaub5nh2_7mpO0=-9jo/dash-wv/jitp-linearwm/1004/default_ott.mpd
+http://royaltv.site:25461/live/WW0121/1911/13.ts
+#https://linears2-playback.astro.com.my/vsg/4101ZxP1xiR8fKrbu-EzpoHX8yJg79rGaub5nh2_7mpO0=-9jo/dash-wv/jitp-linearwm/1004/default_ott.mpd
 #https://get.perfecttv.net:443/live/vip_3klp0es8/wg3piwEs/2678.ts
 #https://jandatv.online/memfs/f26897ab-d8f3-4239-a6c4-444a2b767ccb.m3u8
 #https://linears-playback.astro.com.my/vsg/41pLfb9ybAaeNs5ReczbAJUK-3eM4vFOVkPw0JFFcVcyw=MU-s/dash-wv/jitp-linearwm/1004/default_primary.mpd
@@ -992,7 +993,8 @@ https://linears2-playback.astro.com.my/vsg/41MgP8xcDuTzecD_Hk2nh2KO5jP1zQ3YoJXsw
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; Astro UHD 4K Build/1.0)
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"ZU8tJaW/snyeWuCFJYShZg", "kid":"hL+a1oSL59sg+dFoI97vEA" } ], "type":"temporary" }
-https://linears2-playback.astro.com.my/vsg/41MgP8xcDuTzecD_Hk2nh2KGo_UxOLsKNL4bLs-QwcGAo=Licl/dash-wv/jitp-dashisowm/2700/default_ott.mpd
+http://royaltv.site:25461/live/WW0121/1911/17.ts
+#https://linears2-playback.astro.com.my/vsg/41MgP8xcDuTzecD_Hk2nh2KGo_UxOLsKNL4bLs-QwcGAo=Licl/dash-wv/jitp-dashisowm/2700/default_ott.mpd
 
 
 p
