@@ -4833,21 +4833,25 @@ https://streamtv.mediasector.es/hls/activatv/index.m3u8
 #EXTINF:-1 group-title="[RADIO] XTRO" group-logo="https://iili.io/2APPQ6v.png"  tvg-logo="http://linear-poster.astro.com.my/prod/poster/ivp_default_2161_IVP_LAND_288x162.jpg",HITZ
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c759f4bc157b00a7b1dba7873197fc10:96da0bbe83b8f54194e42428e1fd6632
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/121/default_ott.mpd
 
 #EXTINF:-1 group-title="[RADIO] XTRO" tvg-logo="http://linear-poster.astro.com.my/prod/poster/ivp_default_2162_IVP_LAND_288x162.jpg",MY
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8f618c12955ac5c431f5f901451c9d10:433fa68d6ec980675c96bb5ae2e01789
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/119/default_ott.mpd
 
 #EXTINF:-1 group-title="[RADIO] XTRO" tvg-logo="http://linear-poster.astro.com.my/prod/poster/ivp_default_2163_IVP_LAND_288x162.jpg",LITE
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e8ab350491e05128235859f127225b10:b59d48e5da5e34a1d17bcb6e8cc36267
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/123/default_ott.mpd
 
 #EXTINF:-1 group-title="[RADIO] XTRO" tvg-logo="http://linear-poster.astro.com.my/prod/poster/ivp_default_2177_IVP_LAND_288x162.jpg",MIX
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=14f020e638635a66792cc7955e4d2810:8e2be3777dd95fb09ce2a70cf099cf8a
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/122/default_ott.mpd
 
 #EXTINF:-1 group-title="[RADIO] XTRO" tvg-logo="http://linear-poster.astro.com.my/prod/poster/ivp_default_2164_IVP_LAND_288x162.jpg",ERA
@@ -4856,13 +4860,13 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/122/default_ott.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/118/default_ott.mpd
 
-###EXTINF:-1 group-title="[RADIO] XTRO" tvg-logo="http://linear-poster.astro.com.my/prod/poster/ivp_default_2165_IVP_LAND_288x162.jpg",SINAR
+#EXTINF:-1 group-title="[RADIO] XTRO" tvg-logo="http://linear-poster.astro.com.my/prod/poster/ivp_default_2165_IVP_LAND_288x162.jpg",SINAR
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7af3ec1f2db077ae6374a018cbb48510:9458ed76e85f1ad8aa7eefcdbd628908
-https://stream.rcs.revma.com/azatk0tbv4uvv/5_38voejof20x202/playlist.m3u8
-#https://linearjitp-playback.astro.com.my/dash-wv/linear/130/default_ott.mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/130/default_ott.mpd
 
-#EXTINF:-1 group-title="[RADIO] XTRO" tvg-logo="http://linear-poster.astro.com.my/prod/poster/ivp_default_2165_IVP_LAND_288x162.jpg",SINAR
+###EXTINF:-1 group-title="[RADIO] XTRO" tvg-logo="http://linear-poster.astro.com.my/prod/poster/ivp_default_2165_IVP_LAND_288x162.jpg",SINAR
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"lFjtduhfGtiqfu/NvWKJCA", "kid":"evPsHy2wd65jdKAYy7SFEA" } ], "type":"temporary" }
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
@@ -4871,101 +4875,121 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/130/default_ott.mpd
 #EXTINF:-1 group-title="[RADIO] XTRO" tvg-logo="http://linear-poster.astro.com.my/prod/poster/ivp_default_2174_IVP_LAND_288x162.jpg",MELODY
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d34dc49701f9c22b9f20baabb27ad410:6df52c46b193522fe87420938e029759
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/132/default_ott.mpd
 
 #EXTINF:-1 group-title="[RADIO] XTRO" tvg-logo="http://linear-poster.astro.com.my/prod/poster/ivp_default_2167_IVP_LAND_288x162.jpg",RAAGA
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8d9ba6f62b14a5d5706b21007bc21310:058790fb88613e6a71028aafa2258403
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/134/default_ott.mpd
 
 #EXTINF:-1 group-title="[RADIO] XTRO" tvg-logo="http://linear-poster.astro.com.my/prod/poster/ivp_default_2168_IVP_LAND_288x162.jpg",CLASSIC ROCK
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=74377f9dea75453994f7f6f5edb08e10:a064d58fa49d67614b052ab9a92a375c
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/124/default_ott.mpd
 
 #EXTINF:-1 group-title="[RADIO] XTRO" tvg-logo="http://linear-poster.astro.com.my/prod/poster/ivp_default_2169_IVP_LAND_288x162.jpg",GOLD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8f92ecdf4cd1ac55bc8c788fa1958610:715c8401d7829c9a7c5d665922ca13f6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/125/default_ott.mpd
 
 #EXTINF:-1 group-title="[RADIO] XTRO" tvg-logo="http://linear-poster.astro.com.my/prod/poster/ivp_default_2170_IVP_LAND_288x162.jpg",OPUS
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a14f9a14450a96032b106d4ee8181310:b0b97cca1f9e311a09d33265c85a20e8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/120/default_ott.mpd
 
 #EXTINF:-1 group-title="[RADIO] XTRO" tvg-logo="http://linear-poster.astro.com.my/prod/poster/ivp_default_2171_IVP_LAND_288x162.jpg",GEGAR
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=70b6a9d1c5f5d275accf0a8c51dbf710:a0feca3810b9227592bd893bfb9f1f89
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/126/default_ott.mpd
 
 #EXTINF:-1 group-title="[RADIO] XTRO" tvg-logo="http://linear-poster.astro.com.my/prod/poster/ivp_default_2172_IVP_LAND_288x162.jpg",INDIA BEAT
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2b4e873bc93eff959ba232e1fa016f10:3e84b173e8997210fd270b7029491a9e
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/127/default_ott.mpd
 
 #EXTINF:-1 group-title="[RADIO] XTRO" tvg-logo="http://linear-poster.astro.com.my/prod/poster/ivp_default_2173_IVP_LAND_288x162.jpg",JAZZ
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1bbab67b1f95ae9a32db73a88c308110:b284563fcddeb078b5bfe0efb684ffa1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/128/default_ott.mpd
 
 #EXTINF:-1 group-title="[RADIO] XTRO" tvg-logo="http://linear-poster.astro.com.my/prod/poster/ivp_default_2175_IVP_LAND_288x162.jpg",OSAI
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=082e516398c5ea15d6b9cda572247c10:cb8b2f2190cd84b62e6876fcc6bf24bf
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/131/default_ott.mpd
 
 #EXTINF:-1 group-title="[RADIO] XTRO" tvg-logo="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000036_IVP_LAND_288x162.jpg",BAYU
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5515d4f22664e386c62f7cf2c166ab10:f72c380581aa12a016ea88789c679c67
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/135/default_ott.mpd
 
 #EXTINF:-1 group-title="[RADIO] XTRO" tvg-logo="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000037_IVP_LAND_288x162.jpg",KENYALANG
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fdd9690c43631eac67dbfb11a6d6a510:53bcece8d71ecbe7bac08a94927cf358
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/136/default_ott.mpd
 
 #EXTINF:-1 group-title="[RADIO] XTRO" tvg-logo="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000101_IVP_LAND_288x162.jpg",NAS FM
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ae8c20070c706333ad13230f05411c10:9c0832a8dbc36d2ab5892600ea6960fd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/129/default_ott.mpd
 
 #EXTINF:-1 group-title="[RADIO] XTRO" tvg-logo="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000102_IVP_LAND_288x162.jpg",V FM
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ed4dc7b6e2225c45634e9d63272a9b10:57d4290607a9a3a163de07388fcdf58d
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/133/default_ott.mpd
 
 #EXTINF:-1 group-title="[RADIO] XTRO" tvg-logo="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000103_IVP_LAND_288x162.jpg",WAI FM
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=bde4784bc64eb326169d11c10a0b1510:bc9df5e162c5692669a8ec6366c9e4db
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/137/default_ott.mpd
 
 #EXTINF:-1 group-title="[RADIO] XTRO" tvg-logo="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000310_IVP_LAND_288x162.jpg",TRAXX FM
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=74c6ae20ff7e31ee2aa1812bc7931310:865a25aba8134164791b29793d7b97db
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/138/default_ott.mpd
 
 #EXTINF:-1 group-title="[RADIO] XTRO" tvg-logo="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000311_IVP_LAND_288x162.jpg",MINNAL FM
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4a2428702c66220ce105d5cba2033410:d2011e32b524a02e43978e1a066394bd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/139/default_ott.mpd
 
 #EXTINF:-1 group-title="[RADIO] XTRO" tvg-logo="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000312_IVP_LAND_288x162.jpg",AI FM
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=99d0060f4d3333be90b0cae6addb4310:2f61d66cfce12bcb056571510999f3bf
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/140/default_ott.mpd
 
 #EXTINF:-1 group-title="[RADIO] XTRO" tvg-logo="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000313_IVP_LAND_288x162.jpg",ASYIK FM
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ba01b2f73c76432e649092767f107010:8c198e97119e46dad9a4d693f5a82aff
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/141/default_ott.mpd
 
 #EXTINF:-1 group-title="[RADIO] XTRO" tvg-logo="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000334_IVP_LAND_288x162.jpg",ZAYAN
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f8366fd866e0ef521268b53446203610:8ac6d3ead461c5c1497ab25a8bd1f619
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/142/default_ott.mpd
 
 #EXTINF:-1 group-title="[RADIO] XTRO" tvg-logo="http://linear-poster.astro.com.my/prod/poster/goxuan2023_IVP_LAND_288x162.jpg",GO XUAN
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ee738a67776d147e95f95df27e626b10:ef1e7ce3e50a78788ce1831cea8e187d
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/143/default_ott.mpd
 
 
