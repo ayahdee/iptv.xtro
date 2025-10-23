@@ -4853,8 +4853,8 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/122/default_ott.mpd
 #EXTINF:-1 group-title="[RADIO] XTRO" tvg-logo="http://linear-poster.astro.com.my/prod/poster/ivp_default_2164_IVP_LAND_288x162.jpg",ERA
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=85294251c8aeb373689eaa0ea9587810:4d559fcc12052d9e7fce0f8f6592bba1
-https://linearjitp-playback.astro.com.my/dash-wv/linear/118/default_primary.mpd
-#https://linearjitp-playback.astro.com.my/dash-wv/linear/118/default_ott.mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/118/default_ott.mpd
 
 ###EXTINF:-1 group-title="[RADIO] XTRO" tvg-logo="http://linear-poster.astro.com.my/prod/poster/ivp_default_2165_IVP_LAND_288x162.jpg",SINAR
 #KODIPROP:inputstream.adaptive.license_type=clearkey
