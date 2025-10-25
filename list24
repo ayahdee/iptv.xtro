@@ -887,7 +887,7 @@ https://get.perfecttv.net/1080.mpd?channel=primafhd&username=vip_3klp0es8&passwo
 ----------------------------------------------------------
 
 -------------------ASTRO PRIMA B--------------------------
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/3_144.png" group-title="ASTRO", Astro Prima (Backup)
+###EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/3_144.png" group-title="ASTRO", Astro Prima (Backup)
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=21759e73f142452aa01acc6d08a86e50:fc9eaf659647c675315f65747c2553da
 https://get.perfecttv.net/jwt.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=primahd|user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0
@@ -898,6 +898,9 @@ https://get.perfecttv.net/jwt.mpd?username=vip_3klp0es8&password=wg3piwEs&channe
 ###http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/18627###
 ###http://50.7.234.10:8278/Prima-0/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=8d50adae071d1fc0e37af6bb7d69e895###
 ----------------------------------------------------------
+
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/3_144.png" group-title="ASTRO", Astro Prima (Backup)
+http://iptv12k.com:35461/live/m241228343932464/111111/13632.ts
 
 ------------------ASTRO WARNA-----------------------------
 
