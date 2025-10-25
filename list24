@@ -858,7 +858,7 @@ https://get.perfecttv.net/1080.mpd?channel=riafhd&username=vip_3klp0es8&password
 ----------------------------------------------------------
 
 --------------------ASTRO RIA B---------------------------
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/193_144.png" group-title="ASTRO", Astro Ria (Backup)
+###EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/193_144.png" group-title="ASTRO", Astro Ria (Backup)
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=d5249cb40505495494828f42c37087cb:d59f6a7bed00bd5348355ab5b3ee6aa0
@@ -871,6 +871,9 @@ https://get.perfecttv.net/jwt.mpd?username=vip_3klp0es8&password=wg3piwEs&channe
 ###http://abcnew.site:8880/TNwC28ZMED/aG9TWtVfqy/1705##
 ###http://50.7.234.10:8278/Ria-0/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=5f6516ffccb5907ca205b12bdc7ff6ef##
 ---------------------------------------------------------
+
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/193_144.png" group-title="ASTRO", Astro Ria (Backup)
+http://iptv12k.com:35461/live/m241228343932464/111111/13633.ts
 
 -------------------ASTRO PRIMA---------------------------
 
