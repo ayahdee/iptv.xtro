@@ -823,10 +823,12 @@ https://raw.githubusercontent.com/ayahdee/-/70e0aa1e9daa7babdcfbc770db92097b06ea
 
 
 #EXTINF:-1 tvg-id="AstroArenaBola" ch-number="803" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/486_144.png" group-title="SPORTS",Astro Arena Bola 1
-https://zayanzack.short.gy/bola1
+http://66.90.99.154:8278/Bolaarena1/playlist.m3u8?tid=MA7A8199615481996154&ct=20384&tsum=c3d287ed8f4f765d1e37e642cf3fb5cb
+#https://zayanzack.short.gy/bola1
 
 #EXTINF:-1 tvg-id="AstroArenaBola2" ch-number="804" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/487_144.png" group-title="SPORTS",Astro Arena Bola 2
-https://zayanzack.short.gy/bola2
+http://66.90.99.154:8278/Bolaarena2/playlist.m3u8?tid=MCFC7752471977524719&ct=20384&tsum=9798b93968759ce77ec9901fa75ce9f1
+#https://zayanzack.short.gy/bola2
 
 #EXTINF:-1 tvg-id="AstroSupersport" tvg-name="Astro SuperSport HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/536_144.png" group-title="SPORTS",Astro Premier League 1
 http://iptv12k.com:35461/live/m241228343932464/111111/43916.ts
