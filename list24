@@ -399,7 +399,7 @@ https://l02.dp.sooka.my/2104/linear/index.mpd
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=1bca05447d354cb4913a66e125fb75ef:45253aa554c444961fb6a4432abb6b1c
+#KODIPROP:inputstream.adaptive.license_key={"0bbb23a5ad81427fa6817864b2383402":"81e055a8d6ddf6392ae9033f0f037b98","1bca05447d354cb4913a66e125fb75ef":"45253aa554c444961fb6a4432abb6b1c"}
 https://l17.dp.sooka.my/5170/linear/index.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="SPORTS" tvg-logo="https://get.perfecttv.net/logo/badmintonfhd.png",809 Badminton FHD (Sooka)
