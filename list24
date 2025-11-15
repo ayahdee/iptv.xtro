@@ -1013,11 +1013,20 @@ http://royaltv.site:25461/live/WW0121/1911/13.ts
 ##http://d37lxn4ksn51zz.cloudfront.net/ria.mpd
 ##http://OPPSS❗️OFFLINE🙏..OUR TECHNICIAN TRYING TO FIX..TQ😅
 
-#EXTINF:-1 tvg-id="104.astro" ch-number="104" group-title="Astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_RIA_v1.png",Astro Ria HD
+###EXTINF:-1 tvg-id="104.astro" ch-number="104" group-title="Astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_RIA_v1.png",Astro Ria HD
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=c15541e4dde34c48a0d144a4b0ab7194:ce82e3d81126183e5a262e320f6348b3
 https://get.perfecttv.net/jwt.mpd?username=vip_vjwcvhsz&password=5Tm80txU&channel=riafhd|user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+
+
+#EXTINF:-1 tvg-id="104.astro" ch-number="104" group-title="Astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_RIA_v1.png",Astro Ria HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"User-agent":"Mozilla/5.0 (SMART-TV; LINUX; Tizen 6.0)"}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"N2sAl5bkrVDqj2jXlmdmkg", "kid":"P3Jv1cu/WURDek2/q0MbEA" } ], "type":"temporary" }
+https://linears2-playback.astro.com.my/vsg/41NkHHl0Nc26oNawDtQ-2TcpnoWWWWrvpNGK3F5MFUqo8=QRI6/dash-wv/jitp-linearwm/1004/default_primary.mpd
 
 w3
 ##EXTINF:-1 tvg-id="107.astro" ch-number="107" group-title="Astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png",Astro Warna HD
@@ -1071,10 +1080,18 @@ http://royaltv.site:25461/live/WW0121/1911/14.ts
 ##http://d37lxn4ksn51zz.cloudfront.net/prima.mpd
 ##http://OPPSS❗️OFFLINE🙏..OUR TECHNICIAN TRYING TO FIX..TQ😅
 
-#EXTINF:-1 tvg-id="105.astro" ch-number="105" group-title="Astro" tvg-id="AstroPrima" ch-number="105" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Prima_v1.png",Astro Prima HD
+###EXTINF:-1 tvg-id="105.astro" ch-number="105" group-title="Astro" tvg-id="AstroPrima" ch-number="105" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Prima_v1.png",Astro Prima HD
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6613bc303647468c974c3c839d5201e9:5422811c83996a25f51229219b41c410
 https://get.perfecttv.net/jwt.mpd?username=vip_vjwcvhsz&password=5Tm80txU&channel=primafhd|user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="105.astro" ch-number="105" group-title="Astro" tvg-id="AstroPrima" ch-number="105" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Prima_v1.png",Astro Prima HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"User-agent":"Mozilla/5.0 (Linux; Android 10; Astro UHD 4K Build/1.0)"}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"hBL0RP++NQzy7OBR+RUukA", "kid":"C2Uyau3j7b6B5vtAMX1TEA" } ], "type":"temporary" }
+https://linears2-playback.astro.com.my/vsg/41CD-NyuuMXX8kB1OV6jyQ-VG9BC7LB-qoU6OaPDa47Qs=KBt1/dash-wv/jitp-dashisowm/1000/default_primary.mpd
 
 =========================================RIA PRIMA WARNA CITRA BACKUP SERVER END======================================================================
 
