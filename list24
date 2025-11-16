@@ -1059,8 +1059,7 @@ https://linears2-playback.astro.com.my/vsg/41MgP8xcDuTzecD_Hk2nh2KO5jP1zQ3YoJXsw
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; Astro UHD 4K Build/1.0)
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"ZU8tJaW/snyeWuCFJYShZg", "kid":"hL+a1oSL59sg+dFoI97vEA" } ], "type":"temporary" }
-http://royaltv.site:25461/live/WW0121/1911/17.ts
-#https://linears2-playback.astro.com.my/vsg/41MgP8xcDuTzecD_Hk2nh2KGo_UxOLsKNL4bLs-QwcGAo=Licl/dash-wv/jitp-dashisowm/2700/default_ott.mpd
+https://linears2-playback.astro.com.my/vsg/41ELAHyjtrNm4fMzolRehbzf_XdyCdHcjGOAcYVqp1ZCI=VVmm/dash-wv/jitp-dashisowm/2700/default_primary.mpd
 
 
 p
