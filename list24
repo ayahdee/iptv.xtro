@@ -882,8 +882,7 @@ https://get.perfecttv.net/1080.mpd?channel=riafhd&username=vip_3klp0es8&password
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=d5249cb40505495494828f42c37087cb:d59f6a7bed00bd5348355ab5b3ee6aa0
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; DV9110 Build/ST; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/131.0.6778.200 Mobile
-https://linears2-playback.astro.com.my/vsg/41NkHHl0Nc26oNawDtQ-2TchQmJZV6jzukyusmlomE8fU=KUE1/dash-wv/jitp-linearwm/1004/default_primary.mpd
+https://get.perfecttv.net/rwt.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=riahd|user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
 #https://raw.githubusercontent.com/ayahdee/-/refs/heads/main/R%C2%A1%40.m3u8
 #http://31.42.187.37:25461/live/C42AFE290723/C42AFE290723/68.ts
 #https://raw.githubusercontent.com/ayahdee/-/refs/heads/main/R%C2%A1%402.m3u8
@@ -911,8 +910,7 @@ https://get.perfecttv.net/1080.mpd?channel=primafhd&username=vip_3klp0es8&passwo
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/3_144.png" group-title="ASTRO", Astro Prima (Backup)
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=21759e73f142452aa01acc6d08a86e50:fc9eaf659647c675315f65747c2553da
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; DV9110 Build/ST; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/131.0.6778.200 Mobile
-https://linears2-playback.astro.com.my/vsg/41NkHHl0Nc26oNawDtQ-2TchQmJZV6jzukyusmlomE8fU=KUE1/dash-wv/jitp-linearwm/1004/default_primary.mpd
+https://get.perfecttv.net/rwt.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=primahd|user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
 #https://raw.githubusercontent.com/ayahdee/-/refs/heads/main/P%C2%AE%EF%B8%8F%C2%A1%CF%80%CF%80%E2%88%86.m3u8
 #http://31.42.187.37:25461/live/C42AFE290723/C42AFE290723/65.ts
 ##http://31.42.187.37:25461/watchpad13158/1234/65
