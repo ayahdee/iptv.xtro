@@ -883,7 +883,7 @@ https://get.perfecttv.net/1080.mpd?channel=riafhd&username=vip_3klp0es8&password
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=3f726fd5cbbf5944437a4dbfab431b10:376b009796e4ad50ea8f68d796676692
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; DV9110 Build/ST; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/131.0.6778.200 Mobile
-https://linears2-playback.astro.com.my/vsg/41t-TXSnexA-mG4G3cEivBPlIDDkYP6e7En9La-77aJR4=xZFx/dash-wv/jitp-linearwm/1004/default_primary.mpd
+https://linears2-playback.astro.com.my/vsg/41NkHHl0Nc26oNawDtQ-2TchQmJZV6jzukyusmlomE8fU=KUE1/dash-wv/jitp-linearwm/1004/default_primary.mpd
 #https://raw.githubusercontent.com/ayahdee/-/refs/heads/main/R%C2%A1%40.m3u8
 #http://31.42.187.37:25461/live/C42AFE290723/C42AFE290723/68.ts
 #https://raw.githubusercontent.com/ayahdee/-/refs/heads/main/R%C2%A1%402.m3u8
@@ -912,7 +912,7 @@ https://get.perfecttv.net/1080.mpd?channel=primafhd&username=vip_3klp0es8&passwo
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=0b65326aede3edbe81e6fb40317d5310:8412f444ffbe350cf2ece051f9152e90
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; DV9110 Build/ST; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/131.0.6778.200 Mobile
-https://linears2-playback.astro.com.my/vsg/41_jjPKXwmkvzLAv98N8INnQ-1l3btcpzRmMRGBifuriE=3NYn/dash-wv/jitp-linearwm/1000/default_primary.mpd
+https://linears2-playback.astro.com.my/vsg/41NkHHl0Nc26oNawDtQ-2TchQmJZV6jzukyusmlomE8fU=KUE1/dash-wv/jitp-linearwm/1004/default_primary.mpd
 #https://raw.githubusercontent.com/ayahdee/-/refs/heads/main/P%C2%AE%EF%B8%8F%C2%A1%CF%80%CF%80%E2%88%86.m3u8
 #http://31.42.187.37:25461/live/C42AFE290723/C42AFE290723/65.ts
 ##http://31.42.187.37:25461/watchpad13158/1234/65
@@ -1028,7 +1028,7 @@ https://get.perfecttv.net/jwt.mpd?username=vip_vjwcvhsz&password=5Tm80txU&channe
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"N2sAl5bkrVDqj2jXlmdmkg", "kid":"P3Jv1cu/WURDek2/q0MbEA" } ], "type":"temporary" }
-https://linears2-playback.astro.com.my/vsg/41NkHHl0Nc26oNawDtQ-2TcpnoWWWWrvpNGK3F5MFUqo8=QRI6/dash-wv/jitp-linearwm/1004/default_primary.mpd
+https://linears2-playback.astro.com.my/vsg/41NkHHl0Nc26oNawDtQ-2TchQmJZV6jzukyusmlomE8fU=KUE1/dash-wv/jitp-linearwm/1004/default_primary.mpd
 
 w3
 ##EXTINF:-1 tvg-id="107.astro" ch-number="107" group-title="Astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png",Astro Warna HD
@@ -1093,7 +1093,7 @@ https://get.perfecttv.net/jwt.mpd?username=vip_vjwcvhsz&password=5Tm80txU&channe
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"hBL0RP++NQzy7OBR+RUukA", "kid":"C2Uyau3j7b6B5vtAMX1TEA" } ], "type":"temporary" }
-https://linears2-playback.astro.com.my/vsg/41CD-NyuuMXX8kB1OV6jyQ-VG9BC7LB-qoU6OaPDa47Qs=KBt1/dash-wv/jitp-dashisowm/1000/default_primary.mpd
+https://linears2-playback.astro.com.my/vsg/41CD-NyuuMXX8kB1OV6jyQ-YAn1wYk0muoxllkXBS3Gyg=N7Q8/dash-wv/jitp-dashisowm/1000/default_primary.mpd
 
 =========================================RIA PRIMA WARNA CITRA BACKUP SERVER END======================================================================
 
