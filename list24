@@ -1088,11 +1088,9 @@ http://royaltv.site:25461/live/WW0121/1911/14.ts
 https://get.perfecttv.net/jwt.mpd?username=vip_vjwcvhsz&password=5Tm80txU&channel=primafhd|user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="105.astro" ch-number="105" group-title="Astro" tvg-id="AstroPrima" ch-number="105" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Prima_v1.png",Astro Prima HD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTHTTP:{"User-agent":"Mozilla/5.0 (Linux; Android 10; Astro UHD 4K Build/1.0)"}
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"hBL0RP++NQzy7OBR+RUukA", "kid":"C2Uyau3j7b6B5vtAMX1TEA" } ], "type":"temporary" }
+#EXTHTTP:{"User-agent":"Mozilla/5.0 (Linux; Android 10; Astro UHD 4K Build/1.0)"}
 https://linears2-playback.astro.com.my/vsg/41NkHHl0Nc26oNawDtQ-2TcqjoAmqQZTfUoIWu5rfYIMQ=0vFc/dash-wv/jitp-linearwm/1004/default_primary.mpd
 
 =========================================RIA PRIMA WARNA CITRA BACKUP SERVER END======================================================================
