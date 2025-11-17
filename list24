@@ -1026,7 +1026,7 @@ https://get.perfecttv.net/jwt.mpd?username=vip_vjwcvhsz&password=5Tm80txU&channe
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"N2sAl5bkrVDqj2jXlmdmkg", "kid":"P3Jv1cu/WURDek2/q0MbEA" } ], "type":"temporary" }
-https://linears2-playback.astro.com.my/vsg/41tsfuUr2og9P6phSbbbhw0Y_Oi9Efsa09ENZdBIPdy2Y=Qn2i/dash-wv/jitp-linearwm/1004/default_primary.mpd
+https://linears2-playback.astro.com.my/vsg/41NkHHl0Nc26oNawDtQ-2TcqjoAmqQZTfUoIWu5rfYIMQ=0vFc/dash-wv/jitp-linearwm/1004/default_primary.mpd
 
 w3
 ##EXTINF:-1 tvg-id="107.astro" ch-number="107" group-title="Astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png",Astro Warna HD
@@ -1059,7 +1059,7 @@ https://linears2-playback.astro.com.my/vsg/41MgP8xcDuTzecD_Hk2nh2KO5jP1zQ3YoJXsw
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; Astro UHD 4K Build/1.0)
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"ZU8tJaW/snyeWuCFJYShZg", "kid":"hL+a1oSL59sg+dFoI97vEA" } ], "type":"temporary" }
-https://linears2-playback.astro.com.my/vsg/41ELAHyjtrNm4fMzolRehbzf_XdyCdHcjGOAcYVqp1ZCI=VVmm/dash-wv/jitp-dashisowm/2700/default_primary.mpd
+https://linears2-playback.astro.com.my/vsg/41ELAHyjtrNm4fMzolRehbzaJCdnHz8y13wwNwSB0qLwc=lkZX/dash-wv/jitp-dashisowm/2700/default_primary.mpd
 
 
 p
@@ -1090,7 +1090,7 @@ https://get.perfecttv.net/jwt.mpd?username=vip_vjwcvhsz&password=5Tm80txU&channe
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"hBL0RP++NQzy7OBR+RUukA", "kid":"C2Uyau3j7b6B5vtAMX1TEA" } ], "type":"temporary" }
-https://linears2-playback.astro.com.my/vsg/41_jjPKXwmkvzLAv98N8INnRmeh2N33Mnvqikxa-7KYvc=sIg9/dash-wv/jitp-linearwm/1000/default_primary.mpd
+https://linears2-playback.astro.com.my/vsg/41ELAHyjtrNm4fMzolRehbzaJCdnHz8y13wwNwSB0qLwc=lkZX/dash-wv/jitp-dashisowm/2700/default_primary.mpd
 
 =========================================RIA PRIMA WARNA CITRA BACKUP SERVER END======================================================================
 
