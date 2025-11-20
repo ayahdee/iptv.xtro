@@ -222,7 +222,7 @@ https://nanopi.rocket-tv.online/Astro_Citra/default_ott.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"4VG7gUaKhCbWqxKGDTFKow","kid":"SZqPNoBksRzAkrewE9sHEA"}],"type":"temporary"}
-https://linears2-playback.astro.com.my/vsg/41ybZC6MC19wMfd_J9TOzYhG3ASV2Qah1Ms4guQAOjfzg=GCBH/dash-wv/jitp-dashisowm/5099/default_primary.mpd
+https://linears2-playback.astro.com.my/vsg/41uMBtp0akE_frFO6rpKnT1QHEXQ9ogu_bqIivpgdoObk=QhAw/dash-wv/jitp-dashisowm/5099/default_primary.mpd
 
 
 #EXTINF:-1 tvg-id="804.astro" ch-number="804" group-title="SPORTS" tvg-id="AstroArenaBola2" ch-number="804" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroArenaBola2_2024.png",Astro Arena Bola 2 ✔️
@@ -231,7 +231,7 @@ https://linears2-playback.astro.com.my/vsg/41ybZC6MC19wMfd_J9TOzYhG3ASV2Qah1Ms4g
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"se/6nlHPOLOuZ2vCZJN++w","kid":"Yqe3kXqtUSPNTfZcVhxwEA"}],"type":"temporary"}
-https://linears2-playback.astro.com.my/vsg/41_yq24kXlRvGP5i2v_eDmCYFKEaxEitZt7M289Apv2AQ=b1aa/dash-wv/jitp-linearwm/5100/default_primary.mpd
+https://linears2-playback.astro.com.my/vsg/41f7CQupyMt7p_drmUQJLakSvPEsnyLIfk5quZLeY2lbo=YYjU/dash-wv/jitp-linearwm/5100/default_primary.mpd
 
 
 #EXTINF:-1 tvg-id="AstroPremierLeague" tvg-id="AstroPremierLeague" tvg-name="APL HD" ch-number="AstroPremierLeague" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroPremierLeague_2024.png" group-title="SPORTS",Astro Premier League ✔️
@@ -240,7 +240,7 @@ https://linears2-playback.astro.com.my/vsg/41_yq24kXlRvGP5i2v_eDmCYFKEaxEitZt7M2
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"TxVBP35HZ7UMSOGbf5ovzA","kid":"90mrcfInmZv7CY9zNZqsEA"}],"type":"temporary"}
-https://linears2-playback.astro.com.my/vsg/41GjIT0-pGycQPrBG26uL1aitXp9QqID8hzHONybfaGkU=7NVM/dash-wv/jitp-dashisowm/601/default_primary.mpd
+https://linears2-playback.astro.com.my/vsg/41F6V0uNNltR5cOUI1UbUwt6qGDm1ttEIwmkcpH9nn6ek=-u4_/dash-wv/jitp-dashisowm/601/default_primary.mpd
 
 
 #EXTINF:-1 tvg-id="AstroPremierLeague2" tvg-name="AstroPremierLeague2" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroPremierLeague2_2024.png" group-title="SPORTS",Astro Premier League 2 ✔️
@@ -249,14 +249,14 @@ https://linears2-playback.astro.com.my/vsg/41GjIT0-pGycQPrBG26uL1aitXp9QqID8hzHO
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"3fpujVSbTVF3qcref5oLIw","kid":"wdyS8HifESUDwNs73i8SEA"}],"type":"temporary"}
-https://linears2-playback.astro.com.my/vsg/41b_Zf2xbgptnOkMLzmq0ye0wm4M0F48ON-pgsGi2DvGw=TwGi/dash-wv/jitp-dashisowm/2104/default_primary.mpd
+https://linears2-playback.astro.com.my/vsg/41YHh18iXEh79k9E5H3nHU19XgxJlQw_rNWYu8TE1I0RM=DEJ3/dash-wv/jitp-dashisowm/2104/default_primary.mpd
 
 
 #EXTINF:-1 tvg-id="815.astro" group-title="SPORTS" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/540_144.png",Astro Badminton ✔️
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"g3KLRwGavbs3qjbtXylRvQ", "kid":"b/DgQNVE7D8CJDhlmQ8MEA" } ], "type":"temporary" }
 #EXTHTTP:{"User-agent":"Mozilla/5.0 (Linux; Android 10; Astro UHD 4K Build/1.0)"}
-https://linears2-playback.astro.com.my/vsg/41MjrZTx-Jfstm3aeq0G6zAO9LhO9L5vKugE5cb8cRyUg=eCSR/dash-wv/jitp-dashisowm/5170/default_primary.mpd
+https://linears2-playback.astro.com.my/vsg/41Banf4co-1AIaNUmE_3PI1kHxsL7xO0Bs5PzJY-w4ltk=W-aS/dash-wv/jitp-dashisowm/5170/default_primary.mpd
 
 
 ##EXTINF:-1 tvg-id="AstroGrandstand" tvg-name="AstroGrandstand" ch-number="813" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroGrandstand_2024.png" group-title="SPORTS",Astro Grandstand ✔️
