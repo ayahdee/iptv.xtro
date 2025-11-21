@@ -1098,7 +1098,7 @@ https://get.perfecttv.net/jwt.mpd?username=vip_vjwcvhsz&password=5Tm80txU&channe
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"hBL0RP++NQzy7OBR+RUukA", "kid":"C2Uyau3j7b6B5vtAMX1TEA" } ], "type":"temporary" }
 #EXTHTTP:{"User-agent":"Mozilla/5.0 (Linux; Android 10; Astro UHD 4K Build/1.0)"}
-https://linears2-playback.astro.com.my/vsg/41N_d_3M_hNCyMbbj30L0QBtFEZuV2pLQlKljJd5TOzb8=oXdz/dash-wv/jitp-linearwm/1000/1000/default_primary.mpd
+https://linears2-playback.astro.com.my/vsg/41N_d_3M_hNCyMbbj30L0QBtFEZuV2pLQlKljJd5TOzb8=oXdz/dash-wv/jitp-linearwm/1000/default_primary.mpd
 
 =========================================RIA PRIMA WARNA CITRA BACKUP SERVER END======================================================================
 
