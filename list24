@@ -222,7 +222,8 @@ https://nanopi.rocket-tv.online/Astro_Citra/default_ott.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"4VG7gUaKhCbWqxKGDTFKow","kid":"SZqPNoBksRzAkrewE9sHEA"}],"type":"temporary"}
-https://linears2-playback.astro.com.my/vsg/41ash7lbsUi78r8jXwFplrxbhvDjrjj_tV2iEwwLpscNk=oBys/dash-wv/jitp-dashisowm/5099/default_primary.mpd
+https://2da559d4c1d24884a735abbc512e6181.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/ceb8322ae2e84c32cb0fce196fdc60100025ab50/MT-CH24-dash/vsg/41ash7lbsUi78r8jXwFplrxVLRB1u-D6EyGokjRT32byc=AxCN/dash-wv/jitp-dashisowm/5099/default_ott.mpd?aws.sessionId=d4c48738-f525-4a50-a4e1-b3e2ae0196c0
+#https://linears2-playback.astro.com.my/vsg/41ash7lbsUi78r8jXwFplrxbhvDjrjj_tV2iEwwLpscNk=oBys/dash-wv/jitp-dashisowm/5099/default_primary.mpd
 
 
 #EXTINF:-1 tvg-id="804.astro" ch-number="804" group-title="SPORTS" tvg-id="AstroArenaBola2" ch-number="804" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroArenaBola2_2024.png",Astro Arena Bola 2 ✔️
@@ -231,7 +232,7 @@ https://linears2-playback.astro.com.my/vsg/41ash7lbsUi78r8jXwFplrxbhvDjrjj_tV2iE
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"se/6nlHPOLOuZ2vCZJN++w","kid":"Yqe3kXqtUSPNTfZcVhxwEA"}],"type":"temporary"}
-https://linears2-playback.astro.com.my/vsg/41MgBaHiGOMRqSD5DdExatgRxssM2y1Udp644d-76eD2o=0vxV/dash-wv/jitp-linearwm/5100/default_primary.mpd
+https://linears2-playback.astro.com.my/vsg/41MgBaHiGOMRqSD5DdExatgWw6brv0q_R6OA2_XVdKUp0=ZV8t/dash-wv/jitp-linearwm/5100/default_ott.mpd
 
 
 #EXTINF:-1 tvg-id="AstroPremierLeague" tvg-id="AstroPremierLeague" tvg-name="APL HD" ch-number="AstroPremierLeague" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroPremierLeague_2024.png" group-title="SPORTS",Astro Premier League ✔️
@@ -240,7 +241,8 @@ https://linears2-playback.astro.com.my/vsg/41MgBaHiGOMRqSD5DdExatgRxssM2y1Udp644
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"TxVBP35HZ7UMSOGbf5ovzA","kid":"90mrcfInmZv7CY9zNZqsEA"}],"type":"temporary"}
-https://linears2-playback.astro.com.my/vsg/41F6V0uNNltR5cOUI1UbUwt6qGDm1ttEIwmkcpH9nn6ek=-u4_/dash-wv/jitp-dashisowm/601/default_primary.mpd
+https://53308ba99bd1418388e4bff908902bf9.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/ceb8322ae2e84c32cb0fce196fdc60100025ab50/MT-CH26-dash/vsg/41QyrsSctv3qJnL9wLSXoAhRHncxPjC4w6fj-tZY73QlA=qHRb/dash-wv/jitp-dashisowm/601/default_ott.mpd?aws.sessionId=3ba166b1-820a-4aaf-b9d3-0d551fa5a4d8
+#https://linears2-playback.astro.com.my/vsg/41F6V0uNNltR5cOUI1UbUwt6qGDm1ttEIwmkcpH9nn6ek=-u4_/dash-wv/jitp-dashisowm/601/default_primary.mpd
 
 
 #EXTINF:-1 tvg-id="AstroPremierLeague2" tvg-name="AstroPremierLeague2" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroPremierLeague2_2024.png" group-title="SPORTS",Astro Premier League 2 ✔️
@@ -249,14 +251,16 @@ https://linears2-playback.astro.com.my/vsg/41F6V0uNNltR5cOUI1UbUwt6qGDm1ttEIwmkc
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"3fpujVSbTVF3qcref5oLIw","kid":"wdyS8HifESUDwNs73i8SEA"}],"type":"temporary"}
-https://linears2-playback.astro.com.my/vsg/41YHh18iXEh79k9E5H3nHU19XgxJlQw_rNWYu8TE1I0RM=DEJ3/dash-wv/jitp-dashisowm/2104/default_primary.mpd
+https://09494360a707453480cd47f514ea1800.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/ceb8322ae2e84c32cb0fce196fdc60100025ab50/MT-CH27-dash/vsg/41Epg5nPwM_ARoRbhOwCk8d1wrgSWFj0_Tm28WYAE6-Oo=9IYb/dash-wv/jitp-dashisowm/2104/default_ott.mpd?aws.sessionId=6a00cff4-13b0-408e-aaf0-0b6f1cf646d9
+#https://linears2-playback.astro.com.my/vsg/41YHh18iXEh79k9E5H3nHU19XgxJlQw_rNWYu8TE1I0RM=DEJ3/dash-wv/jitp-dashisowm/2104/default_primary.mpd
 
 
 #EXTINF:-1 tvg-id="815.astro" group-title="SPORTS" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/540_144.png",Astro Badminton ✔️
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"g3KLRwGavbs3qjbtXylRvQ", "kid":"b/DgQNVE7D8CJDhlmQ8MEA" } ], "type":"temporary" }
 #EXTHTTP:{"User-agent":"Mozilla/5.0 (Linux; Android 10; Astro UHD 4K Build/1.0)"}
-https://linears2-playback.astro.com.my/vsg/41Banf4co-1AIaNUmE_3PI1kHxsL7xO0Bs5PzJY-w4ltk=W-aS/dash-wv/jitp-dashisowm/5170/default_primary.mpd
+https://11d1b8e3842949bcbcf26e20ed80c3d3.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/ceb8322ae2e84c32cb0fce196fdc60100025ab50/MT-CH32-dash/vsg/413N5LEw_lKjkGToeV7V5dnmYo7wcEKQsYXNd-S2qVa-Q=_wDl/dash-wv/jitp-dashisowm/5170/default_ott.mpd?aws.sessionId=b4351dd4-9529-4907-98a9-870f992e307d
+#https://linears2-playback.astro.com.my/vsg/41Banf4co-1AIaNUmE_3PI1kHxsL7xO0Bs5PzJY-w4ltk=W-aS/dash-wv/jitp-dashisowm/5170/default_primary.mpd
 
 ------------------------------------------------------Vidio Sports-----------------------------------------------------------------
 
