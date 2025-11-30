@@ -267,8 +267,7 @@ https://tvmalaysia.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/ceb8322ae2e8
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"3fpujVSbTVF3qcref5oLIw","kid":"wdyS8HifESUDwNs73i8SEA"}],"type":"temporary"}
-https://tvmalaysia.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/ceb8322ae2e84c32cb0fce196fdc60100025ab50/MT-CH24-dash/vsg/41YGd-Qve6dwybBDFLxCGCIOu2r_1HHSg0nHGGiOGOnZU=LV9S/dash-wv/jitp-dashisowm/2104/default_ott.mpd?aws.sessionId=b1e857d1-4ebc-4bce-8518-a8d6fbf92502
-#https://linears2-playback.astro.com.my/vsg/41YHh18iXEh79k9E5H3nHU19XgxJlQw_rNWYu8TE1I0RM=DEJ3/dash-wv/jitp-dashisowm/2104/default_primary.mpd
+https://linears2-playback.astro.com.my/vsg/41YHh18iXEh79k9E5H3nHU15OzlAyiozT8IjZqzbsMgnk=2XuR/dash-wv/jitp-linearwm/2104/default_primary.mpd
 
 
 #EXTINF:-1 tvg-id="815.astro" group-title="SPORTS" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/540_144.png",Astro Badminton ✔️
