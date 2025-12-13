@@ -139,6 +139,20 @@ KODIPROP:inputstream.adaptive.license_type=clearkey
 https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(TV3)/master.mpd
 
 
+==================================== Hub Premier Sport============================================
+
+
+#EXTINF:-1 group-title="Hub Premier Sport" tvg-logo="https://iili.io/FtSr5Mb.jpg", Hub Premier  1
+https://raw.githubusercontent.com/B-inal-123/s-asia/inal-22/HubsportPL1.m3u8
+#EXTINF:-1 group-title="Hub Premier Sport " tvg-logo="https://iili.io/FtSr5Mb.jpg", Hub Premier  2
+https://raw.githubusercontent.com/B-inal-123/s-asia/inal-22/HubsportPL2.m3u8
+#EXTINF:-1 group-title="Hub Premier Sport " tvg-logo="https://iili.io/FtSr5Mb.jpg", Hub Premier  3
+https://raw.githubusercontent.com/B-inal-123/s-asia/inal-22/HubsportPL3.m3u8
+#EXTINF:-1 group-title="Hub Premier Sport " tvg-logo="https://iili.io/FtSr5Mb.jpg", Hub Premier  4
+https://raw.githubusercontent.com/B-inal-123/s-asia/inal-22/HubsportPL4.m3u8
+#EXTINF:-1 group-title="Hub Premier Sport " tvg-logo="https://iili.io/FtSr5Mb.jpg", Hub Premier  5
+https://raw.githubusercontent.com/B-inal-123/s-asia/inal-22/HubsportPL5.m3u8
+
 
 ========================================================= UNIFI Rocket TV ======================================================
 
