@@ -1156,7 +1156,7 @@ https://get.perfecttv.net/jwt.mpd?username=vip_vjwcvhsz&password=5Tm80txU&channe
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"N2sAl5bkrVDqj2jXlmdmkg", "kid":"P3Jv1cu/WURDek2/q0MbEA" } ], "type":"temporary" }
-https://linears2-playback.astro.com.my/vsg/41qqwRwR1sE1YPH4TYw1bw-aG3zNkfCzzuIk25P7-TLEU=34JA/dash-wv/jitp-linearwm/1004/default_primary.mpd
+https://linears2-playback.astro.com.my/vsg/41c7riwelwfXS5JZAAsR45NM5uiSG-bO2R7KfQhFfQFiU=rS6N/dash-wv/jitp-linearwm/1004/default_primary.mpd
 
 w3
 ##EXTINF:-1 tvg-id="107.astro" ch-number="107" group-title="Astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png",Astro Warna HD
