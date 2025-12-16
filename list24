@@ -84,9 +84,8 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/809/default_primary.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"PWOFXKXN/Pt2XzBrmLzGRg", "kid":"zkNkGgYaRPudldmGz8mmjw" } ], "type":"temporary" }
-#EXTVLCOPT:http-user-agent=User-Agent: Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
-https://linearjitp-playback.astro.com.my/dash-wv/linear/809/default_primary.mpd
-#https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(TV3)/master.mpd
+https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(TV3)/master.mpd
+#https://linearjitp-playback.astro.com.my/dash-wv/linear/809/default_primary.mpd
 #https://manifest.bapok.best/UnifiTV/TV3.mpd
 
 #EXTINF:-1 tvg-id="TV3" ch-number="103" tvg-name="TV3" group-title="MALAYSIA" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png",103 TV3 FHD Server 1
