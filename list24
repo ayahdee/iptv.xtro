@@ -139,7 +139,7 @@ https://live-ssar-01.tonton.com.my/stream-tv3/master_540.m3u8?bpkio_serviceid=6c
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"ce43641a061a44fb9d95d986cfc9a68f": "3d63855ca5cdfcfb765f306b98bcc646"}
+#KODIPROP:inputstream.adaptive.license_key={"ce43641a061a44fb9d95d986cfc9a68f":"3d63855ca5cdfcfb765f306b98bcc646"}
 https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(TV3)/master.mpd
 
 
