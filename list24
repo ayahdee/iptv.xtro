@@ -143,62 +143,6 @@ https://live-ssar-01.tonton.com.my/stream-tv3/master_540.m3u8?bpkio_serviceid=6c
 https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(TV3)/master.mpd
 
 
-==================================== Hub Premier Sport============================================
-
-
-#EXTINF:-1 group-title="Hub Premier Sport" tvg-logo="https://iili.io/FtSr5Mb.jpg", Hub Premier  1
-https://raw.githubusercontent.com/B-inal-123/s-asia/inal-22/HubsportPL1.m3u8
-#EXTINF:-1 group-title="Hub Premier Sport " tvg-logo="https://iili.io/FtSr5Mb.jpg", Hub Premier  2
-https://raw.githubusercontent.com/B-inal-123/s-asia/inal-22/HubsportPL2.m3u8
-#EXTINF:-1 group-title="Hub Premier Sport " tvg-logo="https://iili.io/FtSr5Mb.jpg", Hub Premier  3
-https://raw.githubusercontent.com/B-inal-123/s-asia/inal-22/HubsportPL3.m3u8
-#EXTINF:-1 group-title="Hub Premier Sport " tvg-logo="https://iili.io/FtSr5Mb.jpg", Hub Premier  4
-https://raw.githubusercontent.com/B-inal-123/s-asia/inal-22/HubsportPL4.m3u8
-#EXTINF:-1 group-title="Hub Premier Sport " tvg-logo="https://iili.io/FtSr5Mb.jpg", Hub Premier  5
-https://raw.githubusercontent.com/B-inal-123/s-asia/inal-22/HubsportPL5.m3u8
-
-==================================== SEA Games 2025 ============================================
-
-#EXTINF:-1 tvg-id="SEA" ch-number="103" tvg-name="SEA Games" group-title="SEA Games 2025" tvg-logo=" ",SEA Games 1
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"3A2p/frjxpwyK2fbIHqHoQ", "kid":"GoPuCI5TQ9CVrH9NjTzZRQ" } ], "type":"temporary" }
-#EXTVLCOPT:http-user-agent=User-Agent: Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
-https://ls-mp03.eo-edgefunctions7.com/out/v1/7cfe6d15c127407588568af9f4574a21/manifest.mpd
-
-#EXTINF:-1 tvg-id="SEA" ch-number="103" tvg-name="SEA Games" group-title="SEA Games 2025" tvg-logo=" ",SEA Games 2
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"1vWmdQsy0q3ewMmP/xTenQ", "kid":"bJw4wt4/Qa+hL5hyrWw5Aw" } ], "type":"temporary" }
-#EXTVLCOPT:http-user-agent=User-Agent: Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
-https://ls-mp01.eo-edgefunctions7.com/out/v1/5fa3fdc8720b4317b14df756e81b78c1/manifest.mpd
-
-#EXTINF:-1 tvg-id="SEA" ch-number="103" tvg-name="SEA Games" group-title="SEA Games 2025" tvg-logo=" ",SEA Games 3
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"ACi0fKYFlJkZEMb2BIxRoA", "kid":"PaGX0T11RQWIegSu3ReSLg" } ], "type":"temporary" }
-#EXTVLCOPT:http-user-agent=User-Agent: Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
-https://ls-mp02.eo-edgefunctions7.com/out/v1/2f39077458694b06bdfb15ef16f55d45/manifest.mpd
-
-#EXTINF:-1 tvg-id="SEA" ch-number="103" tvg-name="SEA Games" group-title="SEA Games 2025" tvg-logo=" ",SEA Games 4
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"VbftTMJfpHb2aCxEevEo1Q", "kid":"6h9/hnMtR+iX44wxaIUVaQ" } ], "type":"temporary" }
-#EXTVLCOPT:http-user-agent=User-Agent: Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
-https://ls-mp04.eo-edgefunctions7.com/out/v1/4604623e7ff4462a962275664ccd8ee5/manifest.mpd
-
-#EXTINF:-1 tvg-id="SEA" ch-number="103" tvg-name="SEA Games" group-title="SEA Games 2025" tvg-logo=" ",SEA Games 5
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"r48cas7cNFUagvO7Sa396g", "kid":"k9zLOPjITUSNWnQi60RGKw" } ], "type":"temporary" }
-#EXTVLCOPT:http-user-agent=User-Agent: Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
-https://ls-mp03.eo-edgefunctions7.com/out/v1/926637c1aba44cffa74adc74bf786816/manifest.mpd
-
 
 ========================================================= UNIFI Rocket TV ======================================================
 
