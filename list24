@@ -4200,6 +4200,26 @@ http://216.132.70.171:8080/live/vip_3klp0es8/wg3piwEs/2686.ts?channel=privehd
 #http://119.156.26.155:8000/play/a07j/index.m3u8
 #####http://opplex.tv:8080//live/83212539/43153928/66228.m3u8
 
+#EXTINF:-1 cuid="1300" tvg-name="IFC Films Picks 🇺🇸" tvg-id="5e20b730f2f8d5003d739db7-5fc705eb052f6f002ef46057" tvg-logo="https://provider-static.plex.tv/9/epg/channels/logos/gracenote/956bc5f750ddad6a83cc2411a447a984.png" group-title="​MOVIES",IFC Films Picks
+https://bit.ly/3T2BL51?5e20b730f2f8d5003d739db7-5fc705eb052f6f002ef46057.m3u8
+
+#EXTINF:-1 cuid="1301" tvg-name="AMC Thrillers 🇺🇸" tvg-id="5e20b730f2f8d5003d739db7-5fc705e2a2236e002d69f36d" tvg-logo="https://provider-static.plex.tv/6/epg/channels/logos/gracenote/6e7af423114c9f735d17e142783f233a.png" group-title="​MOVIES",AMC Thrillers
+https://436f59579436473e8168284cac5d725f.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_RushByAMC/playlist.m3u8
+
+#EXTINF:-1 cuid="1309" tvg-name="FrightFlix 🇺🇸" tvg-id="5e20b730f2f8d5003d739db7-621674502c2627c068e73ada" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/FrightFlix.webp" group-title="​MOVIES",FrightFlix
+https://b81ea6a237a99f732a8a56c17e6e1733.7wzuvg.channel-assembly.mediatailor.us-east-1.amazonaws.com/v1/channel/Frightflix_Loop_no-link/index-frightflix-nolink.m3u8
+
+#EXTINF:-1 cuid="1310" tvg-name="Horror Machine 🇺🇸" tvg-id="Horror.Machine.distro" tvg-logo="https://a.jsrdn.com/hls/22930/horror-machine/logo_20210423_225948_70.png" group-title="​MOVIES",Horror Machine 
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/horrormachine/playlist.m3u8
+
+#EXTINF:-1 cuid="1311" tvg-name="Horror Machine 🇺🇸" tvg-id="Horror.Machine.distro" tvg-logo="https://a.jsrdn.com/hls/22930/horror-machine/logo_20210423_225948_70.png" group-title="​MOVIES",Horror Machine Backup
+
+#EXTINF:-1 cuid="1316" tvg-name="Dread TV" tvg-id="plex.tv.DREAD.TV.plex" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a6d258ed-919b-46ed-adf8-1a353e9ef463/Dread_TV_3840x2160.jpg" group-title="​MOVIES",Dread TV
+https://144e50b7e9394d05a44271af655445f9.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/TCLTVPlus_DreadTV/playlist.m3u8
+
+#EXTINF:-1 cuid="1317" tvg-name="Scares by Shudder" tvg-id="plex.tv.Scares.by.Shudder.plex" tvg-logo="https://provider-static.plex.tv/epg/cms/production/af69a56a-b26a-42d5-8978-176bbace29a8/SHUD_FastChanel_Plex_HorizontalArt_3840x2160.jpg" group-title="​MOVIES",Scares by Shudde
+https://e9ee87fcc9f2409f998e7aa106f64672.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Vizio_ScaresbyShudder/playlist.m3u8
+
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=33333f38930949b1af65b3361ad80d1d:b159847f9af0500738b01e91cf023e30
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
