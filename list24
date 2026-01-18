@@ -4168,9 +4168,9 @@ http://streaming-hwc.ch7.com/livech7hd/HD_1080p.m3u8
 
 #########################################################MOVIES#######################################################################################################
 
-#EXTINF:-1 group-logo="https://iili.io/2AgXmOX.png" group-title="MOVIES"
 
-#EXTINF:-1 tvg-id="32" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/SonyPixV3.png" group-title="MOVIES",Sony Pix ᴴᴰ
+
+#EXTINF:-1 group-logo="https://iili.io/2AgXmOX.png" tvg-id="32" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/SonyPixV3.png" group-title="MOVIES",Sony Pix ᴴᴰ
 http://216.132.70.171:8080/live/vip_3klp0es8/wg3piwEs/2688.ts?channel=pix
 #http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2688.ts?channel=pix
 #https://tataplay.slivcdn.com/hls/live/2011748/PIXHD/master.m3u8
