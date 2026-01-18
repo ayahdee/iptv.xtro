@@ -4349,10 +4349,11 @@ https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/114/345114-LOGO-m.png" group-title="MOVIES",Studio Universal ᴴᴰ
 #KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b4a7b3289eff493d8700becf2e2a1157:bfbcfcb8137dd565a7f4b5ce7800c1f0
-https://d84q7nw4qf3j3.cloudfront.net/out/v1/dc63bd198bc44193b570e0567ff5b22c/index.mpd
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+https://fta1-cdn-flr.visionplus.id/out/v1/dc63bd198bc44193b570e0567ff5b22c/index.mpd
 
 
 
@@ -4408,7 +4409,7 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/3c619ecc120b46e999d1eaa627cc544f/in
 https://fta2-cdn-flr.visionplus.id/out/v1/3c619ecc120b46e999d1eaa627cc544f/index.mpd
 
 
-#EXTINF:-1 tvg-id="Studio Universal.id" tvg-logo="https://pictr.com/images/2025/01/23/xpbYXO.jpg" group-title="MOVIES;INDIHOMETV" ,Studio Universal ᴴᴰ
+###EXTINF:-1 tvg-id="Studio Universal.id" tvg-logo="https://pictr.com/images/2025/01/23/xpbYXO.jpg" group-title="MOVIES;INDIHOMETV" ,Studio Universal ᴴᴰ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 #KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/dash+xml
