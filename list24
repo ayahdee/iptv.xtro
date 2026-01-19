@@ -802,7 +802,7 @@ https://get.perfecttv.net/1080.mpd?channel=wsportfhd&username=vip_3klp0es8&passw
 
 
 #EXTINF:-1 tvg-id="105.astro" ch-number="105" group-title="Astro" tvg-id="AstroPrima" ch-number="105" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Prima_v1.png",Astro Prima HD (Sooka)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
+#EXTVLCOPT:http-user-agent=com.astro.sookadongle/25.03.12 Dalvik/2.1.0 (Linux; U; Android 12; sooka-TV-v1 Build/STT5.220127.002)
 #EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3Njg4MDc2MzQsImlzcyI6IlZSIiwiZXhwIjoxNzY4ODYxODAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiOTUxNjk5ZWYtMzk0ZS00NDdmLTg5MzAtNjIyZDExNWQxZTg4IiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9MjE2MCl8fCh0eXBlPT1cImF1ZGlvXCImJmZvdXJDQyE9XCJhYy0zXCIpfHwodHlwZSE9XCJ2aWRlb1wiJiZ0eXBlIT1cImF1ZGlvXCIpIiwicGF0dGVybiI6IjEwMDAifQ.ADI74IbEs_9bTZKfnFJ1_HouyyooTj_3l1uun-aZlh4"}
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
